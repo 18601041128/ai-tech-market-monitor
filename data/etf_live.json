@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-09-28T12:24:39+08:00",
+  "fetched_at": "2026-09-28T12:39:11+08:00",
   "trading_date": "2026-09-28",
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 2,
-    "single_source": 25,
+    "verified_2_sources": 1,
+    "single_source": 26,
     "data_conflict": 0,
     "failed": 0
   },
@@ -29,8 +29,8 @@
       "prev_close": 1.18,
       "volume_raw": 2474206.0,
       "amount": 280474528.7,
-      "turnover_pct": 15.02,
-      "source_time": "2026-09-28T12:24:06+08:00",
+      "turnover_pct": 15.26,
+      "source_time": "2026-09-28T12:39:06+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "tencent",
@@ -60,7 +60,7 @@
           "role": "holding"
         }
       ],
-      "source": "eastmoney",
+      "source": "tencent",
       "price": 403.54,
       "pct": -7.23,
       "change": -31.46,
@@ -69,18 +69,11 @@
       "low": 398.68,
       "prev_close": 435.0,
       "volume_raw": 263949.0,
-      "amount": 10874934265.96,
+      "amount": 10874930000.0,
       "turnover_pct": 2.1,
-      "source_time": "2026-09-28T12:24:03+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "tencent",
-        "secondary_price": 403.54,
-        "secondary_pct": -7.23,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-09-28T12:05:03+08:00"
-      },
+      "source_time": "2026-09-28T12:05:03+08:00",
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-09-28"
     },
     "300308": {
