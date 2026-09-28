@@ -4,9 +4,28 @@ on:
   workflow_dispatch:
 
   schedule:
-    # GitHub cron 使用 UTC
-    # 北京时间 09:00-15:59，工作日每5分钟运行一次
-    - cron: "*/5 1-7 * * 1-5"
+    # 全部为 UTC，对应北京时间如下：
+
+    # 08:25 盘前历史数据准备
+    - cron: "25 0 * * 1-5"
+
+    # 09:35
+    - cron: "35 1 * * 1-5"
+
+    # 10:05、10:35
+    - cron: "5,35 2 * * 1-5"
+
+    # 11:05、11:35
+    - cron: "5,35 3 * * 1-5"
+
+    # 13:05、13:35
+    - cron: "5,35 5 * * 1-5"
+
+    # 14:05、14:35
+    - cron: "5,35 6 * * 1-5"
+
+    # 15:05
+    - cron: "5 7 * * 1-5"
 
 permissions:
   contents: write
@@ -17,10 +36,13 @@ concurrency:
 
 jobs:
   update-market:
+
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+
+    timeout-minutes: 8
 
     steps:
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -29,25 +51,59 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Fetch market data
+      - name: Fetch live market data
         run: |
           python fetch_market.py
 
-      - name: Show result
+      - name: Save scheduled snapshot
         run: |
-          echo "===== Market JSON ====="
-          cat data/etf_live.json
+          python save_snapshot.py
 
-      - name: Commit updated market data
+      - name: Update historical indicators
+        run: |
+          python fetch_history.py
+
+      - name: Show live data status
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          p = Path("data/etf_live.json")
+          d = json.loads(p.read_text(encoding="utf-8"))
+
+          print("Fetched:", d.get("fetched_at"))
+          print("Counts:", d.get("counts"))
+
+          for code in [
+              "159381",
+              "588000",
+              "588230",
+              "588200",
+              "515880",
+              "562500",
+              "516510"
+          ]:
+              q = d["quotes"].get(code, {})
+              print(
+                  code,
+                  q.get("price"),
+                  q.get("pct"),
+                  q.get("status"),
+                  q.get("source_time")
+              )
+          PY
+
+      - name: Commit market data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/etf_live.json
+          git add data/
 
           if git diff --cached --quiet; then
             echo "No data changes"
           else
-            git commit -m "Update market data"
+            git commit -m "Update market monitoring data"
             git push
           fi
