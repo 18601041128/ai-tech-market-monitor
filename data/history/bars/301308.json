@@ -787,10 +787,10 @@
     {
       "date": "2026-09-28",
       "open": 330.12,
-      "close": 313.18,
+      "close": 312.0,
       "high": 330.86,
-      "low": 311.56,
-      "volume": 63020.0,
+      "low": 311.51,
+      "volume": 90408.0,
       "amount": null,
       "amplitude_pct": null,
       "pct": null,
