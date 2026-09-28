@@ -1,0 +1,97 @@
+{
+  "etfs": [
+    {
+      "code": "159381",
+      "name": "创业板人工智能ETF华夏",
+      "market": "SZ",
+      "theme": "AI_CPO_存储",
+      "stocks": [
+        {"code": "300502", "name": "新易盛", "type": "holding"},
+        {"code": "300308", "name": "中际旭创", "type": "holding"},
+        {"code": "301308", "name": "江波龙", "type": "holding"}
+      ]
+    },
+    {
+      "code": "515880",
+      "name": "通信ETF国泰",
+      "market": "SH",
+      "theme": "通信_CPO",
+      "stocks": [
+        {"code": "300502", "name": "新易盛", "type": "holding"},
+        {"code": "300308", "name": "中际旭创", "type": "holding"},
+        {"code": "601138", "name": "工业富联", "type": "holding"}
+      ]
+    },
+    {
+      "code": "562500",
+      "name": "机器人ETF华夏",
+      "market": "SH",
+      "theme": "机器人_自动化",
+      "stocks": [
+        {"code": "002008", "name": "大族激光", "type": "holding"},
+        {"code": "300124", "name": "汇川技术", "type": "holding"},
+        {"code": "002050", "name": "三花智控", "type": "holding"}
+      ]
+    },
+    {
+      "code": "516510",
+      "name": "云计算ETF易方达",
+      "market": "SH",
+      "theme": "云计算_AI算力",
+      "stocks": [
+        {"code": "002230", "name": "科大讯飞", "type": "holding"},
+        {"code": "603019", "name": "中科曙光", "type": "holding"},
+        {"code": "000977", "name": "浪潮信息", "type": "holding"}
+      ]
+    },
+    {
+      "code": "588200",
+      "name": "科创芯片ETF",
+      "market": "SH",
+      "theme": "半导体_芯片",
+      "stocks": [
+        {"code": "002371", "name": "北方华创", "type": "proxy"},
+        {"code": "600584", "name": "长电科技", "type": "proxy"},
+        {"code": "002156", "name": "通富微电", "type": "proxy"}
+      ]
+    },
+    {
+      "code": "588000",
+      "name": "科创50ETF",
+      "market": "SH",
+      "theme": "科创核心资产",
+      "stocks": [
+        {"code": "002371", "name": "北方华创", "type": "proxy"},
+        {"code": "603019", "name": "中科曙光", "type": "proxy"},
+        {"code": "601138", "name": "工业富联", "type": "proxy"}
+      ]
+    },
+    {
+      "code": "588230",
+      "name": "科创200ETF",
+      "market": "SH",
+      "theme": "中小科创_高弹性科技",
+      "stocks": [
+        {"code": "000988", "name": "华工科技", "type": "proxy"},
+        {"code": "002281", "name": "光迅科技", "type": "proxy"},
+        {"code": "300570", "name": "太辰光", "type": "proxy"}
+      ]
+    }
+  ],
+
+  "indices": [
+    {"code": "000001", "name": "上证指数", "market": "SH"},
+    {"code": "399001", "name": "深证成指", "market": "SZ"},
+    {"code": "399006", "name": "创业板指", "market": "SZ"},
+    {"code": "000688", "name": "科创50", "market": "SH"}
+  ],
+
+  "settings": {
+    "timezone": "Asia/Shanghai",
+    "update_interval_minutes": 5,
+    "market_open_am": "09:30",
+    "market_close_am": "11:30",
+    "market_open_pm": "13:00",
+    "market_close_pm": "15:00"
+  }
+}
