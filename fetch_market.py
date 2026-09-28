@@ -1,7 +1,7 @@
 import json
-import time
 import urllib.parse
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -16,12 +16,10 @@ UA = (
     "AppleWebKit/537.36 Chrome/130 Safari/537.36"
 )
 
-# 东方财富多个备用节点
+# 东方财富只用于ETF第二核验，避免拖慢全部27个标的
 EM_HOSTS = [
     "https://push2.eastmoney.com",
     "https://push2delay.eastmoney.com",
-    "https://82.push2.eastmoney.com",
-    "https://91.push2.eastmoney.com",
 ]
 
 EM_FIELDS = (
@@ -36,18 +34,21 @@ def now_cn():
     return datetime.now(TZ)
 
 
-def http_text(url, encoding="utf-8", timeout=8):
+def http_text(url, encoding="utf-8", timeout=3):
     req = urllib.request.Request(
         url,
         headers={
             "User-Agent": UA,
-            "Referer": "https://quote.eastmoney.com/",
             "Accept": "*/*",
+            "Referer": "https://quote.eastmoney.com/",
         },
     )
 
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode(encoding, errors="replace")
+        return r.read().decode(
+            encoding,
+            errors="replace"
+        )
 
 
 def to_float(v):
@@ -56,7 +57,7 @@ def to_float(v):
 
     try:
         return float(v)
-    except (TypeError, ValueError):
+    except Exception:
         return None
 
 
@@ -69,24 +70,33 @@ def normalize_vendor_time(v):
     try:
         if s.isdigit() and len(s) == 14:
             dt = datetime.strptime(
-                s, "%Y%m%d%H%M%S"
+                s,
+                "%Y%m%d%H%M%S"
             ).replace(tzinfo=TZ)
 
-            return dt.isoformat(timespec="seconds")
+            return dt.isoformat(
+                timespec="seconds"
+            )
 
         if s.isdigit() and len(s) == 12:
             dt = datetime.strptime(
-                s, "%Y%m%d%H%M"
+                s,
+                "%Y%m%d%H%M"
             ).replace(tzinfo=TZ)
 
-            return dt.isoformat(timespec="seconds")
+            return dt.isoformat(
+                timespec="seconds"
+            )
 
         if s.isdigit() and len(s) == 10:
             dt = datetime.fromtimestamp(
-                int(s), tz=TZ
+                int(s),
+                tz=TZ
             )
 
-            return dt.isoformat(timespec="seconds")
+            return dt.isoformat(
+                timespec="seconds"
+            )
 
     except Exception:
         pass
@@ -95,172 +105,134 @@ def normalize_vendor_time(v):
 
 
 def eastmoney_secid(item):
-    prefix = "1." if item["market"] == "SH" else "0."
+    prefix = (
+        "1."
+        if item["market"] == "SH"
+        else "0."
+    )
+
     return prefix + item["code"]
 
 
 def tencent_symbol(item):
-    prefix = "sh" if item["market"] == "SH" else "sz"
+    prefix = (
+        "sh"
+        if item["market"] == "SH"
+        else "sz"
+    )
+
     return prefix + item["code"]
 
 
-def fetch_eastmoney(item):
+def build_universe(cfg):
+    universe = {}
 
-    params = urllib.parse.urlencode(
-        {
-            "secid": eastmoney_secid(item),
-            "fields": EM_FIELDS,
-            "fltt": "2",
-            "invt": "2",
-            "ut": EM_UT,
+    for etf in cfg["etfs"]:
+
+        code = etf["code"]
+
+        universe[code] = {
+            "code": code,
+            "name": etf["name"],
+            "market": etf["market"],
+            "kind": "etf",
+            "theme": etf.get("theme"),
+            "relations": [],
         }
-    )
 
-    last_error = None
+        for stock in etf.get("stocks", []):
 
-    for host in EM_HOSTS:
+            code = stock["code"]
 
-        try:
-
-            url = f"{host}/api/qt/stock/get?{params}"
-
-            raw = http_text(url)
-
-            payload = json.loads(raw)
-
-            d = payload.get("data") or {}
-
-            price = to_float(d.get("f43"))
-
-            if not d or price is None or price <= 0:
-                raise ValueError("empty/invalid quote")
-
-            return {
-                "source": "eastmoney",
-
-                "code": str(
-                    d.get("f57") or item["code"]
-                ),
-
-                "name": (
-                    d.get("f58")
-                    or item["name"]
-                ),
-
-                "price": price,
-
-                "pct": to_float(
-                    d.get("f170")
-                ),
-
-                "change": to_float(
-                    d.get("f169")
-                ),
-
-                "open": to_float(
-                    d.get("f46")
-                ),
-
-                "high": to_float(
-                    d.get("f44")
-                ),
-
-                "low": to_float(
-                    d.get("f45")
-                ),
-
-                "prev_close": to_float(
-                    d.get("f60")
-                ),
-
-                "volume_raw": to_float(
-                    d.get("f47")
-                ),
-
-                "amount": to_float(
-                    d.get("f48")
-                ),
-
-                "turnover_pct": to_float(
-                    d.get("f168")
-                ),
-
-                "source_time":
-                    normalize_vendor_time(
-                        d.get("f86")
+            if code not in universe:
+                universe[code] = {
+                    "code": code,
+                    "name": stock["name"],
+                    "market": (
+                        "SH"
+                        if code.startswith("6")
+                        else "SZ"
                     ),
-            }
+                    "kind": "stock",
+                    "theme": None,
+                    "relations": [],
+                }
 
-        except Exception as e:
+            universe[code][
+                "relations"
+            ].append(
+                {
+                    "parent_etf":
+                        etf["code"],
+                    "parent_name":
+                        etf["name"],
+                    "role":
+                        stock.get(
+                            "type",
+                            "holding"
+                        ),
+                }
+            )
 
-            last_error = str(e)
+    for idx in cfg.get("indices", []):
 
-            continue
+        universe[
+            idx["code"]
+        ] = {
+            "code": idx["code"],
+            "name": idx["name"],
+            "market": idx["market"],
+            "kind": "index",
+            "theme": "benchmark",
+            "relations": [],
+        }
 
-    raise RuntimeError(
-        last_error or "Eastmoney failed"
+    return list(universe.values())
+
+
+# =========================================================
+# 腾讯：一次请求批量抓取全部标的
+# =========================================================
+
+def parse_tencent_line(line):
+
+    if '"' not in line:
+        return None, None
+
+    left, right = line.split('"', 1)
+
+    symbol = (
+        left.replace("v_", "")
+        .replace("=", "")
+        .strip()
     )
 
-
-def fetch_tencent(item):
-
-    symbol = tencent_symbol(item)
-
-    url = f"https://qt.gtimg.cn/q={symbol}"
-
-    text = http_text(
-        url,
-        encoding="gbk"
-    )
-
-    if '"' not in text:
-        raise ValueError(
-            "invalid Tencent response"
-        )
-
-    body = (
-        text.split('"', 1)[1]
-        .rsplit('"', 1)[0]
-    )
+    body = right.rsplit('"', 1)[0]
 
     f = body.split("~")
 
     if len(f) < 35:
-        raise ValueError(
-            "Tencent fields too short"
-        )
+        return symbol, None
 
     price = to_float(f[3])
 
     if price is None or price <= 0:
-        raise ValueError(
-            "empty/invalid quote"
-        )
+        return symbol, None
 
     amount = None
 
     if len(f) > 37:
-
         amount_wan = to_float(f[37])
 
         if amount_wan is not None:
+            amount = amount_wan * 10000
 
-            amount = (
-                amount_wan * 10000
-            )
-
-    return {
+    quote = {
         "source": "tencent",
 
-        "code": (
-            f[2]
-            or item["code"]
-        ),
+        "code": f[2],
 
-        "name": (
-            f[1]
-            or item["name"]
-        ),
+        "name": f[1],
 
         "price": price,
 
@@ -276,17 +248,15 @@ def fetch_tencent(item):
 
         "prev_close": to_float(f[4]),
 
-        "volume_raw":
-            to_float(f[6]),
+        "volume_raw": to_float(f[6]),
 
         "amount": amount,
 
-        "turnover_pct":
-            (
-                to_float(f[38])
-                if len(f) > 38
-                else None
-            ),
+        "turnover_pct": (
+            to_float(f[38])
+            if len(f) > 38
+            else None
+        ),
 
         "source_time":
             normalize_vendor_time(
@@ -294,35 +264,259 @@ def fetch_tencent(item):
             ),
     }
 
+    return symbol, quote
+
+
+def fetch_tencent_batch(universe):
+
+    symbols = [
+        tencent_symbol(item)
+        for item in universe
+    ]
+
+    url = (
+        "https://qt.gtimg.cn/q="
+        + ",".join(symbols)
+    )
+
+    text = http_text(
+        url,
+        encoding="gbk",
+        timeout=5,
+    )
+
+    results = {}
+
+    for line in text.splitlines():
+
+        symbol, quote = (
+            parse_tencent_line(line)
+        )
+
+        if not symbol or not quote:
+            continue
+
+        code = symbol[-6:]
+
+        results[code] = quote
+
+    return results
+
+
+# =========================================================
+# 东方财富：只核验7只ETF，且并发执行
+# =========================================================
+
+def fetch_eastmoney_fast(item):
+
+    params = urllib.parse.urlencode(
+        {
+            "secid":
+                eastmoney_secid(item),
+
+            "fields":
+                EM_FIELDS,
+
+            "fltt": "2",
+
+            "invt": "2",
+
+            "ut": EM_UT,
+        }
+    )
+
+    last_error = None
+
+    for host in EM_HOSTS:
+
+        try:
+
+            url = (
+                f"{host}/api/qt/"
+                f"stock/get?{params}"
+            )
+
+            raw = http_text(
+                url,
+                timeout=2
+            )
+
+            payload = json.loads(raw)
+
+            d = (
+                payload.get("data")
+                or {}
+            )
+
+            price = to_float(
+                d.get("f43")
+            )
+
+            if (
+                not d
+                or price is None
+                or price <= 0
+            ):
+                raise ValueError(
+                    "empty quote"
+                )
+
+            return {
+                "source":
+                    "eastmoney",
+
+                "code":
+                    str(
+                        d.get("f57")
+                        or item["code"]
+                    ),
+
+                "name":
+                    (
+                        d.get("f58")
+                        or item["name"]
+                    ),
+
+                "price":
+                    price,
+
+                "pct":
+                    to_float(
+                        d.get("f170")
+                    ),
+
+                "change":
+                    to_float(
+                        d.get("f169")
+                    ),
+
+                "open":
+                    to_float(
+                        d.get("f46")
+                    ),
+
+                "high":
+                    to_float(
+                        d.get("f44")
+                    ),
+
+                "low":
+                    to_float(
+                        d.get("f45")
+                    ),
+
+                "prev_close":
+                    to_float(
+                        d.get("f60")
+                    ),
+
+                "volume_raw":
+                    to_float(
+                        d.get("f47")
+                    ),
+
+                "amount":
+                    to_float(
+                        d.get("f48")
+                    ),
+
+                "turnover_pct":
+                    to_float(
+                        d.get("f168")
+                    ),
+
+                "source_time":
+                    normalize_vendor_time(
+                        d.get("f86")
+                    ),
+            }
+
+        except Exception as e:
+
+            last_error = str(e)
+
+    raise RuntimeError(
+        last_error
+        or "Eastmoney failed"
+    )
+
+
+def fetch_etf_crosschecks(universe):
+
+    etfs = [
+        x
+        for x in universe
+        if x["kind"] == "etf"
+    ]
+
+    results = {}
+    errors = {}
+
+    with ThreadPoolExecutor(
+        max_workers=7
+    ) as pool:
+
+        futures = {
+            pool.submit(
+                fetch_eastmoney_fast,
+                item
+            ): item
+            for item in etfs
+        }
+
+        for future in as_completed(
+            futures
+        ):
+
+            item = futures[future]
+
+            try:
+                results[
+                    item["code"]
+                ] = future.result()
+
+            except Exception as e:
+                errors[
+                    item["code"]
+                ] = str(e)
+
+    return results, errors
+
+
+# =========================================================
+# 数据合并和核验
+# =========================================================
 
 def price_tolerance(item, price):
 
-    # ETF严格执行我们约定的0.001元差异规则
     if item["kind"] == "etf":
         return 0.001
 
-    # 指数允许极小时间差
     if item["kind"] == "index":
         return max(
             0.5,
             price * 0.0002
         )
 
-    # 个股考虑不同数据源毫秒级差异
     return max(
         0.01,
         price * 0.0005
     )
 
 
-def merge_quotes(item, em, tx):
+def merge_quotes(
+    item,
+    tx,
+    em=None
+):
 
-    primary = em or tx
-
-    if not primary:
+    if tx is None and em is None:
         return None
 
-    result = dict(primary)
+    # 腾讯是快速稳定主源
+    result = dict(
+        tx if tx else em
+    )
 
     result["status"] = (
         "single_source"
@@ -330,29 +524,29 @@ def merge_quotes(item, em, tx):
 
     result["crosscheck"] = None
 
-    if em and tx:
+    if tx and em:
 
         price_diff = abs(
-            (em["price"] or 0)
-            - (tx["price"] or 0)
+            tx["price"]
+            - em["price"]
         )
 
-        ep = em.get("pct")
-        tp = tx.get("pct")
+        pct_diff = None
 
         if (
-            ep is not None
-            and tp is not None
+            tx.get("pct") is not None
+            and em.get("pct") is not None
         ):
-            pct_diff = abs(ep - tp)
-        else:
-            pct_diff = None
+            pct_diff = abs(
+                tx["pct"]
+                - em["pct"]
+            )
 
         conflict = (
             price_diff
             > price_tolerance(
                 item,
-                em["price"]
+                tx["price"]
             )
         )
 
@@ -362,8 +556,7 @@ def merge_quotes(item, em, tx):
         ):
             conflict = True
 
-        # 东方财富作为主记录
-        result = dict(em)
+        result = dict(tx)
 
         result["status"] = (
             "data_conflict"
@@ -372,15 +565,14 @@ def merge_quotes(item, em, tx):
         )
 
         result["crosscheck"] = {
-
             "secondary_source":
-                "tencent",
+                "eastmoney",
 
             "secondary_price":
-                tx.get("price"),
+                em.get("price"),
 
             "secondary_pct":
-                tx.get("pct"),
+                em.get("pct"),
 
             "price_diff":
                 round(
@@ -399,16 +591,16 @@ def merge_quotes(item, em, tx):
                 ),
 
             "secondary_source_time":
-                tx.get(
+                em.get(
                     "source_time"
                 ),
         }
 
-    result["source_date"] = None
-
     source_time = result.get(
         "source_time"
     )
+
+    result["source_date"] = None
 
     if (
         isinstance(
@@ -418,7 +610,6 @@ def merge_quotes(item, em, tx):
         and len(source_time) >= 10
         and source_time[4] == "-"
     ):
-
         result["source_date"] = (
             source_time[:10]
         )
@@ -426,112 +617,9 @@ def merge_quotes(item, em, tx):
     return result
 
 
-def build_universe(cfg):
-
-    universe = {}
-
-    # ETF + 对应龙头股
-    for etf in cfg["etfs"]:
-
-        code = etf["code"]
-
-        universe[code] = {
-
-            "code": code,
-
-            "name":
-                etf["name"],
-
-            "market":
-                etf["market"],
-
-            "kind": "etf",
-
-            "theme":
-                etf.get("theme"),
-
-            "relations": [],
-        }
-
-        for stock in etf.get(
-            "stocks", []
-        ):
-
-            code = stock["code"]
-
-            if code not in universe:
-
-                universe[code] = {
-
-                    "code": code,
-
-                    "name":
-                        stock["name"],
-
-                    "market":
-                        (
-                            "SH"
-                            if code.startswith("6")
-                            else "SZ"
-                        ),
-
-                    "kind": "stock",
-
-                    "theme": None,
-
-                    "relations": [],
-                }
-
-            universe[
-                code
-            ]["relations"].append(
-                {
-                    "parent_etf":
-                        etf["code"],
-
-                    "parent_name":
-                        etf["name"],
-
-                    "role":
-                        stock.get(
-                            "type",
-                            "holding"
-                        ),
-                }
-            )
-
-    # 指数
-    for idx in cfg.get(
-        "indices", []
-    ):
-
-        universe[
-            idx["code"]
-        ] = {
-
-            "code":
-                idx["code"],
-
-            "name":
-                idx["name"],
-
-            "market":
-                idx["market"],
-
-            "kind": "index",
-
-            "theme":
-                "benchmark",
-
-            "relations": [],
-        }
-
-    return list(
-        universe.values()
-    )
-
-
 def main():
+
+    started = now_cn()
 
     cfg = json.loads(
         CONFIG.read_text(
@@ -541,56 +629,47 @@ def main():
 
     universe = build_universe(cfg)
 
-    fetched_at = now_cn()
+    # 1. 腾讯批量抓全部27个
+    try:
+        tx_quotes = (
+            fetch_tencent_batch(
+                universe
+            )
+        )
+        tx_error = None
+
+    except Exception as e:
+        tx_quotes = {}
+        tx_error = str(e)
+
+    # 2. 东方财富只并发核验7只ETF
+    em_quotes, em_errors = (
+        fetch_etf_crosschecks(
+            universe
+        )
+    )
 
     rows = {}
-
     errors = {}
 
     for item in universe:
 
-        em = None
-        tx = None
+        code = item["code"]
 
-        em_error = None
-        tx_error = None
-
-        # 东方财富
-        try:
-
-            em = fetch_eastmoney(
-                item
-            )
-
-        except Exception as e:
-
-            em_error = str(e)
-
-        # 腾讯交叉核验
-        try:
-
-            tx = fetch_tencent(
-                item
-            )
-
-        except Exception as e:
-
-            tx_error = str(e)
+        tx = tx_quotes.get(code)
+        em = em_quotes.get(code)
 
         merged = merge_quotes(
             item,
-            em,
-            tx
+            tx,
+            em
         )
 
         if merged:
 
-            rows[
-                item["code"]
-            ] = {
-
+            rows[code] = {
                 "code":
-                    item["code"],
+                    code,
 
                 "name":
                     item["name"],
@@ -602,9 +681,7 @@ def main():
                     item["kind"],
 
                 "theme":
-                    item.get(
-                        "theme"
-                    ),
+                    item.get("theme"),
 
                 "relations":
                     item.get(
@@ -617,24 +694,18 @@ def main():
 
         else:
 
-            errors[
-                item["code"]
-            ] = {
-
+            errors[code] = {
                 "name":
                     item["name"],
 
-                "eastmoney":
-                    em_error,
-
                 "tencent":
                     tx_error,
+
+                "eastmoney":
+                    em_errors.get(code),
             }
 
-        time.sleep(0.08)
-
     counts = {
-
         "expected":
             len(universe),
 
@@ -644,8 +715,7 @@ def main():
         "verified_2_sources":
             sum(
                 1
-                for x
-                in rows.values()
+                for x in rows.values()
                 if x["status"]
                 == "verified_2_sources"
             ),
@@ -653,8 +723,7 @@ def main():
         "single_source":
             sum(
                 1
-                for x
-                in rows.values()
+                for x in rows.values()
                 if x["status"]
                 == "single_source"
             ),
@@ -662,8 +731,7 @@ def main():
         "data_conflict":
             sum(
                 1
-                for x
-                in rows.values()
+                for x in rows.values()
                 if x["status"]
                 == "data_conflict"
             ),
@@ -672,21 +740,32 @@ def main():
             len(errors),
     }
 
-    payload = {
+    finished = now_cn()
 
-        "schema_version": 1,
+    runtime_seconds = (
+        finished - started
+    ).total_seconds()
+
+    payload = {
+        "schema_version": 2,
 
         "timezone":
             "Asia/Shanghai",
 
         "fetched_at":
-            fetched_at.isoformat(
+            finished.isoformat(
                 timespec="seconds"
             ),
 
         "trading_date":
-            fetched_at.date()
+            finished.date()
             .isoformat(),
+
+        "runtime_seconds":
+            round(
+                runtime_seconds,
+                2
+            ),
 
         "counts":
             counts,
@@ -724,17 +803,17 @@ def main():
 
     print(
         json.dumps(
-            counts,
+            {
+                **counts,
+                "runtime_seconds":
+                    round(
+                        runtime_seconds,
+                        2
+                    ),
+            },
             ensure_ascii=False
         )
     )
-
-    if errors:
-
-        print(
-            "Failed:",
-            ", ".join(errors)
-        )
 
 
 if __name__ == "__main__":
