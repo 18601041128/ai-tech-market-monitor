@@ -1,13 +1,14 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-09-28T12:39:11+08:00",
+  "fetched_at": "2026-09-28T12:51:59+08:00",
   "trading_date": "2026-09-28",
+  "runtime_seconds": 3.4,
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 1,
-    "single_source": 26,
+    "verified_2_sources": 0,
+    "single_source": 27,
     "data_conflict": 0,
     "failed": 0
   },
@@ -19,7 +20,7 @@
       "kind": "etf",
       "theme": "AI_CPO_存储",
       "relations": [],
-      "source": "eastmoney",
+      "source": "tencent",
       "price": 1.11,
       "pct": -5.93,
       "change": -0.07,
@@ -28,18 +29,11 @@
       "low": 1.105,
       "prev_close": 1.18,
       "volume_raw": 2474206.0,
-      "amount": 280474528.7,
+      "amount": 280470000.0,
       "turnover_pct": 15.26,
-      "source_time": "2026-09-28T12:39:06+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "tencent",
-        "secondary_price": 1.11,
-        "secondary_pct": -5.93,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-09-28T12:05:06+08:00"
-      },
+      "source_time": "2026-09-28T12:05:06+08:00",
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-09-28"
     },
     "300502": {
