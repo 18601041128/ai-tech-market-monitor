@@ -1,9 +1,10 @@
 {
-  "schema_version": 2,
-  "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-09-28T13:19:23+08:00",
-  "trading_date": "2026-09-28",
-  "runtime_seconds": 6.93,
+  "snapshot_slot": "13:05",
+  "scheduled_time": "2026-09-28T13:05:00+08:00",
+  "captured_at": "2026-09-28T13:19:24+08:00",
+  "capture_lag_minutes": 14.4,
+  "market_data_fetched_at": "2026-09-28T13:19:23+08:00",
+  "market_data_date": "2026-09-28",
   "counts": {
     "expected": 27,
     "received": 27,
@@ -11,6 +12,303 @@
     "single_source": 24,
     "data_conflict": 1,
     "failed": 0
+  },
+  "benchmarks": {
+    "sh": -1.81,
+    "sz": -3.56,
+    "cyb": -4.62,
+    "star50": -4.09
+  },
+  "etf_rank_by_pct": [
+    {
+      "code": "562500",
+      "name": "机器人ETF华夏",
+      "price": 0.893,
+      "pct": -2.83,
+      "status": "verified_2_sources"
+    },
+    {
+      "code": "516510",
+      "name": "云计算ETF易方达",
+      "price": 1.572,
+      "pct": -3.32,
+      "status": "single_source"
+    },
+    {
+      "code": "588000",
+      "name": "科创50ETF华夏",
+      "price": 1.645,
+      "pct": -3.97,
+      "status": "single_source"
+    },
+    {
+      "code": "588200",
+      "name": "科创芯片ETF嘉实",
+      "price": 1.109,
+      "pct": -4.4,
+      "status": "verified_2_sources"
+    },
+    {
+      "code": "588230",
+      "name": "科创200ETF华泰柏瑞",
+      "price": 1.758,
+      "pct": -5.08,
+      "status": "data_conflict"
+    },
+    {
+      "code": "159381",
+      "name": "创业板人工智能ETF华夏",
+      "price": 1.109,
+      "pct": -6.02,
+      "status": "single_source"
+    },
+    {
+      "code": "515880",
+      "name": "通信ETF国泰",
+      "price": 0.626,
+      "pct": -7.81,
+      "status": "single_source"
+    }
+  ],
+  "core_resonance": {
+    "159381": {
+      "etf_name": "创业板人工智能ETF华夏",
+      "theme": "AI_CPO_存储",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 1,
+      "average_pct": -7.5067,
+      "members": [
+        {
+          "code": "300502",
+          "name": "新易盛",
+          "role": "holding",
+          "pct": -7.57,
+          "price": 402.06,
+          "status": "single_source"
+        },
+        {
+          "code": "300308",
+          "name": "中际旭创",
+          "role": "holding",
+          "pct": -9.23,
+          "price": 813.19,
+          "status": "single_source"
+        },
+        {
+          "code": "301308",
+          "name": "江波龙",
+          "role": "holding",
+          "pct": -5.72,
+          "price": 312.8,
+          "status": "single_source"
+        }
+      ]
+    },
+    "515880": {
+      "etf_name": "通信ETF国泰",
+      "theme": "通信_CPO",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 2,
+      "average_pct": -6.95,
+      "members": [
+        {
+          "code": "300502",
+          "name": "新易盛",
+          "role": "holding",
+          "pct": -7.57,
+          "price": 402.06,
+          "status": "single_source"
+        },
+        {
+          "code": "300308",
+          "name": "中际旭创",
+          "role": "holding",
+          "pct": -9.23,
+          "price": 813.19,
+          "status": "single_source"
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "role": "holding",
+          "pct": -4.05,
+          "price": 58.53,
+          "status": "single_source"
+        }
+      ]
+    },
+    "562500": {
+      "etf_name": "机器人ETF华夏",
+      "theme": "机器人_自动化",
+      "member_count": 3,
+      "positive_count": 1,
+      "outperform_etf_count": 2,
+      "average_pct": -3.01,
+      "members": [
+        {
+          "code": "002008",
+          "name": "大族激光",
+          "role": "holding",
+          "pct": -7.83,
+          "price": 82.11,
+          "status": "single_source"
+        },
+        {
+          "code": "300124",
+          "name": "汇川技术",
+          "role": "holding",
+          "pct": 0.52,
+          "price": 52.15,
+          "status": "single_source"
+        },
+        {
+          "code": "002050",
+          "name": "三花智控",
+          "role": "holding",
+          "pct": -1.72,
+          "price": 35.46,
+          "status": "single_source"
+        }
+      ]
+    },
+    "516510": {
+      "etf_name": "云计算ETF易方达",
+      "theme": "云计算_AI算力",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 2,
+      "average_pct": -2.8333,
+      "members": [
+        {
+          "code": "002230",
+          "name": "科大讯飞",
+          "role": "holding",
+          "pct": -2.35,
+          "price": 37.42,
+          "status": "single_source"
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "role": "holding",
+          "pct": -2.4,
+          "price": 80.2,
+          "status": "single_source"
+        },
+        {
+          "code": "000977",
+          "name": "浪潮信息",
+          "role": "holding",
+          "pct": -3.75,
+          "price": 67.28,
+          "status": "single_source"
+        }
+      ]
+    },
+    "588200": {
+      "etf_name": "科创芯片ETF",
+      "theme": "半导体_芯片",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 2,
+      "average_pct": -3.9167,
+      "members": [
+        {
+          "code": "002371",
+          "name": "北方华创",
+          "role": "proxy",
+          "pct": -3.16,
+          "price": 632.42,
+          "status": "single_source"
+        },
+        {
+          "code": "600584",
+          "name": "长电科技",
+          "role": "proxy",
+          "pct": -4.62,
+          "price": 65.6,
+          "status": "single_source"
+        },
+        {
+          "code": "002156",
+          "name": "通富微电",
+          "role": "proxy",
+          "pct": -3.97,
+          "price": 58.6,
+          "status": "single_source"
+        }
+      ]
+    },
+    "588000": {
+      "etf_name": "科创50ETF",
+      "theme": "科创核心资产",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 2,
+      "average_pct": -3.2033,
+      "members": [
+        {
+          "code": "002371",
+          "name": "北方华创",
+          "role": "proxy",
+          "pct": -3.16,
+          "price": 632.42,
+          "status": "single_source"
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "role": "proxy",
+          "pct": -2.4,
+          "price": 80.2,
+          "status": "single_source"
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "role": "proxy",
+          "pct": -4.05,
+          "price": 58.53,
+          "status": "single_source"
+        }
+      ]
+    },
+    "588230": {
+      "etf_name": "科创200ETF",
+      "theme": "中小科创_高弹性科技",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 0,
+      "average_pct": -9.24,
+      "members": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "role": "proxy",
+          "pct": -9.79,
+          "price": 92.83,
+          "status": "single_source"
+        },
+        {
+          "code": "002281",
+          "name": "光迅科技",
+          "role": "proxy",
+          "pct": -9.58,
+          "price": 164.56,
+          "status": "single_source"
+        },
+        {
+          "code": "300570",
+          "name": "太辰光",
+          "role": "proxy",
+          "pct": -8.35,
+          "price": 200.82,
+          "status": "single_source"
+        }
+      ]
+    }
   },
   "quotes": {
     "159381": {
@@ -34,7 +332,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.362,
+        "from_high_pct": -5.9372,
+        "gap_pct": -1.0169,
+        "range_position_pct": 5.4054,
+        "relative_to_sh": -4.21,
+        "relative_to_sz": -2.46,
+        "relative_to_cyb": -1.4,
+        "relative_to_star50": -1.93
+      }
     },
     "300502": {
       "code": "300502",
@@ -68,7 +376,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.8478,
+        "from_high_pct": -7.3594,
+        "gap_pct": -0.6,
+        "range_position_pct": 9.5696,
+        "relative_to_sh": -5.76,
+        "relative_to_sz": -4.01,
+        "relative_to_cyb": -2.95,
+        "relative_to_star50": -3.48
+      }
     },
     "300308": {
       "code": "300308",
@@ -102,7 +420,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.1466,
+        "from_high_pct": -8.4245,
+        "gap_pct": -1.3239,
+        "range_position_pct": 1.5658,
+        "relative_to_sh": -7.42,
+        "relative_to_sz": -5.67,
+        "relative_to_cyb": -4.61,
+        "relative_to_star50": -5.14
+      }
     },
     "301308": {
       "code": "301308",
@@ -131,7 +459,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.398,
+        "from_high_pct": -5.4585,
+        "gap_pct": -0.4973,
+        "range_position_pct": 6.4249,
+        "relative_to_sh": -3.91,
+        "relative_to_sz": -2.16,
+        "relative_to_cyb": -1.1,
+        "relative_to_star50": -1.63
+      }
     },
     "515880": {
       "code": "515880",
@@ -154,7 +492,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.0,
+        "from_high_pct": -6.9837,
+        "gap_pct": -1.3255,
+        "range_position_pct": 0.0,
+        "relative_to_sh": -6.0,
+        "relative_to_sz": -4.25,
+        "relative_to_cyb": -3.19,
+        "relative_to_star50": -3.72
+      }
     },
     "601138": {
       "code": "601138",
@@ -188,7 +536,17 @@
       "source_time": "2026-09-28T13:19:13+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.429,
+        "from_high_pct": -4.0492,
+        "gap_pct": 0.0,
+        "range_position_pct": 9.1912,
+        "relative_to_sh": -2.24,
+        "relative_to_sz": -0.49,
+        "relative_to_cyb": 0.57,
+        "relative_to_star50": 0.04
+      }
     },
     "562500": {
       "code": "562500",
@@ -218,7 +576,17 @@
         "pct_diff": 0.0,
         "secondary_source_time": "2026-09-28T13:19:19+08:00"
       },
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.1121,
+        "from_high_pct": -2.9348,
+        "gap_pct": -0.1088,
+        "range_position_pct": 3.5714,
+        "relative_to_sh": -1.02,
+        "relative_to_sz": 0.73,
+        "relative_to_cyb": 1.79,
+        "relative_to_star50": 1.26
+      }
     },
     "002008": {
       "code": "002008",
@@ -247,7 +615,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.1341,
+        "from_high_pct": -7.2832,
+        "gap_pct": -0.6398,
+        "range_position_pct": 1.6768,
+        "relative_to_sh": -6.02,
+        "relative_to_sz": -4.27,
+        "relative_to_cyb": -3.21,
+        "relative_to_star50": -3.74
+      }
     },
     "300124": {
       "code": "300124",
@@ -276,7 +654,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.5011,
+        "from_high_pct": -1.7521,
+        "gap_pct": 0.0193,
+        "range_position_pct": 21.8487,
+        "relative_to_sh": 2.33,
+        "relative_to_sz": 4.08,
+        "relative_to_cyb": 5.14,
+        "relative_to_star50": 4.61
+      }
     },
     "002050": {
       "code": "002050",
@@ -305,7 +693,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.1129,
+        "from_high_pct": -2.5824,
+        "gap_pct": 0.0,
+        "range_position_pct": 4.0816,
+        "relative_to_sh": 0.09,
+        "relative_to_sz": 1.84,
+        "relative_to_cyb": 2.9,
+        "relative_to_star50": 2.37
+      }
     },
     "516510": {
       "code": "516510",
@@ -328,7 +726,17 @@
       "source_time": "2026-09-28T13:19:12+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.3191,
+        "from_high_pct": -3.1423,
+        "gap_pct": -0.1845,
+        "range_position_pct": 8.9286,
+        "relative_to_sh": -1.51,
+        "relative_to_sz": 0.24,
+        "relative_to_cyb": 1.3,
+        "relative_to_star50": 0.77
+      }
     },
     "002230": {
       "code": "002230",
@@ -357,7 +765,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.4564,
+        "from_high_pct": -2.6535,
+        "gap_pct": -0.1044,
+        "range_position_pct": 14.2857,
+        "relative_to_sh": -0.54,
+        "relative_to_sz": 1.21,
+        "relative_to_cyb": 2.27,
+        "relative_to_star50": 1.74
+      }
     },
     "603019": {
       "code": "603019",
@@ -391,7 +809,17 @@
       "source_time": "2026-09-28T13:19:14+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.25,
+        "from_high_pct": -2.7761,
+        "gap_pct": 0.0365,
+        "range_position_pct": 8.0321,
+        "relative_to_sh": -0.59,
+        "relative_to_sz": 1.16,
+        "relative_to_cyb": 2.22,
+        "relative_to_star50": 1.69
+      }
     },
     "000977": {
       "code": "000977",
@@ -420,7 +848,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.7186,
+        "from_high_pct": -3.1942,
+        "gap_pct": -0.5866,
+        "range_position_pct": 17.7778,
+        "relative_to_sh": -1.94,
+        "relative_to_sz": -0.19,
+        "relative_to_cyb": 0.87,
+        "relative_to_star50": 0.34
+      }
     },
     "588200": {
       "code": "588200",
@@ -450,7 +888,17 @@
         "pct_diff": 0.08,
         "secondary_source_time": "2026-09-28T13:19:19+08:00"
       },
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.7266,
+        "from_high_pct": -3.7326,
+        "gap_pct": -0.8621,
+        "range_position_pct": 15.6863,
+        "relative_to_sh": -2.59,
+        "relative_to_sz": -0.84,
+        "relative_to_cyb": 0.22,
+        "relative_to_star50": -0.31
+      }
     },
     "002371": {
       "code": "002371",
@@ -484,7 +932,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 1.1662,
+        "from_high_pct": -3.5357,
+        "gap_pct": 0.173,
+        "range_position_pct": 23.9252,
+        "relative_to_sh": -1.35,
+        "relative_to_sz": 0.4,
+        "relative_to_cyb": 1.46,
+        "relative_to_star50": 0.93
+      }
     },
     "600584": {
       "code": "600584",
@@ -513,7 +971,17 @@
       "source_time": "2026-09-28T13:19:12+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.83,
+        "from_high_pct": -4.5818,
+        "gap_pct": -0.5525,
+        "range_position_pct": 14.6341,
+        "relative_to_sh": -2.81,
+        "relative_to_sz": -1.06,
+        "relative_to_cyb": 0.0,
+        "relative_to_star50": -0.53
+      }
     },
     "002156": {
       "code": "002156",
@@ -542,7 +1010,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.9823,
+        "from_high_pct": -4.498,
+        "gap_pct": 0.0164,
+        "range_position_pct": 17.1171,
+        "relative_to_sh": -2.16,
+        "relative_to_sz": -0.41,
+        "relative_to_cyb": 0.65,
+        "relative_to_star50": 0.12
+      }
     },
     "588000": {
       "code": "588000",
@@ -565,7 +1043,17 @@
       "source_time": "2026-09-28T13:19:14+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.5501,
+        "from_high_pct": -3.5191,
+        "gap_pct": -0.6421,
+        "range_position_pct": 13.0435,
+        "relative_to_sh": -2.16,
+        "relative_to_sz": -0.41,
+        "relative_to_cyb": 0.65,
+        "relative_to_star50": 0.12
+      }
     },
     "588230": {
       "code": "588230",
@@ -595,7 +1083,17 @@
         "pct_diff": 0.1,
         "secondary_source_time": "2026-09-28T13:19:17+08:00"
       },
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.1139,
+        "from_high_pct": -5.0756,
+        "gap_pct": -0.054,
+        "range_position_pct": 2.0833,
+        "relative_to_sh": -3.27,
+        "relative_to_sz": -1.52,
+        "relative_to_cyb": -0.46,
+        "relative_to_star50": -0.99
+      }
     },
     "000988": {
       "code": "000988",
@@ -624,7 +1122,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.0323,
+        "from_high_pct": -9.2571,
+        "gap_pct": -0.8455,
+        "range_position_pct": 0.3158,
+        "relative_to_sh": -7.98,
+        "relative_to_sz": -6.23,
+        "relative_to_cyb": -5.17,
+        "relative_to_star50": -5.7
+      }
     },
     "002281": {
       "code": "002281",
@@ -653,7 +1161,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.464,
+        "from_high_pct": -8.7046,
+        "gap_pct": -0.9891,
+        "range_position_pct": 4.6201,
+        "relative_to_sh": -7.77,
+        "relative_to_sz": -6.02,
+        "relative_to_cyb": -4.96,
+        "relative_to_star50": -5.49
+      }
     },
     "300570": {
       "code": "300570",
@@ -682,7 +1200,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.2897,
+        "from_high_pct": -7.8215,
+        "gap_pct": -0.8124,
+        "range_position_pct": 3.2917,
+        "relative_to_sh": -6.54,
+        "relative_to_sz": -4.79,
+        "relative_to_cyb": -3.73,
+        "relative_to_star50": -4.26
+      }
     },
     "000001": {
       "code": "000001",
@@ -705,7 +1233,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.133,
+        "from_high_pct": -1.5625,
+        "gap_pct": -0.2561,
+        "range_position_pct": 7.7204,
+        "relative_to_sh": 0.0,
+        "relative_to_sz": 1.75,
+        "relative_to_cyb": 2.81,
+        "relative_to_star50": 2.28
+      }
     },
     "399001": {
       "code": "399001",
@@ -728,7 +1266,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.0684,
+        "from_high_pct": -3.2064,
+        "gap_pct": -0.3843,
+        "range_position_pct": 2.0221,
+        "relative_to_sh": -1.75,
+        "relative_to_sz": 0.0,
+        "relative_to_cyb": 1.06,
+        "relative_to_star50": 0.53
+      }
     },
     "399006": {
       "code": "399006",
@@ -751,7 +1299,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.0265,
+        "from_high_pct": -4.0932,
+        "gap_pct": -0.6491,
+        "range_position_pct": 0.6161,
+        "relative_to_sh": -2.81,
+        "relative_to_sz": -1.06,
+        "relative_to_cyb": 0.0,
+        "relative_to_star50": -0.53
+      }
     },
     "000688": {
       "code": "000688",
@@ -774,8 +1332,17 @@
       "source_time": "2026-09-28T13:19:15+08:00",
       "status": "single_source",
       "crosscheck": null,
-      "source_date": "2026-09-28"
+      "source_date": "2026-09-28",
+      "derived": {
+        "from_low_pct": 0.43,
+        "from_high_pct": -3.4334,
+        "gap_pct": -0.6751,
+        "range_position_pct": 10.7471,
+        "relative_to_sh": -2.28,
+        "relative_to_sz": -0.53,
+        "relative_to_cyb": 0.53,
+        "relative_to_star50": 0.0
+      }
     }
-  },
-  "errors": {}
+  }
 }
