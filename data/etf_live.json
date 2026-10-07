@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-10-07T14:55:19+08:00",
+  "fetched_at": "2026-10-07T15:21:05+08:00",
   "trading_date": "2026-10-07",
-  "runtime_seconds": 5.9,
+  "runtime_seconds": 3.95,
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 4,
-    "single_source": 23,
+    "verified_2_sources": 7,
+    "single_source": 20,
     "data_conflict": 0,
     "failed": 0
   },
@@ -340,8 +340,15 @@
       "amount": 142540000.0,
       "turnover_pct": 4.8,
       "source_time": "2026-09-30T16:14:34+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.564,
+        "secondary_pct": -0.95,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-09-30T16:12:01+08:00"
+      },
       "source_date": "2026-09-30"
     },
     "002230": {
@@ -455,8 +462,15 @@
       "amount": 2237720000.0,
       "turnover_pct": 4.65,
       "source_time": "2026-09-30T16:14:50+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.08,
+        "secondary_pct": -3.4,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-09-30T16:11:44+08:00"
+      },
       "source_date": "2026-09-30"
     },
     "002371": {
@@ -570,8 +584,15 @@
       "amount": 6849530000.0,
       "turnover_pct": 7.22,
       "source_time": "2026-09-30T16:14:49+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.616,
+        "secondary_pct": -2.47,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-09-30T16:11:38+08:00"
+      },
       "source_date": "2026-09-30"
     },
     "588230": {
