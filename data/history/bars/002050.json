@@ -5,19 +5,6 @@
   "adjustment": "qfq",
   "bars": [
     {
-      "date": "2026-07-09",
-      "open": 41.301,
-      "close": 42.451,
-      "high": 42.601,
-      "low": 40.991,
-      "volume": 932733.0,
-      "amount": null,
-      "amplitude_pct": null,
-      "pct": null,
-      "change": null,
-      "turnover_pct": null
-    },
-    {
       "date": "2026-07-10",
       "open": 42.601,
       "close": 42.801,
