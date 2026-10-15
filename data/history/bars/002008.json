@@ -5,19 +5,6 @@
   "adjustment": "qfq",
   "bars": [
     {
-      "date": "2026-07-14",
-      "open": 113.4,
-      "close": 119.5,
-      "high": 121.98,
-      "low": 107.56,
-      "volume": 805767.0,
-      "amount": null,
-      "amplitude_pct": null,
-      "pct": null,
-      "change": null,
-      "turnover_pct": null
-    },
-    {
       "date": "2026-07-15",
       "open": 121.8,
       "close": 114.36,
@@ -791,6 +778,19 @@
       "high": 71.38,
       "low": 67.0,
       "volume": 287526.0,
+      "amount": null,
+      "amplitude_pct": null,
+      "pct": null,
+      "change": null,
+      "turnover_pct": null
+    },
+    {
+      "date": "2026-10-15",
+      "open": 65.0,
+      "close": 63.37,
+      "high": 65.63,
+      "low": 62.66,
+      "volume": 501515.0,
       "amount": null,
       "amplitude_pct": null,
       "pct": null,
