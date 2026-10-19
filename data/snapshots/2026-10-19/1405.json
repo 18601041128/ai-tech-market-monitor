@@ -1,0 +1,1327 @@
+{
+  "snapshot_slot": "14:05",
+  "scheduled_time": "2026-10-19T14:05:00+08:00",
+  "captured_at": "2026-10-19T14:05:04+08:00",
+  "capture_lag_minutes": 0.07,
+  "market_data_fetched_at": "2026-10-19T14:05:03+08:00",
+  "market_data_date": "2026-10-19",
+  "counts": {
+    "expected": 27,
+    "received": 27,
+    "verified_2_sources": 0,
+    "single_source": 27,
+    "data_conflict": 0,
+    "failed": 0
+  },
+  "benchmarks": {
+    "sh": 0.61,
+    "sz": 0.42,
+    "cyb": -0.5,
+    "star50": -1.29
+  },
+  "etf_rank_by_pct": [
+    {
+      "code": "562500",
+      "name": "机器人ETF华夏",
+      "price": 0.811,
+      "pct": 2.27,
+      "status": "single_source"
+    },
+    {
+      "code": "516510",
+      "name": "云计算ETF易方达",
+      "price": 1.441,
+      "pct": 1.48,
+      "status": "single_source"
+    },
+    {
+      "code": "515880",
+      "name": "通信ETF国泰",
+      "price": 0.525,
+      "pct": 0.57,
+      "status": "single_source"
+    },
+    {
+      "code": "159381",
+      "name": "创业板人工智能ETF华夏",
+      "price": 0.964,
+      "pct": -0.1,
+      "status": "single_source"
+    },
+    {
+      "code": "588230",
+      "name": "科创200ETF华泰柏瑞",
+      "price": 1.503,
+      "pct": -0.73,
+      "status": "single_source"
+    },
+    {
+      "code": "588000",
+      "name": "科创50ETF华夏",
+      "price": 1.418,
+      "pct": -0.84,
+      "status": "single_source"
+    },
+    {
+      "code": "588200",
+      "name": "科创芯片ETF嘉实",
+      "price": 0.922,
+      "pct": -1.5,
+      "status": "single_source"
+    }
+  ],
+  "core_resonance": {
+    "159381": {
+      "etf_name": "创业板人工智能ETF华夏",
+      "theme": "AI_CPO_存储",
+      "member_count": 3,
+      "positive_count": 2,
+      "outperform_etf_count": 2,
+      "average_pct": 0.2933,
+      "members": [
+        {
+          "code": "300502",
+          "name": "新易盛",
+          "role": "holding",
+          "pct": 0.93,
+          "price": 309.75,
+          "status": "single_source"
+        },
+        {
+          "code": "300308",
+          "name": "中际旭创",
+          "role": "holding",
+          "pct": -0.94,
+          "price": 663.72,
+          "status": "single_source"
+        },
+        {
+          "code": "301308",
+          "name": "江波龙",
+          "role": "holding",
+          "pct": 0.89,
+          "price": 243.81,
+          "status": "single_source"
+        }
+      ]
+    },
+    "515880": {
+      "etf_name": "通信ETF国泰",
+      "theme": "通信_CPO",
+      "member_count": 3,
+      "positive_count": 2,
+      "outperform_etf_count": 1,
+      "average_pct": 0.0233,
+      "members": [
+        {
+          "code": "300502",
+          "name": "新易盛",
+          "role": "holding",
+          "pct": 0.93,
+          "price": 309.75,
+          "status": "single_source"
+        },
+        {
+          "code": "300308",
+          "name": "中际旭创",
+          "role": "holding",
+          "pct": -0.94,
+          "price": 663.72,
+          "status": "single_source"
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "role": "holding",
+          "pct": 0.08,
+          "price": 47.82,
+          "status": "single_source"
+        }
+      ]
+    },
+    "562500": {
+      "etf_name": "机器人ETF华夏",
+      "theme": "机器人_自动化",
+      "member_count": 3,
+      "positive_count": 2,
+      "outperform_etf_count": 2,
+      "average_pct": 1.6733,
+      "members": [
+        {
+          "code": "002008",
+          "name": "大族激光",
+          "role": "holding",
+          "pct": -0.92,
+          "price": 63.26,
+          "status": "single_source"
+        },
+        {
+          "code": "300124",
+          "name": "汇川技术",
+          "role": "holding",
+          "pct": 2.31,
+          "price": 50.85,
+          "status": "single_source"
+        },
+        {
+          "code": "002050",
+          "name": "三花智控",
+          "role": "holding",
+          "pct": 3.63,
+          "price": 32.56,
+          "status": "single_source"
+        }
+      ]
+    },
+    "516510": {
+      "etf_name": "云计算ETF易方达",
+      "theme": "云计算_AI算力",
+      "member_count": 3,
+      "positive_count": 3,
+      "outperform_etf_count": 1,
+      "average_pct": 2.0333,
+      "members": [
+        {
+          "code": "002230",
+          "name": "科大讯飞",
+          "role": "holding",
+          "pct": 0.19,
+          "price": 36.07,
+          "status": "single_source"
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "role": "holding",
+          "pct": 4.74,
+          "price": 73.82,
+          "status": "single_source"
+        },
+        {
+          "code": "000977",
+          "name": "浪潮信息",
+          "role": "holding",
+          "pct": 1.17,
+          "price": 57.19,
+          "status": "single_source"
+        }
+      ]
+    },
+    "588200": {
+      "etf_name": "科创芯片ETF",
+      "theme": "半导体_芯片",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 0,
+      "average_pct": -2.19,
+      "members": [
+        {
+          "code": "002371",
+          "name": "北方华创",
+          "role": "proxy",
+          "pct": -3.18,
+          "price": 574.76,
+          "status": "single_source"
+        },
+        {
+          "code": "600584",
+          "name": "长电科技",
+          "role": "proxy",
+          "pct": -1.56,
+          "price": 56.07,
+          "status": "single_source"
+        },
+        {
+          "code": "002156",
+          "name": "通富微电",
+          "role": "proxy",
+          "pct": -1.83,
+          "price": 47.78,
+          "status": "single_source"
+        }
+      ]
+    },
+    "588000": {
+      "etf_name": "科创50ETF",
+      "theme": "科创核心资产",
+      "member_count": 3,
+      "positive_count": 2,
+      "outperform_etf_count": 2,
+      "average_pct": 0.5467,
+      "members": [
+        {
+          "code": "002371",
+          "name": "北方华创",
+          "role": "proxy",
+          "pct": -3.18,
+          "price": 574.76,
+          "status": "single_source"
+        },
+        {
+          "code": "603019",
+          "name": "中科曙光",
+          "role": "proxy",
+          "pct": 4.74,
+          "price": 73.82,
+          "status": "single_source"
+        },
+        {
+          "code": "601138",
+          "name": "工业富联",
+          "role": "proxy",
+          "pct": 0.08,
+          "price": 47.82,
+          "status": "single_source"
+        }
+      ]
+    },
+    "588230": {
+      "etf_name": "科创200ETF",
+      "theme": "中小科创_高弹性科技",
+      "member_count": 3,
+      "positive_count": 0,
+      "outperform_etf_count": 2,
+      "average_pct": -1.2233,
+      "members": [
+        {
+          "code": "000988",
+          "name": "华工科技",
+          "role": "proxy",
+          "pct": -0.13,
+          "price": 75.6,
+          "status": "single_source"
+        },
+        {
+          "code": "002281",
+          "name": "光迅科技",
+          "role": "proxy",
+          "pct": -0.49,
+          "price": 133.09,
+          "status": "single_source"
+        },
+        {
+          "code": "300570",
+          "name": "太辰光",
+          "role": "proxy",
+          "pct": -3.05,
+          "price": 168.69,
+          "status": "single_source"
+        }
+      ]
+    }
+  },
+  "quotes": {
+    "159381": {
+      "code": "159381",
+      "name": "创业板人工智能ETF华夏",
+      "market": "SZ",
+      "kind": "etf",
+      "theme": "AI_CPO_存储",
+      "relations": [],
+      "source": "tencent",
+      "price": 0.964,
+      "pct": -0.1,
+      "change": -0.001,
+      "open": 0.951,
+      "high": 0.968,
+      "low": 0.941,
+      "prev_close": 0.965,
+      "volume_raw": 2394811.0,
+      "amount": 228590000.0,
+      "turnover_pct": 14.04,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 2.4442,
+        "from_high_pct": -0.4132,
+        "gap_pct": -1.4508,
+        "range_position_pct": 85.1852,
+        "relative_to_sh": -0.71,
+        "relative_to_sz": -0.52,
+        "relative_to_cyb": 0.4,
+        "relative_to_star50": 1.19
+      }
+    },
+    "300502": {
+      "code": "300502",
+      "name": "新易盛",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "159381",
+          "parent_name": "创业板人工智能ETF华夏",
+          "role": "holding"
+        },
+        {
+          "parent_etf": "515880",
+          "parent_name": "通信ETF国泰",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 309.75,
+      "pct": 0.93,
+      "change": 2.84,
+      "open": 307.14,
+      "high": 312.16,
+      "low": 297.49,
+      "prev_close": 306.91,
+      "volume_raw": 270979.0,
+      "amount": 8283000000.0,
+      "turnover_pct": 2.16,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 4.1211,
+        "from_high_pct": -0.772,
+        "gap_pct": 0.0749,
+        "range_position_pct": 83.5719,
+        "relative_to_sh": 0.32,
+        "relative_to_sz": 0.51,
+        "relative_to_cyb": 1.43,
+        "relative_to_star50": 2.22
+      }
+    },
+    "300308": {
+      "code": "300308",
+      "name": "中际旭创",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "159381",
+          "parent_name": "创业板人工智能ETF华夏",
+          "role": "holding"
+        },
+        {
+          "parent_etf": "515880",
+          "parent_name": "通信ETF国泰",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 663.72,
+      "pct": -0.94,
+      "change": -6.28,
+      "open": 666.0,
+      "high": 675.99,
+      "low": 644.23,
+      "prev_close": 670.0,
+      "volume_raw": 164129.0,
+      "amount": 10838310000.0,
+      "turnover_pct": 1.48,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 3.0253,
+        "from_high_pct": -1.8151,
+        "gap_pct": -0.597,
+        "range_position_pct": 61.3665,
+        "relative_to_sh": -1.55,
+        "relative_to_sz": -1.36,
+        "relative_to_cyb": -0.44,
+        "relative_to_star50": 0.35
+      }
+    },
+    "301308": {
+      "code": "301308",
+      "name": "江波龙",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "159381",
+          "parent_name": "创业板人工智能ETF华夏",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 243.81,
+      "pct": 0.89,
+      "change": 2.16,
+      "open": 240.83,
+      "high": 248.77,
+      "low": 234.98,
+      "prev_close": 241.65,
+      "volume_raw": 107167.0,
+      "amount": 2593870000.0,
+      "turnover_pct": 3.8,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 3.7578,
+        "from_high_pct": -1.9938,
+        "gap_pct": -0.3393,
+        "range_position_pct": 64.0319,
+        "relative_to_sh": 0.28,
+        "relative_to_sz": 0.47,
+        "relative_to_cyb": 1.39,
+        "relative_to_star50": 2.18
+      }
+    },
+    "515880": {
+      "code": "515880",
+      "name": "通信ETF国泰",
+      "market": "SH",
+      "kind": "etf",
+      "theme": "通信_CPO",
+      "relations": [],
+      "source": "tencent",
+      "price": 0.525,
+      "pct": 0.57,
+      "change": 0.003,
+      "open": 0.518,
+      "high": 0.529,
+      "low": 0.507,
+      "prev_close": 0.522,
+      "volume_raw": 41199154.0,
+      "amount": 2137060000.0,
+      "turnover_pct": 6.32,
+      "source_time": "2026-10-19T14:04:56+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 3.5503,
+        "from_high_pct": -0.7561,
+        "gap_pct": -0.7663,
+        "range_position_pct": 81.8182,
+        "relative_to_sh": -0.04,
+        "relative_to_sz": 0.15,
+        "relative_to_cyb": 1.07,
+        "relative_to_star50": 1.86
+      }
+    },
+    "601138": {
+      "code": "601138",
+      "name": "工业富联",
+      "market": "SH",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "515880",
+          "parent_name": "通信ETF国泰",
+          "role": "holding"
+        },
+        {
+          "parent_etf": "588000",
+          "parent_name": "科创50ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 47.82,
+      "pct": 0.08,
+      "change": 0.04,
+      "open": 47.1,
+      "high": 48.25,
+      "low": 46.65,
+      "prev_close": 47.78,
+      "volume_raw": 598978.0,
+      "amount": 2842940000.0,
+      "turnover_pct": 0.3,
+      "source_time": "2026-10-19T14:04:58+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 2.508,
+        "from_high_pct": -0.8912,
+        "gap_pct": -1.4232,
+        "range_position_pct": 73.125,
+        "relative_to_sh": -0.53,
+        "relative_to_sz": -0.34,
+        "relative_to_cyb": 0.58,
+        "relative_to_star50": 1.37
+      }
+    },
+    "562500": {
+      "code": "562500",
+      "name": "机器人ETF华夏",
+      "market": "SH",
+      "kind": "etf",
+      "theme": "机器人_自动化",
+      "relations": [],
+      "source": "tencent",
+      "price": 0.811,
+      "pct": 2.27,
+      "change": 0.018,
+      "open": 0.79,
+      "high": 0.815,
+      "low": 0.781,
+      "prev_close": 0.793,
+      "volume_raw": 4854702.0,
+      "amount": 387130000.0,
+      "turnover_pct": 2.62,
+      "source_time": "2026-10-19T14:04:58+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 3.8412,
+        "from_high_pct": -0.4908,
+        "gap_pct": -0.3783,
+        "range_position_pct": 88.2353,
+        "relative_to_sh": 1.66,
+        "relative_to_sz": 1.85,
+        "relative_to_cyb": 2.77,
+        "relative_to_star50": 3.56
+      }
+    },
+    "002008": {
+      "code": "002008",
+      "name": "大族激光",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "562500",
+          "parent_name": "机器人ETF华夏",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 63.26,
+      "pct": -0.92,
+      "change": -0.59,
+      "open": 64.0,
+      "high": 64.0,
+      "low": 60.4,
+      "prev_close": 63.85,
+      "volume_raw": 325840.0,
+      "amount": 2029260000.0,
+      "turnover_pct": 3.41,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 4.7351,
+        "from_high_pct": -1.1563,
+        "gap_pct": 0.2349,
+        "range_position_pct": 79.4444,
+        "relative_to_sh": -1.53,
+        "relative_to_sz": -1.34,
+        "relative_to_cyb": -0.42,
+        "relative_to_star50": 0.37
+      }
+    },
+    "300124": {
+      "code": "300124",
+      "name": "汇川技术",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "562500",
+          "parent_name": "机器人ETF华夏",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 50.85,
+      "pct": 2.31,
+      "change": 1.15,
+      "open": 49.69,
+      "high": 50.93,
+      "low": 49.4,
+      "prev_close": 49.7,
+      "volume_raw": 183933.0,
+      "amount": 924520000.0,
+      "turnover_pct": 0.76,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 2.9352,
+        "from_high_pct": -0.1571,
+        "gap_pct": -0.0201,
+        "range_position_pct": 94.7712,
+        "relative_to_sh": 1.7,
+        "relative_to_sz": 1.89,
+        "relative_to_cyb": 2.81,
+        "relative_to_star50": 3.6
+      }
+    },
+    "002050": {
+      "code": "002050",
+      "name": "三花智控",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "562500",
+          "parent_name": "机器人ETF华夏",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 32.56,
+      "pct": 3.63,
+      "change": 1.14,
+      "open": 31.11,
+      "high": 32.77,
+      "low": 30.8,
+      "prev_close": 31.42,
+      "volume_raw": 419111.0,
+      "amount": 1330240000.0,
+      "turnover_pct": 1.14,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 5.7143,
+        "from_high_pct": -0.6408,
+        "gap_pct": -0.9866,
+        "range_position_pct": 89.3401,
+        "relative_to_sh": 3.02,
+        "relative_to_sz": 3.21,
+        "relative_to_cyb": 4.13,
+        "relative_to_star50": 4.92
+      }
+    },
+    "516510": {
+      "code": "516510",
+      "name": "云计算ETF易方达",
+      "market": "SH",
+      "kind": "etf",
+      "theme": "云计算_AI算力",
+      "relations": [],
+      "source": "tencent",
+      "price": 1.441,
+      "pct": 1.48,
+      "change": 0.021,
+      "open": 1.41,
+      "high": 1.444,
+      "low": 1.4,
+      "prev_close": 1.42,
+      "volume_raw": 497097.0,
+      "amount": 71070000.0,
+      "turnover_pct": 2.63,
+      "source_time": "2026-10-19T14:04:56+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 2.9286,
+        "from_high_pct": -0.2078,
+        "gap_pct": -0.7042,
+        "range_position_pct": 93.1818,
+        "relative_to_sh": 0.87,
+        "relative_to_sz": 1.06,
+        "relative_to_cyb": 1.98,
+        "relative_to_star50": 2.77
+      }
+    },
+    "002230": {
+      "code": "002230",
+      "name": "科大讯飞",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "516510",
+          "parent_name": "云计算ETF易方达",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 36.07,
+      "pct": 0.19,
+      "change": 0.07,
+      "open": 35.64,
+      "high": 36.15,
+      "low": 35.5,
+      "prev_close": 36.0,
+      "volume_raw": 94789.0,
+      "amount": 340250000.0,
+      "turnover_pct": 0.43,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.6056,
+        "from_high_pct": -0.2213,
+        "gap_pct": -1.0,
+        "range_position_pct": 87.6923,
+        "relative_to_sh": -0.42,
+        "relative_to_sz": -0.23,
+        "relative_to_cyb": 0.69,
+        "relative_to_star50": 1.48
+      }
+    },
+    "603019": {
+      "code": "603019",
+      "name": "中科曙光",
+      "market": "SH",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "516510",
+          "parent_name": "云计算ETF易方达",
+          "role": "holding"
+        },
+        {
+          "parent_etf": "588000",
+          "parent_name": "科创50ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 73.82,
+      "pct": 4.74,
+      "change": 3.34,
+      "open": 70.38,
+      "high": 73.91,
+      "low": 69.87,
+      "prev_close": 70.48,
+      "volume_raw": 338463.0,
+      "amount": 2442310000.0,
+      "turnover_pct": 2.31,
+      "source_time": "2026-10-19T14:04:58+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 5.6534,
+        "from_high_pct": -0.1218,
+        "gap_pct": -0.1419,
+        "range_position_pct": 97.7723,
+        "relative_to_sh": 4.13,
+        "relative_to_sz": 4.32,
+        "relative_to_cyb": 5.24,
+        "relative_to_star50": 6.03
+      }
+    },
+    "000977": {
+      "code": "000977",
+      "name": "浪潮信息",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "516510",
+          "parent_name": "云计算ETF易方达",
+          "role": "holding"
+        }
+      ],
+      "source": "tencent",
+      "price": 57.19,
+      "pct": 1.17,
+      "change": 0.66,
+      "open": 56.43,
+      "high": 57.49,
+      "low": 56.2,
+      "prev_close": 56.53,
+      "volume_raw": 273205.0,
+      "amount": 1553290000.0,
+      "turnover_pct": 1.86,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.7616,
+        "from_high_pct": -0.5218,
+        "gap_pct": -0.1769,
+        "range_position_pct": 76.7442,
+        "relative_to_sh": 0.56,
+        "relative_to_sz": 0.75,
+        "relative_to_cyb": 1.67,
+        "relative_to_star50": 2.46
+      }
+    },
+    "588200": {
+      "code": "588200",
+      "name": "科创芯片ETF嘉实",
+      "market": "SH",
+      "kind": "etf",
+      "theme": "半导体_芯片",
+      "relations": [],
+      "source": "tencent",
+      "price": 0.922,
+      "pct": -1.5,
+      "change": -0.014,
+      "open": 0.929,
+      "high": 0.935,
+      "low": 0.907,
+      "prev_close": 0.936,
+      "volume_raw": 20858318.0,
+      "amount": 1916800000.0,
+      "turnover_pct": 4.67,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.6538,
+        "from_high_pct": -1.3904,
+        "gap_pct": -0.7479,
+        "range_position_pct": 53.5714,
+        "relative_to_sh": -2.11,
+        "relative_to_sz": -1.92,
+        "relative_to_cyb": -1.0,
+        "relative_to_star50": -0.21
+      }
+    },
+    "002371": {
+      "code": "002371",
+      "name": "北方华创",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "588200",
+          "parent_name": "科创芯片ETF",
+          "role": "proxy"
+        },
+        {
+          "parent_etf": "588000",
+          "parent_name": "科创50ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 574.76,
+      "pct": -3.18,
+      "change": -18.87,
+      "open": 589.0,
+      "high": 595.48,
+      "low": 571.01,
+      "prev_close": 593.63,
+      "volume_raw": 56069.0,
+      "amount": 3258910000.0,
+      "turnover_pct": 0.77,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 0.6567,
+        "from_high_pct": -3.4795,
+        "gap_pct": -0.7799,
+        "range_position_pct": 15.3249,
+        "relative_to_sh": -3.79,
+        "relative_to_sz": -3.6,
+        "relative_to_cyb": -2.68,
+        "relative_to_star50": -1.89
+      }
+    },
+    "600584": {
+      "code": "600584",
+      "name": "长电科技",
+      "market": "SH",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "588200",
+          "parent_name": "科创芯片ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 56.07,
+      "pct": -1.56,
+      "change": -0.89,
+      "open": 55.68,
+      "high": 56.68,
+      "low": 54.23,
+      "prev_close": 56.96,
+      "volume_raw": 454771.0,
+      "amount": 2517350000.0,
+      "turnover_pct": 2.54,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 3.393,
+        "from_high_pct": -1.0762,
+        "gap_pct": -2.2472,
+        "range_position_pct": 75.102,
+        "relative_to_sh": -2.17,
+        "relative_to_sz": -1.98,
+        "relative_to_cyb": -1.06,
+        "relative_to_star50": -0.27
+      }
+    },
+    "002156": {
+      "code": "002156",
+      "name": "通富微电",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "588200",
+          "parent_name": "科创芯片ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 47.78,
+      "pct": -1.83,
+      "change": -0.89,
+      "open": 48.22,
+      "high": 48.32,
+      "low": 46.53,
+      "prev_close": 48.67,
+      "volume_raw": 398269.0,
+      "amount": 1885540000.0,
+      "turnover_pct": 2.62,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 2.6864,
+        "from_high_pct": -1.1175,
+        "gap_pct": -0.9246,
+        "range_position_pct": 69.8324,
+        "relative_to_sh": -2.44,
+        "relative_to_sz": -2.25,
+        "relative_to_cyb": -1.33,
+        "relative_to_star50": -0.54
+      }
+    },
+    "588000": {
+      "code": "588000",
+      "name": "科创50ETF华夏",
+      "market": "SH",
+      "kind": "etf",
+      "theme": "科创核心资产",
+      "relations": [],
+      "source": "tencent",
+      "price": 1.418,
+      "pct": -0.84,
+      "change": -0.012,
+      "open": 1.422,
+      "high": 1.433,
+      "low": 1.398,
+      "prev_close": 1.43,
+      "volume_raw": 44641776.0,
+      "amount": 6308200000.0,
+      "turnover_pct": 6.36,
+      "source_time": "2026-10-19T14:04:59+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.4306,
+        "from_high_pct": -1.0468,
+        "gap_pct": -0.5594,
+        "range_position_pct": 57.1429,
+        "relative_to_sh": -1.45,
+        "relative_to_sz": -1.26,
+        "relative_to_cyb": -0.34,
+        "relative_to_star50": 0.45
+      }
+    },
+    "588230": {
+      "code": "588230",
+      "name": "科创200ETF华泰柏瑞",
+      "market": "SH",
+      "kind": "etf",
+      "theme": "中小科创_高弹性科技",
+      "relations": [],
+      "source": "tencent",
+      "price": 1.503,
+      "pct": -0.73,
+      "change": -0.011,
+      "open": 1.499,
+      "high": 1.521,
+      "low": 1.451,
+      "prev_close": 1.514,
+      "volume_raw": 630067.0,
+      "amount": 93260000.0,
+      "turnover_pct": 7.72,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 3.5837,
+        "from_high_pct": -1.1834,
+        "gap_pct": -0.9908,
+        "range_position_pct": 74.2857,
+        "relative_to_sh": -1.34,
+        "relative_to_sz": -1.15,
+        "relative_to_cyb": -0.23,
+        "relative_to_star50": 0.56
+      }
+    },
+    "000988": {
+      "code": "000988",
+      "name": "华工科技",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "588230",
+          "parent_name": "科创200ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 75.6,
+      "pct": -0.13,
+      "change": -0.1,
+      "open": 74.98,
+      "high": 75.85,
+      "low": 72.13,
+      "prev_close": 75.7,
+      "volume_raw": 240823.0,
+      "amount": 1785970000.0,
+      "turnover_pct": 2.4,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 4.8108,
+        "from_high_pct": -0.3296,
+        "gap_pct": -0.9511,
+        "range_position_pct": 93.2796,
+        "relative_to_sh": -0.74,
+        "relative_to_sz": -0.55,
+        "relative_to_cyb": 0.37,
+        "relative_to_star50": 1.16
+      }
+    },
+    "002281": {
+      "code": "002281",
+      "name": "光迅科技",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "588230",
+          "parent_name": "科创200ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 133.09,
+      "pct": -0.49,
+      "change": -0.66,
+      "open": 133.77,
+      "high": 134.13,
+      "low": 126.7,
+      "prev_close": 133.75,
+      "volume_raw": 212047.0,
+      "amount": 2766930000.0,
+      "turnover_pct": 2.7,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 5.0434,
+        "from_high_pct": -0.7754,
+        "gap_pct": 0.015,
+        "range_position_pct": 86.0027,
+        "relative_to_sh": -1.1,
+        "relative_to_sz": -0.91,
+        "relative_to_cyb": 0.01,
+        "relative_to_star50": 0.8
+      }
+    },
+    "300570": {
+      "code": "300570",
+      "name": "太辰光",
+      "market": "SZ",
+      "kind": "stock",
+      "theme": null,
+      "relations": [
+        {
+          "parent_etf": "588230",
+          "parent_name": "科创200ETF",
+          "role": "proxy"
+        }
+      ],
+      "source": "tencent",
+      "price": 168.69,
+      "pct": -3.05,
+      "change": -5.3,
+      "open": 169.22,
+      "high": 173.0,
+      "low": 161.18,
+      "prev_close": 173.99,
+      "volume_raw": 116850.0,
+      "amount": 1944770000.0,
+      "turnover_pct": 6.08,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 4.6594,
+        "from_high_pct": -2.4913,
+        "gap_pct": -2.7415,
+        "range_position_pct": 63.5364,
+        "relative_to_sh": -3.66,
+        "relative_to_sz": -3.47,
+        "relative_to_cyb": -2.55,
+        "relative_to_star50": -1.76
+      }
+    },
+    "000001": {
+      "code": "000001",
+      "name": "上证指数",
+      "market": "SH",
+      "kind": "index",
+      "theme": "benchmark",
+      "relations": [],
+      "source": "tencent",
+      "price": 3738.96,
+      "pct": 0.61,
+      "change": 22.68,
+      "open": 3694.12,
+      "high": 3743.8,
+      "low": 3692.29,
+      "prev_close": 3716.28,
+      "volume_raw": 348056565.0,
+      "amount": 571611940000.0,
+      "turnover_pct": 0.72,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.264,
+        "from_high_pct": -0.1293,
+        "gap_pct": -0.5963,
+        "range_position_pct": 90.6038,
+        "relative_to_sh": 0.0,
+        "relative_to_sz": 0.19,
+        "relative_to_cyb": 1.11,
+        "relative_to_star50": 1.9
+      }
+    },
+    "399001": {
+      "code": "399001",
+      "name": "深证成指",
+      "market": "SZ",
+      "kind": "index",
+      "theme": "benchmark",
+      "relations": [],
+      "source": "tencent",
+      "price": 11852.22,
+      "pct": 0.42,
+      "change": 49.76,
+      "open": 11743.22,
+      "high": 11871.36,
+      "low": 11667.18,
+      "prev_close": 11802.46,
+      "volume_raw": 410965084.0,
+      "amount": 623090300000.0,
+      "turnover_pct": 1.66,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.586,
+        "from_high_pct": -0.1612,
+        "gap_pct": -0.5019,
+        "range_position_pct": 90.6259,
+        "relative_to_sh": -0.19,
+        "relative_to_sz": 0.0,
+        "relative_to_cyb": 0.92,
+        "relative_to_star50": 1.71
+      }
+    },
+    "399006": {
+      "code": "399006",
+      "name": "创业板指",
+      "market": "SZ",
+      "kind": "index",
+      "theme": "benchmark",
+      "relations": [],
+      "source": "tencent",
+      "price": 2758.63,
+      "pct": -0.5,
+      "change": -13.75,
+      "open": 2760.35,
+      "high": 2770.08,
+      "low": 2708.92,
+      "prev_close": 2772.38,
+      "volume_raw": 125393458.0,
+      "amount": 295764090000.0,
+      "turnover_pct": 2.29,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.835,
+        "from_high_pct": -0.4133,
+        "gap_pct": -0.4339,
+        "range_position_pct": 81.2786,
+        "relative_to_sh": -1.11,
+        "relative_to_sz": -0.92,
+        "relative_to_cyb": 0.0,
+        "relative_to_star50": 0.79
+      }
+    },
+    "000688": {
+      "code": "000688",
+      "name": "科创50",
+      "market": "SH",
+      "kind": "index",
+      "theme": "benchmark",
+      "relations": [],
+      "source": "tencent",
+      "price": 1341.19,
+      "pct": -1.29,
+      "change": -17.46,
+      "open": 1347.09,
+      "high": 1356.42,
+      "low": 1323.67,
+      "prev_close": 1358.65,
+      "volume_raw": 6445969.0,
+      "amount": 56827740000.0,
+      "turnover_pct": 0.98,
+      "source_time": "2026-10-19T14:04:57+08:00",
+      "status": "single_source",
+      "crosscheck": null,
+      "source_date": "2026-10-19",
+      "derived": {
+        "from_low_pct": 1.3236,
+        "from_high_pct": -1.1228,
+        "gap_pct": -0.8508,
+        "range_position_pct": 53.4962,
+        "relative_to_sh": -1.9,
+        "relative_to_sz": -1.71,
+        "relative_to_cyb": -0.79,
+        "relative_to_star50": 0.0
+      }
+    }
+  }
+}
