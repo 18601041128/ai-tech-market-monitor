@@ -15,7 +15,7 @@
       "amplitude_pct": 1.7,
       "pct": -1.4,
       "change": -0.014,
-      "turnover_pct": 0.47
+      "turnover_pct": 0.46
     },
     {
       "date": "2021-12-30",
@@ -1861,7 +1861,7 @@
       "amplitude_pct": 4.78,
       "pct": -1.71,
       "change": -0.015,
-      "turnover_pct": 0.09
+      "turnover_pct": 0.08
     },
     {
       "date": "2022-08-03",
@@ -1926,7 +1926,7 @@
       "amplitude_pct": 1.65,
       "pct": 0.24,
       "change": 0.002,
-      "turnover_pct": 0.04
+      "turnover_pct": 0.03
     },
     {
       "date": "2022-08-10",
@@ -2069,7 +2069,7 @@
       "amplitude_pct": 5.15,
       "pct": -3.86,
       "change": -0.033,
-      "turnover_pct": 0.07
+      "turnover_pct": 0.06
     },
     {
       "date": "2022-08-25",
@@ -2342,7 +2342,7 @@
       "amplitude_pct": 3.46,
       "pct": -1.94,
       "change": -0.014,
-      "turnover_pct": 0.19
+      "turnover_pct": 0.18
     },
     {
       "date": "2022-09-26",
@@ -2381,7 +2381,7 @@
       "amplitude_pct": 3.08,
       "pct": -2.8,
       "change": -0.02,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2022-09-29",
@@ -2459,7 +2459,7 @@
       "amplitude_pct": 1.99,
       "pct": 0.14,
       "change": 0.001,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2022-10-14",
@@ -2472,7 +2472,7 @@
       "amplitude_pct": 2.55,
       "pct": 2.27,
       "change": 0.016,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2022-10-17",
@@ -2602,7 +2602,7 @@
       "amplitude_pct": 4.32,
       "pct": -3.92,
       "change": -0.029,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2022-10-31",
@@ -2667,7 +2667,7 @@
       "amplitude_pct": 2.01,
       "pct": 1.74,
       "change": 0.013,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2022-11-07",
@@ -2758,7 +2758,7 @@
       "amplitude_pct": 3.41,
       "pct": 3.13,
       "change": 0.023,
-      "turnover_pct": 0.18
+      "turnover_pct": 0.17
     },
     {
       "date": "2022-11-16",
@@ -2797,7 +2797,7 @@
       "amplitude_pct": 1.87,
       "pct": 0.27,
       "change": 0.002,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2022-11-21",
@@ -2810,7 +2810,7 @@
       "amplitude_pct": 1.87,
       "pct": 0.67,
       "change": 0.005,
-      "turnover_pct": 0.19
+      "turnover_pct": 0.18
     },
     {
       "date": "2022-11-22",
@@ -2901,7 +2901,7 @@
       "amplitude_pct": 1.1,
       "pct": -0.41,
       "change": -0.003,
-      "turnover_pct": 0.16
+      "turnover_pct": 0.15
     },
     {
       "date": "2022-12-01",
@@ -2953,7 +2953,7 @@
       "amplitude_pct": 1.63,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.14
+      "turnover_pct": 0.13
     },
     {
       "date": "2022-12-07",
@@ -3005,7 +3005,7 @@
       "amplitude_pct": 1.65,
       "pct": 0.14,
       "change": 0.001,
-      "turnover_pct": 0.17
+      "turnover_pct": 0.16
     },
     {
       "date": "2022-12-13",
@@ -3018,7 +3018,7 @@
       "amplitude_pct": 2.19,
       "pct": -2.05,
       "change": -0.015,
-      "turnover_pct": 0.16
+      "turnover_pct": 0.15
     },
     {
       "date": "2022-12-14",
@@ -3109,7 +3109,7 @@
       "amplitude_pct": 1.73,
       "pct": -0.58,
       "change": -0.004,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2022-12-23",
@@ -3135,7 +3135,7 @@
       "amplitude_pct": 2.65,
       "pct": 2.79,
       "change": 0.019,
-      "turnover_pct": 0.16
+      "turnover_pct": 0.15
     },
     {
       "date": "2022-12-27",
@@ -3174,7 +3174,7 @@
       "amplitude_pct": 1.59,
       "pct": -0.14,
       "change": -0.001,
-      "turnover_pct": 0.16
+      "turnover_pct": 0.15
     },
     {
       "date": "2022-12-30",
@@ -3187,7 +3187,7 @@
       "amplitude_pct": 1.16,
       "pct": -0.72,
       "change": -0.005,
-      "turnover_pct": 0.19
+      "turnover_pct": 0.18
     },
     {
       "date": "2023-01-03",
@@ -3252,7 +3252,7 @@
       "amplitude_pct": 1.69,
       "pct": 1.13,
       "change": 0.008,
-      "turnover_pct": 0.17
+      "turnover_pct": 0.16
     },
     {
       "date": "2023-01-10",
@@ -3265,7 +3265,7 @@
       "amplitude_pct": 1.26,
       "pct": 0.14,
       "change": 0.001,
-      "turnover_pct": 0.18
+      "turnover_pct": 0.17
     },
     {
       "date": "2023-01-11",
@@ -3278,7 +3278,7 @@
       "amplitude_pct": 1.95,
       "pct": -1.39,
       "change": -0.01,
-      "turnover_pct": 0.17
+      "turnover_pct": 0.16
     },
     {
       "date": "2023-01-12",
@@ -3343,7 +3343,7 @@
       "amplitude_pct": 0.82,
       "pct": 0.27,
       "change": 0.002,
-      "turnover_pct": 0.18
+      "turnover_pct": 0.17
     },
     {
       "date": "2023-01-19",
@@ -3369,7 +3369,7 @@
       "amplitude_pct": 3.2,
       "pct": 1.2,
       "change": 0.009,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2023-01-30",
@@ -3395,7 +3395,7 @@
       "amplitude_pct": 1.8,
       "pct": 0.26,
       "change": 0.002,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2023-02-01",
@@ -3421,7 +3421,7 @@
       "amplitude_pct": 1.63,
       "pct": -0.25,
       "change": -0.002,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2023-02-03",
@@ -3434,7 +3434,7 @@
       "amplitude_pct": 2.01,
       "pct": 0.5,
       "change": 0.004,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-02-06",
@@ -3460,7 +3460,7 @@
       "amplitude_pct": 3.11,
       "pct": 1.87,
       "change": 0.015,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-02-08",
@@ -3486,7 +3486,7 @@
       "amplitude_pct": 3.09,
       "pct": 1.48,
       "change": 0.012,
-      "turnover_pct": 0.57
+      "turnover_pct": 0.56
     },
     {
       "date": "2023-02-10",
@@ -3499,7 +3499,7 @@
       "amplitude_pct": 1.95,
       "pct": -0.37,
       "change": -0.003,
-      "turnover_pct": 0.26
+      "turnover_pct": 0.25
     },
     {
       "date": "2023-02-13",
@@ -3564,7 +3564,7 @@
       "amplitude_pct": 2.24,
       "pct": -1.74,
       "change": -0.014,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2023-02-20",
@@ -3603,7 +3603,7 @@
       "amplitude_pct": 1.11,
       "pct": -0.25,
       "change": -0.002,
-      "turnover_pct": 0.16
+      "turnover_pct": 0.15
     },
     {
       "date": "2023-02-23",
@@ -3668,7 +3668,7 @@
       "amplitude_pct": 1.98,
       "pct": 1.61,
       "change": 0.013,
-      "turnover_pct": 0.26
+      "turnover_pct": 0.25
     },
     {
       "date": "2023-03-02",
@@ -3681,7 +3681,7 @@
       "amplitude_pct": 1.7,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-03-03",
@@ -3694,7 +3694,7 @@
       "amplitude_pct": 1.82,
       "pct": -0.49,
       "change": -0.004,
-      "turnover_pct": 0.19
+      "turnover_pct": 0.18
     },
     {
       "date": "2023-03-06",
@@ -3720,7 +3720,7 @@
       "amplitude_pct": 3.19,
       "pct": -2.46,
       "change": -0.02,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2023-03-08",
@@ -3733,7 +3733,7 @@
       "amplitude_pct": 1.39,
       "pct": 0.25,
       "change": 0.002,
-      "turnover_pct": 0.15
+      "turnover_pct": 0.14
     },
     {
       "date": "2023-03-09",
@@ -3746,7 +3746,7 @@
       "amplitude_pct": 0.88,
       "pct": -0.25,
       "change": -0.002,
-      "turnover_pct": 0.12
+      "turnover_pct": 0.11
     },
     {
       "date": "2023-03-10",
@@ -3785,7 +3785,7 @@
       "amplitude_pct": 2.64,
       "pct": -1.26,
       "change": -0.01,
-      "turnover_pct": 0.18
+      "turnover_pct": 0.17
     },
     {
       "date": "2023-03-15",
@@ -3798,7 +3798,7 @@
       "amplitude_pct": 1.4,
       "pct": 0.51,
       "change": 0.004,
-      "turnover_pct": 0.14
+      "turnover_pct": 0.13
     },
     {
       "date": "2023-03-16",
@@ -3889,7 +3889,7 @@
       "amplitude_pct": 2.69,
       "pct": 2.33,
       "change": 0.019,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2023-03-27",
@@ -3902,7 +3902,7 @@
       "amplitude_pct": 2.27,
       "pct": 0.96,
       "change": 0.008,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2023-03-28",
@@ -3915,7 +3915,7 @@
       "amplitude_pct": 2.61,
       "pct": -1.78,
       "change": -0.015,
-      "turnover_pct": 0.26
+      "turnover_pct": 0.25
     },
     {
       "date": "2023-03-29",
@@ -3941,7 +3941,7 @@
       "amplitude_pct": 1.57,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2023-03-31",
@@ -3954,7 +3954,7 @@
       "amplitude_pct": 2.53,
       "pct": 1.69,
       "change": 0.014,
-      "turnover_pct": 0.19
+      "turnover_pct": 0.18
     },
     {
       "date": "2023-04-03",
@@ -4045,7 +4045,7 @@
       "amplitude_pct": 1.79,
       "pct": 0.95,
       "change": 0.008,
-      "turnover_pct": 0.16
+      "turnover_pct": 0.15
     },
     {
       "date": "2023-04-13",
@@ -4084,7 +4084,7 @@
       "amplitude_pct": 1.57,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.28
+      "turnover_pct": 0.27
     },
     {
       "date": "2023-04-18",
@@ -4097,7 +4097,7 @@
       "amplitude_pct": 1.33,
       "pct": -0.6,
       "change": -0.005,
-      "turnover_pct": 0.15
+      "turnover_pct": 0.14
     },
     {
       "date": "2023-04-19",
@@ -4149,7 +4149,7 @@
       "amplitude_pct": 2.53,
       "pct": -1.9,
       "change": -0.015,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2023-04-25",
@@ -4188,7 +4188,7 @@
       "amplitude_pct": 1.05,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2023-04-28",
@@ -4201,7 +4201,7 @@
       "amplitude_pct": 2.35,
       "pct": 2.87,
       "change": 0.022,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2023-05-04",
@@ -4240,7 +4240,7 @@
       "amplitude_pct": 2.19,
       "pct": 2.06,
       "change": 0.016,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2023-05-09",
@@ -4253,7 +4253,7 @@
       "amplitude_pct": 1.89,
       "pct": -1.51,
       "change": -0.012,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-05-10",
@@ -4292,7 +4292,7 @@
       "amplitude_pct": 2.54,
       "pct": -1.4,
       "change": -0.011,
-      "turnover_pct": 0.28
+      "turnover_pct": 0.27
     },
     {
       "date": "2023-05-15",
@@ -4331,7 +4331,7 @@
       "amplitude_pct": 1.28,
       "pct": 0.77,
       "change": 0.006,
-      "turnover_pct": 0.13
+      "turnover_pct": 0.12
     },
     {
       "date": "2023-05-18",
@@ -4344,7 +4344,7 @@
       "amplitude_pct": 2.67,
       "pct": 2.67,
       "change": 0.021,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-05-19",
@@ -4370,7 +4370,7 @@
       "amplitude_pct": 1.12,
       "pct": 0.74,
       "change": 0.006,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2023-05-23",
@@ -4396,7 +4396,7 @@
       "amplitude_pct": 1.99,
       "pct": -0.62,
       "change": -0.005,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-05-25",
@@ -4435,7 +4435,7 @@
       "amplitude_pct": 2.25,
       "pct": -1.5,
       "change": -0.012,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2023-05-30",
@@ -4461,7 +4461,7 @@
       "amplitude_pct": 1.75,
       "pct": -0.37,
       "change": -0.003,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-06-01",
@@ -4500,7 +4500,7 @@
       "amplitude_pct": 1.23,
       "pct": -0.37,
       "change": -0.003,
-      "turnover_pct": 0.71
+      "turnover_pct": 0.7
     },
     {
       "date": "2023-06-06",
@@ -4513,7 +4513,7 @@
       "amplitude_pct": 3.33,
       "pct": -2.84,
       "change": -0.023,
-      "turnover_pct": 0.35
+      "turnover_pct": 0.34
     },
     {
       "date": "2023-06-07",
@@ -4526,7 +4526,7 @@
       "amplitude_pct": 1.02,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-06-08",
@@ -4552,7 +4552,7 @@
       "amplitude_pct": 1.67,
       "pct": 0.64,
       "change": 0.005,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-06-12",
@@ -4565,7 +4565,7 @@
       "amplitude_pct": 2.55,
       "pct": 1.28,
       "change": 0.01,
-      "turnover_pct": 0.17
+      "turnover_pct": 0.16
     },
     {
       "date": "2023-06-13",
@@ -4578,7 +4578,7 @@
       "amplitude_pct": 1.89,
       "pct": 1.26,
       "change": 0.01,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-06-14",
@@ -4591,7 +4591,7 @@
       "amplitude_pct": 1.12,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2023-06-15",
@@ -4604,7 +4604,7 @@
       "amplitude_pct": 4.1,
       "pct": 3.48,
       "change": 0.028,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2023-06-16",
@@ -4617,7 +4617,7 @@
       "amplitude_pct": 1.56,
       "pct": 1.44,
       "change": 0.012,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2023-06-19",
@@ -4669,7 +4669,7 @@
       "amplitude_pct": 3.6,
       "pct": -1.62,
       "change": -0.014,
-      "turnover_pct": 0.69
+      "turnover_pct": 0.68
     },
     {
       "date": "2023-06-27",
@@ -4682,7 +4682,7 @@
       "amplitude_pct": 1.65,
       "pct": 0.59,
       "change": 0.005,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2023-06-28",
@@ -4695,7 +4695,7 @@
       "amplitude_pct": 3.99,
       "pct": -0.35,
       "change": -0.003,
-      "turnover_pct": 0.59
+      "turnover_pct": 0.58
     },
     {
       "date": "2023-06-29",
@@ -4708,7 +4708,7 @@
       "amplitude_pct": 3.06,
       "pct": 2.35,
       "change": 0.02,
-      "turnover_pct": 0.59
+      "turnover_pct": 0.58
     },
     {
       "date": "2023-06-30",
@@ -4721,7 +4721,7 @@
       "amplitude_pct": 1.49,
       "pct": 0.23,
       "change": 0.002,
-      "turnover_pct": 0.62
+      "turnover_pct": 0.61
     },
     {
       "date": "2023-07-03",
@@ -4734,7 +4734,7 @@
       "amplitude_pct": 2.75,
       "pct": -1.15,
       "change": -0.01,
-      "turnover_pct": 0.64
+      "turnover_pct": 0.63
     },
     {
       "date": "2023-07-04",
@@ -4747,7 +4747,7 @@
       "amplitude_pct": 1.97,
       "pct": 1.51,
       "change": 0.013,
-      "turnover_pct": 0.95
+      "turnover_pct": 0.93
     },
     {
       "date": "2023-07-05",
@@ -4760,7 +4760,7 @@
       "amplitude_pct": 2.4,
       "pct": -0.91,
       "change": -0.008,
-      "turnover_pct": 1.2
+      "turnover_pct": 1.18
     },
     {
       "date": "2023-07-06",
@@ -4773,7 +4773,7 @@
       "amplitude_pct": 1.61,
       "pct": -0.35,
       "change": -0.003,
-      "turnover_pct": 0.48
+      "turnover_pct": 0.47
     },
     {
       "date": "2023-07-07",
@@ -4786,7 +4786,7 @@
       "amplitude_pct": 1.5,
       "pct": -1.27,
       "change": -0.011,
-      "turnover_pct": 0.57
+      "turnover_pct": 0.56
     },
     {
       "date": "2023-07-10",
@@ -4799,7 +4799,7 @@
       "amplitude_pct": 1.88,
       "pct": -1.17,
       "change": -0.01,
-      "turnover_pct": 0.49
+      "turnover_pct": 0.48
     },
     {
       "date": "2023-07-11",
@@ -4812,7 +4812,7 @@
       "amplitude_pct": 2.37,
       "pct": 1.9,
       "change": 0.016,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2023-07-12",
@@ -4825,7 +4825,7 @@
       "amplitude_pct": 1.63,
       "pct": -0.93,
       "change": -0.008,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2023-07-13",
@@ -4851,7 +4851,7 @@
       "amplitude_pct": 1.17,
       "pct": -0.47,
       "change": -0.004,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2023-07-17",
@@ -4877,7 +4877,7 @@
       "amplitude_pct": 1.17,
       "pct": -0.47,
       "change": -0.004,
-      "turnover_pct": 0.4
+      "turnover_pct": 0.39
     },
     {
       "date": "2023-07-19",
@@ -4903,7 +4903,7 @@
       "amplitude_pct": 2.48,
       "pct": -1.77,
       "change": -0.015,
-      "turnover_pct": 0.62
+      "turnover_pct": 0.61
     },
     {
       "date": "2023-07-21",
@@ -4916,7 +4916,7 @@
       "amplitude_pct": 1.56,
       "pct": -0.72,
       "change": -0.006,
-      "turnover_pct": 0.62
+      "turnover_pct": 0.61
     },
     {
       "date": "2023-07-24",
@@ -4929,7 +4929,7 @@
       "amplitude_pct": 1.45,
       "pct": -0.48,
       "change": -0.004,
-      "turnover_pct": 0.2
+      "turnover_pct": 0.19
     },
     {
       "date": "2023-07-25",
@@ -4942,7 +4942,7 @@
       "amplitude_pct": 0.97,
       "pct": 1.22,
       "change": 0.01,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-07-26",
@@ -4955,7 +4955,7 @@
       "amplitude_pct": 1.32,
       "pct": -0.96,
       "change": -0.008,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-07-27",
@@ -5020,7 +5020,7 @@
       "amplitude_pct": 1.21,
       "pct": 0.61,
       "change": 0.005,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-08-03",
@@ -5033,7 +5033,7 @@
       "amplitude_pct": 0.96,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2023-08-04",
@@ -5046,7 +5046,7 @@
       "amplitude_pct": 1.68,
       "pct": 1.32,
       "change": 0.011,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-08-07",
@@ -5059,7 +5059,7 @@
       "amplitude_pct": 0.95,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-08-08",
@@ -5072,7 +5072,7 @@
       "amplitude_pct": 1.66,
       "pct": -1.43,
       "change": -0.012,
-      "turnover_pct": 0.39
+      "turnover_pct": 0.38
     },
     {
       "date": "2023-08-09",
@@ -5137,7 +5137,7 @@
       "amplitude_pct": 1.85,
       "pct": -0.49,
       "change": -0.004,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2023-08-16",
@@ -5163,7 +5163,7 @@
       "amplitude_pct": 3.56,
       "pct": 2.54,
       "change": 0.02,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2023-08-18",
@@ -5215,7 +5215,7 @@
       "amplitude_pct": 2.28,
       "pct": -2.41,
       "change": -0.019,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2023-08-24",
@@ -5241,7 +5241,7 @@
       "amplitude_pct": 2.08,
       "pct": -2.47,
       "change": -0.019,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-08-28",
@@ -5267,7 +5267,7 @@
       "amplitude_pct": 5.83,
       "pct": 4.64,
       "change": 0.035,
-      "turnover_pct": 0.61
+      "turnover_pct": 0.6
     },
     {
       "date": "2023-08-30",
@@ -5280,7 +5280,7 @@
       "amplitude_pct": 2.91,
       "pct": 1.27,
       "change": 0.01,
-      "turnover_pct": 0.67
+      "turnover_pct": 0.65
     },
     {
       "date": "2023-08-31",
@@ -5293,7 +5293,7 @@
       "amplitude_pct": 1.13,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 0.43
+      "turnover_pct": 0.42
     },
     {
       "date": "2023-09-01",
@@ -5358,7 +5358,7 @@
       "amplitude_pct": 2.49,
       "pct": -2.37,
       "change": -0.019,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-09-08",
@@ -5371,7 +5371,7 @@
       "amplitude_pct": 2.04,
       "pct": 0.64,
       "change": 0.005,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2023-09-11",
@@ -5397,7 +5397,7 @@
       "amplitude_pct": 1.01,
       "pct": -0.13,
       "change": -0.001,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2023-09-13",
@@ -5410,7 +5410,7 @@
       "amplitude_pct": 2.65,
       "pct": -1.77,
       "change": -0.014,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2023-09-14",
@@ -5436,7 +5436,7 @@
       "amplitude_pct": 1.68,
       "pct": -0.65,
       "change": -0.005,
-      "turnover_pct": 0.28
+      "turnover_pct": 0.27
     },
     {
       "date": "2023-09-18",
@@ -5527,7 +5527,7 @@
       "amplitude_pct": 2.72,
       "pct": 1.55,
       "change": 0.012,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-09-27",
@@ -5540,7 +5540,7 @@
       "amplitude_pct": 1.4,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-09-28",
@@ -5592,7 +5592,7 @@
       "amplitude_pct": 1.8,
       "pct": 1.41,
       "change": 0.011,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-10-12",
@@ -5696,7 +5696,7 @@
       "amplitude_pct": 3.66,
       "pct": -2.04,
       "change": -0.015,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-10-24",
@@ -5774,7 +5774,7 @@
       "amplitude_pct": 1.88,
       "pct": -1.08,
       "change": -0.008,
-      "turnover_pct": 0.23
+      "turnover_pct": 0.22
     },
     {
       "date": "2023-11-01",
@@ -5800,7 +5800,7 @@
       "amplitude_pct": 2.19,
       "pct": -1.37,
       "change": -0.01,
-      "turnover_pct": 0.21
+      "turnover_pct": 0.2
     },
     {
       "date": "2023-11-03",
@@ -5813,7 +5813,7 @@
       "amplitude_pct": 2.77,
       "pct": 3.74,
       "change": 0.027,
-      "turnover_pct": 0.91
+      "turnover_pct": 0.89
     },
     {
       "date": "2023-11-06",
@@ -5826,7 +5826,7 @@
       "amplitude_pct": 2.14,
       "pct": 2.27,
       "change": 0.017,
-      "turnover_pct": 0.63
+      "turnover_pct": 0.62
     },
     {
       "date": "2023-11-07",
@@ -5852,7 +5852,7 @@
       "amplitude_pct": 1.3,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 0.54
+      "turnover_pct": 0.53
     },
     {
       "date": "2023-11-09",
@@ -5865,7 +5865,7 @@
       "amplitude_pct": 0.91,
       "pct": -0.26,
       "change": -0.002,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2023-11-10",
@@ -5878,7 +5878,7 @@
       "amplitude_pct": 0.91,
       "pct": -0.52,
       "change": -0.004,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2023-11-13",
@@ -5891,7 +5891,7 @@
       "amplitude_pct": 1.18,
       "pct": 0.66,
       "change": 0.005,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-11-14",
@@ -5904,7 +5904,7 @@
       "amplitude_pct": 1.17,
       "pct": 0.39,
       "change": 0.003,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-11-15",
@@ -5917,7 +5917,7 @@
       "amplitude_pct": 1.56,
       "pct": 0.78,
       "change": 0.006,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2023-11-16",
@@ -5930,7 +5930,7 @@
       "amplitude_pct": 1.8,
       "pct": -1.55,
       "change": -0.012,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2023-11-17",
@@ -5943,7 +5943,7 @@
       "amplitude_pct": 2.09,
       "pct": 1.05,
       "change": 0.008,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2023-11-20",
@@ -5969,7 +5969,7 @@
       "amplitude_pct": 2.17,
       "pct": -1.27,
       "change": -0.01,
-      "turnover_pct": 0.4
+      "turnover_pct": 0.39
     },
     {
       "date": "2023-11-22",
@@ -5982,7 +5982,7 @@
       "amplitude_pct": 2.32,
       "pct": -2.06,
       "change": -0.016,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2023-11-23",
@@ -6008,7 +6008,7 @@
       "amplitude_pct": 1.69,
       "pct": -1.43,
       "change": -0.011,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2023-11-27",
@@ -6021,7 +6021,7 @@
       "amplitude_pct": 1.45,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 0.28
+      "turnover_pct": 0.27
     },
     {
       "date": "2023-11-28",
@@ -6060,7 +6060,7 @@
       "amplitude_pct": 1.96,
       "pct": -0.39,
       "change": -0.003,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2023-12-01",
@@ -6073,7 +6073,7 @@
       "amplitude_pct": 1.84,
       "pct": 0.53,
       "change": 0.004,
-      "turnover_pct": 0.26
+      "turnover_pct": 0.25
     },
     {
       "date": "2023-12-04",
@@ -6099,7 +6099,7 @@
       "amplitude_pct": 2.91,
       "pct": -3.04,
       "change": -0.023,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2023-12-06",
@@ -6112,7 +6112,7 @@
       "amplitude_pct": 1.36,
       "pct": -0.14,
       "change": -0.001,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-12-07",
@@ -6125,7 +6125,7 @@
       "amplitude_pct": 1.64,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.38
+      "turnover_pct": 0.37
     },
     {
       "date": "2023-12-08",
@@ -6151,7 +6151,7 @@
       "amplitude_pct": 3.26,
       "pct": 1.9,
       "change": 0.014,
-      "turnover_pct": 0.34
+      "turnover_pct": 0.33
     },
     {
       "date": "2023-12-12",
@@ -6177,7 +6177,7 @@
       "amplitude_pct": 2.14,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2023-12-14",
@@ -6203,7 +6203,7 @@
       "amplitude_pct": 1.62,
       "pct": -0.94,
       "change": -0.007,
-      "turnover_pct": 0.6
+      "turnover_pct": 0.59
     },
     {
       "date": "2023-12-18",
@@ -6242,7 +6242,7 @@
       "amplitude_pct": 2.19,
       "pct": -1.92,
       "change": -0.014,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2023-12-21",
@@ -6268,7 +6268,7 @@
       "amplitude_pct": 2.07,
       "pct": -1.1,
       "change": -0.008,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-12-25",
@@ -6281,7 +6281,7 @@
       "amplitude_pct": 1.54,
       "pct": 0.56,
       "change": 0.004,
-      "turnover_pct": 0.24
+      "turnover_pct": 0.23
     },
     {
       "date": "2023-12-26",
@@ -6294,7 +6294,7 @@
       "amplitude_pct": 2.78,
       "pct": -2.08,
       "change": -0.015,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2023-12-27",
@@ -6307,7 +6307,7 @@
       "amplitude_pct": 1.56,
       "pct": 0.71,
       "change": 0.005,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2023-12-28",
@@ -6320,7 +6320,7 @@
       "amplitude_pct": 3.8,
       "pct": 2.68,
       "change": 0.019,
-      "turnover_pct": 0.35
+      "turnover_pct": 0.34
     },
     {
       "date": "2023-12-29",
@@ -6346,7 +6346,7 @@
       "amplitude_pct": 1.89,
       "pct": -1.62,
       "change": -0.012,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2024-01-03",
@@ -6359,7 +6359,7 @@
       "amplitude_pct": 2.34,
       "pct": -1.37,
       "change": -0.01,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2024-01-04",
@@ -6372,7 +6372,7 @@
       "amplitude_pct": 1.95,
       "pct": -1.81,
       "change": -0.013,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2024-01-05",
@@ -6385,7 +6385,7 @@
       "amplitude_pct": 3.12,
       "pct": -1.7,
       "change": -0.012,
-      "turnover_pct": 0.38
+      "turnover_pct": 0.37
     },
     {
       "date": "2024-01-08",
@@ -6424,7 +6424,7 @@
       "amplitude_pct": 2.19,
       "pct": -1.46,
       "change": -0.01,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-01-11",
@@ -6450,7 +6450,7 @@
       "amplitude_pct": 1.46,
       "pct": -1.02,
       "change": -0.007,
-      "turnover_pct": 0.25
+      "turnover_pct": 0.24
     },
     {
       "date": "2024-01-15",
@@ -6476,7 +6476,7 @@
       "amplitude_pct": 2.23,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.26
+      "turnover_pct": 0.25
     },
     {
       "date": "2024-01-17",
@@ -6528,7 +6528,7 @@
       "amplitude_pct": 6.04,
       "pct": -4.8,
       "change": -0.031,
-      "turnover_pct": 0.5
+      "turnover_pct": 0.49
     },
     {
       "date": "2024-01-23",
@@ -6554,7 +6554,7 @@
       "amplitude_pct": 3.67,
       "pct": 0.96,
       "change": 0.006,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2024-01-25",
@@ -6606,7 +6606,7 @@
       "amplitude_pct": 3.55,
       "pct": -1.45,
       "change": -0.009,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2024-01-31",
@@ -6619,7 +6619,7 @@
       "amplitude_pct": 4.26,
       "pct": -3.61,
       "change": -0.022,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2024-02-01",
@@ -6645,7 +6645,7 @@
       "amplitude_pct": 6.9,
       "pct": -2.69,
       "change": -0.016,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2024-02-05",
@@ -6658,7 +6658,7 @@
       "amplitude_pct": 6.23,
       "pct": -3.81,
       "change": -0.022,
-      "turnover_pct": 0.59
+      "turnover_pct": 0.58
     },
     {
       "date": "2024-02-06",
@@ -6671,7 +6671,7 @@
       "amplitude_pct": 8.63,
       "pct": 5.76,
       "change": 0.032,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2024-02-07",
@@ -6684,7 +6684,7 @@
       "amplitude_pct": 4.76,
       "pct": 2.38,
       "change": 0.014,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2024-02-08",
@@ -6697,7 +6697,7 @@
       "amplitude_pct": 3.99,
       "pct": 4.49,
       "change": 0.027,
-      "turnover_pct": 0.51
+      "turnover_pct": 0.5
     },
     {
       "date": "2024-02-19",
@@ -6710,7 +6710,7 @@
       "amplitude_pct": 2.86,
       "pct": 2.07,
       "change": 0.013,
-      "turnover_pct": 0.43
+      "turnover_pct": 0.42
     },
     {
       "date": "2024-02-20",
@@ -6762,7 +6762,7 @@
       "amplitude_pct": 3.04,
       "pct": 2.28,
       "change": 0.015,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2024-02-26",
@@ -6775,7 +6775,7 @@
       "amplitude_pct": 2.98,
       "pct": 4.02,
       "change": 0.027,
-      "turnover_pct": 1.71
+      "turnover_pct": 1.68
     },
     {
       "date": "2024-02-27",
@@ -6788,7 +6788,7 @@
       "amplitude_pct": 4.29,
       "pct": 3.0,
       "change": 0.021,
-      "turnover_pct": 1.38
+      "turnover_pct": 1.36
     },
     {
       "date": "2024-02-28",
@@ -6801,7 +6801,7 @@
       "amplitude_pct": 6.94,
       "pct": -6.25,
       "change": -0.045,
-      "turnover_pct": 1.33
+      "turnover_pct": 1.31
     },
     {
       "date": "2024-02-29",
@@ -6814,7 +6814,7 @@
       "amplitude_pct": 6.22,
       "pct": 5.04,
       "change": 0.034,
-      "turnover_pct": 0.86
+      "turnover_pct": 0.85
     },
     {
       "date": "2024-03-01",
@@ -6827,7 +6827,7 @@
       "amplitude_pct": 3.1,
       "pct": 2.54,
       "change": 0.018,
-      "turnover_pct": 1.03
+      "turnover_pct": 1.02
     },
     {
       "date": "2024-03-04",
@@ -6840,7 +6840,7 @@
       "amplitude_pct": 2.75,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.87
+      "turnover_pct": 0.86
     },
     {
       "date": "2024-03-05",
@@ -6853,7 +6853,7 @@
       "amplitude_pct": 2.61,
       "pct": -0.28,
       "change": -0.002,
-      "turnover_pct": 0.79
+      "turnover_pct": 0.77
     },
     {
       "date": "2024-03-06",
@@ -6866,7 +6866,7 @@
       "amplitude_pct": 2.9,
       "pct": 1.52,
       "change": 0.011,
-      "turnover_pct": 0.89
+      "turnover_pct": 0.87
     },
     {
       "date": "2024-03-07",
@@ -6879,7 +6879,7 @@
       "amplitude_pct": 3.8,
       "pct": -1.49,
       "change": -0.011,
-      "turnover_pct": 1.17
+      "turnover_pct": 1.15
     },
     {
       "date": "2024-03-08",
@@ -6892,7 +6892,7 @@
       "amplitude_pct": 2.9,
       "pct": 1.38,
       "change": 0.01,
-      "turnover_pct": 0.71
+      "turnover_pct": 0.7
     },
     {
       "date": "2024-03-11",
@@ -6905,7 +6905,7 @@
       "amplitude_pct": 2.31,
       "pct": 0.95,
       "change": 0.007,
-      "turnover_pct": 0.57
+      "turnover_pct": 0.56
     },
     {
       "date": "2024-03-12",
@@ -6918,7 +6918,7 @@
       "amplitude_pct": 1.75,
       "pct": 0.54,
       "change": 0.004,
-      "turnover_pct": 0.52
+      "turnover_pct": 0.51
     },
     {
       "date": "2024-03-13",
@@ -6931,7 +6931,7 @@
       "amplitude_pct": 1.47,
       "pct": -0.13,
       "change": -0.001,
-      "turnover_pct": 0.68
+      "turnover_pct": 0.67
     },
     {
       "date": "2024-03-14",
@@ -6944,7 +6944,7 @@
       "amplitude_pct": 3.22,
       "pct": -0.94,
       "change": -0.007,
-      "turnover_pct": 0.7
+      "turnover_pct": 0.69
     },
     {
       "date": "2024-03-15",
@@ -6957,7 +6957,7 @@
       "amplitude_pct": 3.12,
       "pct": 2.3,
       "change": 0.017,
-      "turnover_pct": 1.0
+      "turnover_pct": 0.98
     },
     {
       "date": "2024-03-18",
@@ -6970,7 +6970,7 @@
       "amplitude_pct": 1.99,
       "pct": 1.46,
       "change": 0.011,
-      "turnover_pct": 0.96
+      "turnover_pct": 0.94
     },
     {
       "date": "2024-03-19",
@@ -6983,7 +6983,7 @@
       "amplitude_pct": 1.44,
       "pct": -2.09,
       "change": -0.016,
-      "turnover_pct": 0.73
+      "turnover_pct": 0.72
     },
     {
       "date": "2024-03-20",
@@ -6996,7 +6996,7 @@
       "amplitude_pct": 1.47,
       "pct": 0.67,
       "change": 0.005,
-      "turnover_pct": 0.62
+      "turnover_pct": 0.61
     },
     {
       "date": "2024-03-21",
@@ -7009,7 +7009,7 @@
       "amplitude_pct": 1.85,
       "pct": -0.93,
       "change": -0.007,
-      "turnover_pct": 0.55
+      "turnover_pct": 0.54
     },
     {
       "date": "2024-03-22",
@@ -7022,7 +7022,7 @@
       "amplitude_pct": 2.27,
       "pct": -1.6,
       "change": -0.012,
-      "turnover_pct": 0.6
+      "turnover_pct": 0.59
     },
     {
       "date": "2024-03-25",
@@ -7035,7 +7035,7 @@
       "amplitude_pct": 3.4,
       "pct": -2.17,
       "change": -0.016,
-      "turnover_pct": 0.55
+      "turnover_pct": 0.54
     },
     {
       "date": "2024-03-26",
@@ -7048,7 +7048,7 @@
       "amplitude_pct": 2.36,
       "pct": -0.69,
       "change": -0.005,
-      "turnover_pct": 0.7
+      "turnover_pct": 0.69
     },
     {
       "date": "2024-03-27",
@@ -7061,7 +7061,7 @@
       "amplitude_pct": 4.9,
       "pct": -3.64,
       "change": -0.026,
-      "turnover_pct": 0.69
+      "turnover_pct": 0.68
     },
     {
       "date": "2024-03-28",
@@ -7074,7 +7074,7 @@
       "amplitude_pct": 4.93,
       "pct": 3.92,
       "change": 0.027,
-      "turnover_pct": 1.38
+      "turnover_pct": 1.35
     },
     {
       "date": "2024-03-29",
@@ -7100,7 +7100,7 @@
       "amplitude_pct": 1.11,
       "pct": 1.25,
       "change": 0.009,
-      "turnover_pct": 0.55
+      "turnover_pct": 0.54
     },
     {
       "date": "2024-04-02",
@@ -7113,7 +7113,7 @@
       "amplitude_pct": 2.19,
       "pct": -1.23,
       "change": -0.009,
-      "turnover_pct": 0.51
+      "turnover_pct": 0.5
     },
     {
       "date": "2024-04-03",
@@ -7126,7 +7126,7 @@
       "amplitude_pct": 2.5,
       "pct": -2.22,
       "change": -0.016,
-      "turnover_pct": 0.5
+      "turnover_pct": 0.49
     },
     {
       "date": "2024-04-08",
@@ -7139,7 +7139,7 @@
       "amplitude_pct": 2.84,
       "pct": -1.85,
       "change": -0.013,
-      "turnover_pct": 0.4
+      "turnover_pct": 0.39
     },
     {
       "date": "2024-04-09",
@@ -7152,7 +7152,7 @@
       "amplitude_pct": 1.59,
       "pct": 0.87,
       "change": 0.006,
-      "turnover_pct": 0.34
+      "turnover_pct": 0.33
     },
     {
       "date": "2024-04-10",
@@ -7165,7 +7165,7 @@
       "amplitude_pct": 2.73,
       "pct": -1.58,
       "change": -0.011,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-04-11",
@@ -7178,7 +7178,7 @@
       "amplitude_pct": 2.77,
       "pct": 0.73,
       "change": 0.005,
-      "turnover_pct": 0.47
+      "turnover_pct": 0.46
     },
     {
       "date": "2024-04-12",
@@ -7204,7 +7204,7 @@
       "amplitude_pct": 2.92,
       "pct": -0.73,
       "change": -0.005,
-      "turnover_pct": 0.55
+      "turnover_pct": 0.54
     },
     {
       "date": "2024-04-16",
@@ -7217,7 +7217,7 @@
       "amplitude_pct": 4.55,
       "pct": -4.41,
       "change": -0.03,
-      "turnover_pct": 0.45
+      "turnover_pct": 0.44
     },
     {
       "date": "2024-04-17",
@@ -7230,7 +7230,7 @@
       "amplitude_pct": 4.3,
       "pct": 5.22,
       "change": 0.034,
-      "turnover_pct": 0.69
+      "turnover_pct": 0.68
     },
     {
       "date": "2024-04-18",
@@ -7256,7 +7256,7 @@
       "amplitude_pct": 1.9,
       "pct": -1.31,
       "change": -0.009,
-      "turnover_pct": 0.4
+      "turnover_pct": 0.39
     },
     {
       "date": "2024-04-22",
@@ -7282,7 +7282,7 @@
       "amplitude_pct": 1.78,
       "pct": -0.45,
       "change": -0.003,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2024-04-24",
@@ -7308,7 +7308,7 @@
       "amplitude_pct": 1.17,
       "pct": -0.58,
       "change": -0.004,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2024-04-26",
@@ -7321,7 +7321,7 @@
       "amplitude_pct": 2.94,
       "pct": 2.64,
       "change": 0.018,
-      "turnover_pct": 0.52
+      "turnover_pct": 0.51
     },
     {
       "date": "2024-04-29",
@@ -7334,7 +7334,7 @@
       "amplitude_pct": 2.72,
       "pct": 3.58,
       "change": 0.025,
-      "turnover_pct": 0.88
+      "turnover_pct": 0.87
     },
     {
       "date": "2024-04-30",
@@ -7347,7 +7347,7 @@
       "amplitude_pct": 1.52,
       "pct": -1.66,
       "change": -0.012,
-      "turnover_pct": 0.53
+      "turnover_pct": 0.52
     },
     {
       "date": "2024-05-06",
@@ -7360,7 +7360,7 @@
       "amplitude_pct": 0.98,
       "pct": 2.25,
       "change": 0.016,
-      "turnover_pct": 1.17
+      "turnover_pct": 1.15
     },
     {
       "date": "2024-05-07",
@@ -7373,7 +7373,7 @@
       "amplitude_pct": 1.51,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.45
+      "turnover_pct": 0.44
     },
     {
       "date": "2024-05-08",
@@ -7386,7 +7386,7 @@
       "amplitude_pct": 1.79,
       "pct": -1.92,
       "change": -0.014,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2024-05-09",
@@ -7399,7 +7399,7 @@
       "amplitude_pct": 1.54,
       "pct": 1.12,
       "change": 0.008,
-      "turnover_pct": 0.48
+      "turnover_pct": 0.47
     },
     {
       "date": "2024-05-10",
@@ -7412,7 +7412,7 @@
       "amplitude_pct": 1.8,
       "pct": -0.69,
       "change": -0.005,
-      "turnover_pct": 0.58
+      "turnover_pct": 0.57
     },
     {
       "date": "2024-05-13",
@@ -7425,7 +7425,7 @@
       "amplitude_pct": 1.39,
       "pct": -1.12,
       "change": -0.008,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2024-05-14",
@@ -7438,7 +7438,7 @@
       "amplitude_pct": 1.69,
       "pct": 0.14,
       "change": 0.001,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2024-05-15",
@@ -7529,7 +7529,7 @@
       "amplitude_pct": 1.99,
       "pct": -1.71,
       "change": -0.012,
-      "turnover_pct": 0.38
+      "turnover_pct": 0.37
     },
     {
       "date": "2024-05-24",
@@ -7568,7 +7568,7 @@
       "amplitude_pct": 1.46,
       "pct": -1.02,
       "change": -0.007,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2024-05-29",
@@ -7594,7 +7594,7 @@
       "amplitude_pct": 2.07,
       "pct": 0.44,
       "change": 0.003,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2024-05-31",
@@ -7620,7 +7620,7 @@
       "amplitude_pct": 2.19,
       "pct": -0.29,
       "change": -0.002,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2024-06-04",
@@ -7646,7 +7646,7 @@
       "amplitude_pct": 1.76,
       "pct": -1.32,
       "change": -0.009,
-      "turnover_pct": 0.47
+      "turnover_pct": 0.46
     },
     {
       "date": "2024-06-06",
@@ -7659,7 +7659,7 @@
       "amplitude_pct": 2.83,
       "pct": -1.79,
       "change": -0.012,
-      "turnover_pct": 0.46
+      "turnover_pct": 0.45
     },
     {
       "date": "2024-06-07",
@@ -7672,7 +7672,7 @@
       "amplitude_pct": 2.12,
       "pct": -0.61,
       "change": -0.004,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2024-06-11",
@@ -7685,7 +7685,7 @@
       "amplitude_pct": 2.9,
       "pct": 0.92,
       "change": 0.006,
-      "turnover_pct": 0.35
+      "turnover_pct": 0.34
     },
     {
       "date": "2024-06-12",
@@ -7698,7 +7698,7 @@
       "amplitude_pct": 2.12,
       "pct": 1.21,
       "change": 0.008,
-      "turnover_pct": 0.48
+      "turnover_pct": 0.47
     },
     {
       "date": "2024-06-13",
@@ -7711,7 +7711,7 @@
       "amplitude_pct": 1.64,
       "pct": 0.45,
       "change": 0.003,
-      "turnover_pct": 0.45
+      "turnover_pct": 0.44
     },
     {
       "date": "2024-06-14",
@@ -7737,7 +7737,7 @@
       "amplitude_pct": 2.09,
       "pct": -0.15,
       "change": -0.001,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-06-18",
@@ -7750,7 +7750,7 @@
       "amplitude_pct": 1.49,
       "pct": 0.75,
       "change": 0.005,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2024-06-19",
@@ -7802,7 +7802,7 @@
       "amplitude_pct": 2.93,
       "pct": -2.93,
       "change": -0.019,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2024-06-25",
@@ -7828,7 +7828,7 @@
       "amplitude_pct": 3.66,
       "pct": 2.23,
       "change": 0.014,
-      "turnover_pct": 0.54
+      "turnover_pct": 0.53
     },
     {
       "date": "2024-06-27",
@@ -7841,7 +7841,7 @@
       "amplitude_pct": 2.02,
       "pct": -2.02,
       "change": -0.013,
-      "turnover_pct": 0.38
+      "turnover_pct": 0.37
     },
     {
       "date": "2024-06-28",
@@ -7854,7 +7854,7 @@
       "amplitude_pct": 2.22,
       "pct": 0.79,
       "change": 0.005,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2024-07-01",
@@ -7867,7 +7867,7 @@
       "amplitude_pct": 1.89,
       "pct": -0.47,
       "change": -0.003,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2024-07-02",
@@ -7893,7 +7893,7 @@
       "amplitude_pct": 1.44,
       "pct": -1.28,
       "change": -0.008,
-      "turnover_pct": 0.38
+      "turnover_pct": 0.37
     },
     {
       "date": "2024-07-04",
@@ -7906,7 +7906,7 @@
       "amplitude_pct": 2.91,
       "pct": -0.81,
       "change": -0.005,
-      "turnover_pct": 0.43
+      "turnover_pct": 0.42
     },
     {
       "date": "2024-07-05",
@@ -7919,7 +7919,7 @@
       "amplitude_pct": 2.12,
       "pct": -0.33,
       "change": -0.002,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-07-08",
@@ -7945,7 +7945,7 @@
       "amplitude_pct": 3.89,
       "pct": 2.36,
       "change": 0.014,
-      "turnover_pct": 0.59
+      "turnover_pct": 0.58
     },
     {
       "date": "2024-07-10",
@@ -7958,7 +7958,7 @@
       "amplitude_pct": 1.49,
       "pct": -0.17,
       "change": -0.001,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2024-07-11",
@@ -7971,7 +7971,7 @@
       "amplitude_pct": 1.65,
       "pct": 1.98,
       "change": 0.012,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-07-12",
@@ -7984,7 +7984,7 @@
       "amplitude_pct": 1.3,
       "pct": -1.13,
       "change": -0.007,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2024-07-15",
@@ -7997,7 +7997,7 @@
       "amplitude_pct": 2.3,
       "pct": -2.46,
       "change": -0.015,
-      "turnover_pct": 0.42
+      "turnover_pct": 0.41
     },
     {
       "date": "2024-07-16",
@@ -8010,7 +8010,7 @@
       "amplitude_pct": 2.02,
       "pct": 1.01,
       "change": 0.006,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2024-07-17",
@@ -8023,7 +8023,7 @@
       "amplitude_pct": 1.33,
       "pct": -1.16,
       "change": -0.007,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2024-07-18",
@@ -8036,7 +8036,7 @@
       "amplitude_pct": 2.36,
       "pct": 0.67,
       "change": 0.004,
-      "turnover_pct": 0.4
+      "turnover_pct": 0.39
     },
     {
       "date": "2024-07-19",
@@ -8049,7 +8049,7 @@
       "amplitude_pct": 2.17,
       "pct": 0.67,
       "change": 0.004,
-      "turnover_pct": 0.56
+      "turnover_pct": 0.55
     },
     {
       "date": "2024-07-22",
@@ -8075,7 +8075,7 @@
       "amplitude_pct": 4.14,
       "pct": -3.48,
       "change": -0.021,
-      "turnover_pct": 0.58
+      "turnover_pct": 0.57
     },
     {
       "date": "2024-07-24",
@@ -8101,7 +8101,7 @@
       "amplitude_pct": 1.92,
       "pct": -0.52,
       "change": -0.003,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2024-07-26",
@@ -8140,7 +8140,7 @@
       "amplitude_pct": 2.09,
       "pct": 0.35,
       "change": 0.002,
-      "turnover_pct": 0.33
+      "turnover_pct": 0.32
     },
     {
       "date": "2024-07-31",
@@ -8153,7 +8153,7 @@
       "amplitude_pct": 5.9,
       "pct": 5.21,
       "change": 0.03,
-      "turnover_pct": 0.84
+      "turnover_pct": 0.82
     },
     {
       "date": "2024-08-01",
@@ -8166,7 +8166,7 @@
       "amplitude_pct": 1.98,
       "pct": -0.5,
       "change": -0.003,
-      "turnover_pct": 0.69
+      "turnover_pct": 0.68
     },
     {
       "date": "2024-08-02",
@@ -8179,7 +8179,7 @@
       "amplitude_pct": 2.65,
       "pct": -2.32,
       "change": -0.014,
-      "turnover_pct": 0.51
+      "turnover_pct": 0.5
     },
     {
       "date": "2024-08-05",
@@ -8192,7 +8192,7 @@
       "amplitude_pct": 4.07,
       "pct": -3.06,
       "change": -0.018,
-      "turnover_pct": 0.57
+      "turnover_pct": 0.56
     },
     {
       "date": "2024-08-06",
@@ -8218,7 +8218,7 @@
       "amplitude_pct": 1.22,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.4
+      "turnover_pct": 0.39
     },
     {
       "date": "2024-08-08",
@@ -8231,7 +8231,7 @@
       "amplitude_pct": 2.43,
       "pct": -0.69,
       "change": -0.004,
-      "turnover_pct": 0.5
+      "turnover_pct": 0.49
     },
     {
       "date": "2024-08-09",
@@ -8270,7 +8270,7 @@
       "amplitude_pct": 1.6,
       "pct": 0.18,
       "change": 0.001,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2024-08-14",
@@ -8283,7 +8283,7 @@
       "amplitude_pct": 1.24,
       "pct": -1.06,
       "change": -0.006,
-      "turnover_pct": 0.27
+      "turnover_pct": 0.26
     },
     {
       "date": "2024-08-15",
@@ -8309,7 +8309,7 @@
       "amplitude_pct": 0.88,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2024-08-19",
@@ -8348,7 +8348,7 @@
       "amplitude_pct": 1.27,
       "pct": 0.18,
       "change": 0.001,
-      "turnover_pct": 0.29
+      "turnover_pct": 0.28
     },
     {
       "date": "2024-08-22",
@@ -8361,7 +8361,7 @@
       "amplitude_pct": 2.35,
       "pct": -1.99,
       "change": -0.011,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2024-08-23",
@@ -8374,7 +8374,7 @@
       "amplitude_pct": 1.48,
       "pct": 0.74,
       "change": 0.004,
-      "turnover_pct": 0.5
+      "turnover_pct": 0.49
     },
     {
       "date": "2024-08-26",
@@ -8387,7 +8387,7 @@
       "amplitude_pct": 1.28,
       "pct": 0.55,
       "change": 0.003,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2024-08-27",
@@ -8413,7 +8413,7 @@
       "amplitude_pct": 1.66,
       "pct": 0.92,
       "change": 0.005,
-      "turnover_pct": 0.32
+      "turnover_pct": 0.31
     },
     {
       "date": "2024-08-29",
@@ -8426,7 +8426,7 @@
       "amplitude_pct": 3.84,
       "pct": 2.38,
       "change": 0.013,
-      "turnover_pct": 0.57
+      "turnover_pct": 0.56
     },
     {
       "date": "2024-08-30",
@@ -8439,7 +8439,7 @@
       "amplitude_pct": 3.57,
       "pct": 1.79,
       "change": 0.01,
-      "turnover_pct": 0.68
+      "turnover_pct": 0.67
     },
     {
       "date": "2024-09-02",
@@ -8452,7 +8452,7 @@
       "amplitude_pct": 2.81,
       "pct": -2.81,
       "change": -0.016,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-09-03",
@@ -8478,7 +8478,7 @@
       "amplitude_pct": 2.13,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.28
+      "turnover_pct": 0.27
     },
     {
       "date": "2024-09-05",
@@ -8504,7 +8504,7 @@
       "amplitude_pct": 2.47,
       "pct": -1.94,
       "change": -0.011,
-      "turnover_pct": 0.37
+      "turnover_pct": 0.36
     },
     {
       "date": "2024-09-09",
@@ -8530,7 +8530,7 @@
       "amplitude_pct": 2.9,
       "pct": 1.09,
       "change": 0.006,
-      "turnover_pct": 0.36
+      "turnover_pct": 0.35
     },
     {
       "date": "2024-09-11",
@@ -8556,7 +8556,7 @@
       "amplitude_pct": 1.78,
       "pct": -0.71,
       "change": -0.004,
-      "turnover_pct": 0.3
+      "turnover_pct": 0.29
     },
     {
       "date": "2024-09-13",
@@ -8569,7 +8569,7 @@
       "amplitude_pct": 1.61,
       "pct": -1.25,
       "change": -0.007,
-      "turnover_pct": 0.31
+      "turnover_pct": 0.3
     },
     {
       "date": "2024-09-18",
@@ -8595,7 +8595,7 @@
       "amplitude_pct": 2.7,
       "pct": 1.44,
       "change": 0.008,
-      "turnover_pct": 0.62
+      "turnover_pct": 0.61
     },
     {
       "date": "2024-09-20",
@@ -8608,7 +8608,7 @@
       "amplitude_pct": 1.6,
       "pct": -0.89,
       "change": -0.005,
-      "turnover_pct": 0.38
+      "turnover_pct": 0.37
     },
     {
       "date": "2024-09-23",
@@ -8634,7 +8634,7 @@
       "amplitude_pct": 4.85,
       "pct": 4.13,
       "change": 0.023,
-      "turnover_pct": 0.98
+      "turnover_pct": 0.96
     },
     {
       "date": "2024-09-25",
@@ -8647,7 +8647,7 @@
       "amplitude_pct": 2.76,
       "pct": -0.17,
       "change": -0.001,
-      "turnover_pct": 1.16
+      "turnover_pct": 1.14
     },
     {
       "date": "2024-09-26",
@@ -8660,7 +8660,7 @@
       "amplitude_pct": 5.35,
       "pct": 4.32,
       "change": 0.025,
-      "turnover_pct": 0.99
+      "turnover_pct": 0.97
     },
     {
       "date": "2024-09-27",
@@ -8673,7 +8673,7 @@
       "amplitude_pct": 5.79,
       "pct": 6.62,
       "change": 0.04,
-      "turnover_pct": 0.72
+      "turnover_pct": 0.71
     },
     {
       "date": "2024-09-30",
@@ -8686,7 +8686,7 @@
       "amplitude_pct": 7.61,
       "pct": 9.94,
       "change": 0.064,
-      "turnover_pct": 1.19
+      "turnover_pct": 1.17
     },
     {
       "date": "2024-10-08",
@@ -8699,7 +8699,7 @@
       "amplitude_pct": 5.65,
       "pct": 10.03,
       "change": 0.071,
-      "turnover_pct": 1.41
+      "turnover_pct": 1.38
     },
     {
       "date": "2024-10-09",
@@ -8712,7 +8712,7 @@
       "amplitude_pct": 7.57,
       "pct": -5.91,
       "change": -0.046,
-      "turnover_pct": 2.0
+      "turnover_pct": 1.96
     },
     {
       "date": "2024-10-10",
@@ -8725,7 +8725,7 @@
       "amplitude_pct": 5.73,
       "pct": -1.64,
       "change": -0.012,
-      "turnover_pct": 0.93
+      "turnover_pct": 0.91
     },
     {
       "date": "2024-10-11",
@@ -8738,7 +8738,7 @@
       "amplitude_pct": 6.66,
       "pct": -5.55,
       "change": -0.04,
-      "turnover_pct": 0.97
+      "turnover_pct": 0.95
     },
     {
       "date": "2024-10-14",
@@ -8751,7 +8751,7 @@
       "amplitude_pct": 4.55,
       "pct": 2.2,
       "change": 0.015,
-      "turnover_pct": 0.72
+      "turnover_pct": 0.71
     },
     {
       "date": "2024-10-15",
@@ -8764,7 +8764,7 @@
       "amplitude_pct": 3.3,
       "pct": -1.87,
       "change": -0.013,
-      "turnover_pct": 0.64
+      "turnover_pct": 0.62
     },
     {
       "date": "2024-10-16",
@@ -8777,7 +8777,7 @@
       "amplitude_pct": 2.78,
       "pct": -1.32,
       "change": -0.009,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2024-10-17",
@@ -8790,7 +8790,7 @@
       "amplitude_pct": 2.67,
       "pct": 0.45,
       "change": 0.003,
-      "turnover_pct": 0.55
+      "turnover_pct": 0.54
     },
     {
       "date": "2024-10-18",
@@ -8803,7 +8803,7 @@
       "amplitude_pct": 9.31,
       "pct": 5.76,
       "change": 0.039,
-      "turnover_pct": 0.81
+      "turnover_pct": 0.79
     },
     {
       "date": "2024-10-21",
@@ -8816,7 +8816,7 @@
       "amplitude_pct": 4.05,
       "pct": 1.26,
       "change": 0.009,
-      "turnover_pct": 1.0
+      "turnover_pct": 0.99
     },
     {
       "date": "2024-10-22",
@@ -8829,7 +8829,7 @@
       "amplitude_pct": 2.76,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 0.53
+      "turnover_pct": 0.52
     },
     {
       "date": "2024-10-23",
@@ -8842,7 +8842,7 @@
       "amplitude_pct": 2.21,
       "pct": -0.69,
       "change": -0.005,
-      "turnover_pct": 0.59
+      "turnover_pct": 0.58
     },
     {
       "date": "2024-10-24",
@@ -8855,7 +8855,7 @@
       "amplitude_pct": 1.81,
       "pct": -1.25,
       "change": -0.009,
-      "turnover_pct": 0.47
+      "turnover_pct": 0.46
     },
     {
       "date": "2024-10-25",
@@ -8868,7 +8868,7 @@
       "amplitude_pct": 2.81,
       "pct": 1.69,
       "change": 0.012,
-      "turnover_pct": 0.68
+      "turnover_pct": 0.66
     },
     {
       "date": "2024-10-28",
@@ -8881,7 +8881,7 @@
       "amplitude_pct": 2.07,
       "pct": 1.11,
       "change": 0.008,
-      "turnover_pct": 0.58
+      "turnover_pct": 0.57
     },
     {
       "date": "2024-10-29",
@@ -8894,7 +8894,7 @@
       "amplitude_pct": 2.33,
       "pct": -1.09,
       "change": -0.008,
-      "turnover_pct": 0.66
+      "turnover_pct": 0.65
     },
     {
       "date": "2024-10-30",
@@ -8907,7 +8907,7 @@
       "amplitude_pct": 2.77,
       "pct": -0.28,
       "change": -0.002,
-      "turnover_pct": 0.41
+      "turnover_pct": 0.4
     },
     {
       "date": "2024-10-31",
@@ -8933,7 +8933,7 @@
       "amplitude_pct": 3.05,
       "pct": -3.19,
       "change": -0.023,
-      "turnover_pct": 0.63
+      "turnover_pct": 0.62
     },
     {
       "date": "2024-11-04",
@@ -8946,7 +8946,7 @@
       "amplitude_pct": 6.3,
       "pct": 6.45,
       "change": 0.045,
-      "turnover_pct": 1.82
+      "turnover_pct": 1.79
     },
     {
       "date": "2024-11-05",
@@ -8959,7 +8959,7 @@
       "amplitude_pct": 5.11,
       "pct": 3.1,
       "change": 0.023,
-      "turnover_pct": 2.45
+      "turnover_pct": 2.41
     },
     {
       "date": "2024-11-06",
@@ -8972,7 +8972,7 @@
       "amplitude_pct": 3.52,
       "pct": 1.7,
       "change": 0.013,
-      "turnover_pct": 2.04
+      "turnover_pct": 2.0
     },
     {
       "date": "2024-11-07",
@@ -8985,7 +8985,7 @@
       "amplitude_pct": 3.34,
       "pct": 1.03,
       "change": 0.008,
-      "turnover_pct": 1.54
+      "turnover_pct": 1.51
     },
     {
       "date": "2024-11-08",
@@ -8998,7 +8998,7 @@
       "amplitude_pct": 3.3,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 1.42
+      "turnover_pct": 1.39
     },
     {
       "date": "2024-11-11",
@@ -9011,7 +9011,7 @@
       "amplitude_pct": 6.35,
       "pct": 4.57,
       "change": 0.036,
-      "turnover_pct": 1.86
+      "turnover_pct": 1.82
     },
     {
       "date": "2024-11-12",
@@ -9024,7 +9024,7 @@
       "amplitude_pct": 5.95,
       "pct": -2.55,
       "change": -0.021,
-      "turnover_pct": 1.87
+      "turnover_pct": 1.84
     },
     {
       "date": "2024-11-13",
@@ -9037,7 +9037,7 @@
       "amplitude_pct": 4.23,
       "pct": 1.0,
       "change": 0.008,
-      "turnover_pct": 1.28
+      "turnover_pct": 1.25
     },
     {
       "date": "2024-11-14",
@@ -9050,7 +9050,7 @@
       "amplitude_pct": 3.7,
       "pct": -3.45,
       "change": -0.028,
-      "turnover_pct": 1.07
+      "turnover_pct": 1.06
     },
     {
       "date": "2024-11-15",
@@ -9063,7 +9063,7 @@
       "amplitude_pct": 3.45,
       "pct": -1.92,
       "change": -0.015,
-      "turnover_pct": 1.15
+      "turnover_pct": 1.13
     },
     {
       "date": "2024-11-18",
@@ -9076,7 +9076,7 @@
       "amplitude_pct": 5.47,
       "pct": -3.65,
       "change": -0.028,
-      "turnover_pct": 1.34
+      "turnover_pct": 1.32
     },
     {
       "date": "2024-11-19",
@@ -9089,7 +9089,7 @@
       "amplitude_pct": 4.73,
       "pct": 4.46,
       "change": 0.033,
-      "turnover_pct": 1.49
+      "turnover_pct": 1.46
     },
     {
       "date": "2024-11-20",
@@ -9102,7 +9102,7 @@
       "amplitude_pct": 4.01,
       "pct": 2.72,
       "change": 0.021,
-      "turnover_pct": 2.17
+      "turnover_pct": 2.14
     },
     {
       "date": "2024-11-21",
@@ -9115,7 +9115,7 @@
       "amplitude_pct": 2.27,
       "pct": -0.76,
       "change": -0.006,
-      "turnover_pct": 1.53
+      "turnover_pct": 1.5
     },
     {
       "date": "2024-11-22",
@@ -9128,7 +9128,7 @@
       "amplitude_pct": 4.82,
       "pct": -3.55,
       "change": -0.028,
-      "turnover_pct": 1.4
+      "turnover_pct": 1.38
     },
     {
       "date": "2024-11-25",
@@ -9141,7 +9141,7 @@
       "amplitude_pct": 2.76,
       "pct": 0.13,
       "change": 0.001,
-      "turnover_pct": 1.15
+      "turnover_pct": 1.13
     },
     {
       "date": "2024-11-26",
@@ -9154,7 +9154,7 @@
       "amplitude_pct": 2.89,
       "pct": -2.76,
       "change": -0.021,
-      "turnover_pct": 1.08
+      "turnover_pct": 1.06
     },
     {
       "date": "2024-11-27",
@@ -9167,7 +9167,7 @@
       "amplitude_pct": 4.32,
       "pct": 2.43,
       "change": 0.018,
-      "turnover_pct": 1.24
+      "turnover_pct": 1.22
     },
     {
       "date": "2024-11-28",
@@ -9180,7 +9180,7 @@
       "amplitude_pct": 2.11,
       "pct": -1.58,
       "change": -0.012,
-      "turnover_pct": 1.0
+      "turnover_pct": 0.98
     },
     {
       "date": "2024-11-29",
@@ -9193,7 +9193,7 @@
       "amplitude_pct": 7.64,
       "pct": 5.76,
       "change": 0.043,
-      "turnover_pct": 3.11
+      "turnover_pct": 3.05
     },
     {
       "date": "2024-12-02",
@@ -9206,7 +9206,7 @@
       "amplitude_pct": 3.8,
       "pct": 3.17,
       "change": 0.025,
-      "turnover_pct": 4.46
+      "turnover_pct": 4.38
     },
     {
       "date": "2024-12-03",
@@ -9219,7 +9219,7 @@
       "amplitude_pct": 2.09,
       "pct": -0.37,
       "change": -0.003,
-      "turnover_pct": 3.2
+      "turnover_pct": 3.14
     },
     {
       "date": "2024-12-04",
@@ -9232,7 +9232,7 @@
       "amplitude_pct": 4.19,
       "pct": 1.48,
       "change": 0.012,
-      "turnover_pct": 3.48
+      "turnover_pct": 3.42
     },
     {
       "date": "2024-12-05",
@@ -9245,7 +9245,7 @@
       "amplitude_pct": 3.77,
       "pct": 1.7,
       "change": 0.014,
-      "turnover_pct": 2.57
+      "turnover_pct": 2.53
     },
     {
       "date": "2024-12-06",
@@ -9258,7 +9258,7 @@
       "amplitude_pct": 3.58,
       "pct": 0.48,
       "change": 0.004,
-      "turnover_pct": 3.33
+      "turnover_pct": 3.27
     },
     {
       "date": "2024-12-09",
@@ -9271,7 +9271,7 @@
       "amplitude_pct": 3.45,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 2.96
+      "turnover_pct": 2.91
     },
     {
       "date": "2024-12-10",
@@ -9284,7 +9284,7 @@
       "amplitude_pct": 4.99,
       "pct": 4.04,
       "change": 0.034,
-      "turnover_pct": 4.69
+      "turnover_pct": 4.61
     },
     {
       "date": "2024-12-11",
@@ -9297,7 +9297,7 @@
       "amplitude_pct": 2.51,
       "pct": -1.37,
       "change": -0.012,
-      "turnover_pct": 4.21
+      "turnover_pct": 4.14
     },
     {
       "date": "2024-12-12",
@@ -9310,7 +9310,7 @@
       "amplitude_pct": 2.08,
       "pct": -0.81,
       "change": -0.007,
-      "turnover_pct": 2.87
+      "turnover_pct": 2.82
     },
     {
       "date": "2024-12-13",
@@ -9323,7 +9323,7 @@
       "amplitude_pct": 2.57,
       "pct": -2.22,
       "change": -0.019,
-      "turnover_pct": 2.88
+      "turnover_pct": 2.83
     },
     {
       "date": "2024-12-16",
@@ -9336,7 +9336,7 @@
       "amplitude_pct": 2.51,
       "pct": -1.91,
       "change": -0.016,
-      "turnover_pct": 1.96
+      "turnover_pct": 1.92
     },
     {
       "date": "2024-12-17",
@@ -9349,7 +9349,7 @@
       "amplitude_pct": 2.92,
       "pct": -2.43,
       "change": -0.02,
-      "turnover_pct": 2.22
+      "turnover_pct": 2.18
     },
     {
       "date": "2024-12-18",
@@ -9362,7 +9362,7 @@
       "amplitude_pct": 2.37,
       "pct": 0.87,
       "change": 0.007,
-      "turnover_pct": 2.93
+      "turnover_pct": 2.88
     },
     {
       "date": "2024-12-19",
@@ -9375,7 +9375,7 @@
       "amplitude_pct": 3.09,
       "pct": 0.74,
       "change": 0.006,
-      "turnover_pct": 2.7
+      "turnover_pct": 2.66
     },
     {
       "date": "2024-12-20",
@@ -9388,7 +9388,7 @@
       "amplitude_pct": 3.19,
       "pct": 1.47,
       "change": 0.012,
-      "turnover_pct": 3.8
+      "turnover_pct": 3.73
     },
     {
       "date": "2024-12-23",
@@ -9401,7 +9401,7 @@
       "amplitude_pct": 3.87,
       "pct": -3.63,
       "change": -0.03,
-      "turnover_pct": 4.55
+      "turnover_pct": 4.47
     },
     {
       "date": "2024-12-24",
@@ -9414,7 +9414,7 @@
       "amplitude_pct": 2.01,
       "pct": 1.63,
       "change": 0.013,
-      "turnover_pct": 2.71
+      "turnover_pct": 2.66
     },
     {
       "date": "2024-12-25",
@@ -9427,7 +9427,7 @@
       "amplitude_pct": 2.1,
       "pct": -0.74,
       "change": -0.006,
-      "turnover_pct": 2.47
+      "turnover_pct": 2.43
     },
     {
       "date": "2024-12-26",
@@ -9440,7 +9440,7 @@
       "amplitude_pct": 2.99,
       "pct": 1.74,
       "change": 0.014,
-      "turnover_pct": 3.13
+      "turnover_pct": 3.08
     },
     {
       "date": "2024-12-27",
@@ -9453,7 +9453,7 @@
       "amplitude_pct": 2.32,
       "pct": -1.47,
       "change": -0.012,
-      "turnover_pct": 4.51
+      "turnover_pct": 4.43
     },
     {
       "date": "2024-12-30",
@@ -9466,7 +9466,7 @@
       "amplitude_pct": 2.23,
       "pct": -0.12,
       "change": -0.001,
-      "turnover_pct": 1.99
+      "turnover_pct": 1.96
     },
     {
       "date": "2024-12-31",
@@ -9479,7 +9479,7 @@
       "amplitude_pct": 3.85,
       "pct": -3.35,
       "change": -0.027,
-      "turnover_pct": 2.94
+      "turnover_pct": 2.89
     },
     {
       "date": "2025-01-02",
@@ -9492,7 +9492,7 @@
       "amplitude_pct": 4.37,
       "pct": -2.31,
       "change": -0.018,
-      "turnover_pct": 3.32
+      "turnover_pct": 3.26
     },
     {
       "date": "2025-01-03",
@@ -9505,7 +9505,7 @@
       "amplitude_pct": 4.47,
       "pct": -3.42,
       "change": -0.026,
-      "turnover_pct": 2.53
+      "turnover_pct": 2.49
     },
     {
       "date": "2025-01-06",
@@ -9518,7 +9518,7 @@
       "amplitude_pct": 2.04,
       "pct": -0.82,
       "change": -0.006,
-      "turnover_pct": 1.76
+      "turnover_pct": 1.73
     },
     {
       "date": "2025-01-07",
@@ -9531,7 +9531,7 @@
       "amplitude_pct": 2.75,
       "pct": 2.61,
       "change": 0.019,
-      "turnover_pct": 2.15
+      "turnover_pct": 2.12
     },
     {
       "date": "2025-01-08",
@@ -9544,7 +9544,7 @@
       "amplitude_pct": 6.02,
       "pct": 1.47,
       "change": 0.011,
-      "turnover_pct": 3.51
+      "turnover_pct": 3.45
     },
     {
       "date": "2025-01-09",
@@ -9557,7 +9557,7 @@
       "amplitude_pct": 2.77,
       "pct": 1.19,
       "change": 0.009,
-      "turnover_pct": 2.97
+      "turnover_pct": 2.92
     },
     {
       "date": "2025-01-10",
@@ -9570,7 +9570,7 @@
       "amplitude_pct": 3.65,
       "pct": -0.78,
       "change": -0.006,
-      "turnover_pct": 3.61
+      "turnover_pct": 3.55
     },
     {
       "date": "2025-01-13",
@@ -9583,7 +9583,7 @@
       "amplitude_pct": 4.2,
       "pct": 0.39,
       "change": 0.003,
-      "turnover_pct": 3.33
+      "turnover_pct": 3.27
     },
     {
       "date": "2025-01-14",
@@ -9596,7 +9596,7 @@
       "amplitude_pct": 7.33,
       "pct": 6.81,
       "change": 0.052,
-      "turnover_pct": 7.72
+      "turnover_pct": 7.58
     },
     {
       "date": "2025-01-15",
@@ -9609,7 +9609,7 @@
       "amplitude_pct": 1.59,
       "pct": -0.98,
       "change": -0.008,
-      "turnover_pct": 4.34
+      "turnover_pct": 4.26
     },
     {
       "date": "2025-01-16",
@@ -9622,7 +9622,7 @@
       "amplitude_pct": 3.59,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 6.22
+      "turnover_pct": 6.11
     },
     {
       "date": "2025-01-17",
@@ -9635,7 +9635,7 @@
       "amplitude_pct": 1.85,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 3.55
+      "turnover_pct": 3.49
     },
     {
       "date": "2025-01-20",
@@ -9648,7 +9648,7 @@
       "amplitude_pct": 1.85,
       "pct": -0.12,
       "change": -0.001,
-      "turnover_pct": 3.2
+      "turnover_pct": 3.15
     },
     {
       "date": "2025-01-21",
@@ -9661,7 +9661,7 @@
       "amplitude_pct": 2.6,
       "pct": 2.72,
       "change": 0.022,
-      "turnover_pct": 6.03
+      "turnover_pct": 5.93
     },
     {
       "date": "2025-01-22",
@@ -9674,7 +9674,7 @@
       "amplitude_pct": 1.08,
       "pct": -1.44,
       "change": -0.012,
-      "turnover_pct": 4.29
+      "turnover_pct": 4.22
     },
     {
       "date": "2025-01-23",
@@ -9687,7 +9687,7 @@
       "amplitude_pct": 2.93,
       "pct": 0.24,
       "change": 0.002,
-      "turnover_pct": 5.31
+      "turnover_pct": 5.22
     },
     {
       "date": "2025-01-24",
@@ -9700,7 +9700,7 @@
       "amplitude_pct": 3.41,
       "pct": 2.68,
       "change": 0.022,
-      "turnover_pct": 4.75
+      "turnover_pct": 4.67
     },
     {
       "date": "2025-01-27",
@@ -9713,7 +9713,7 @@
       "amplitude_pct": 3.68,
       "pct": -3.08,
       "change": -0.026,
-      "turnover_pct": 4.95
+      "turnover_pct": 4.87
     },
     {
       "date": "2025-02-05",
@@ -9726,7 +9726,7 @@
       "amplitude_pct": 3.43,
       "pct": 4.28,
       "change": 0.035,
-      "turnover_pct": 5.99
+      "turnover_pct": 5.89
     },
     {
       "date": "2025-02-06",
@@ -9739,7 +9739,7 @@
       "amplitude_pct": 7.39,
       "pct": 5.63,
       "change": 0.048,
-      "turnover_pct": 7.52
+      "turnover_pct": 7.39
     },
     {
       "date": "2025-02-07",
@@ -9752,7 +9752,7 @@
       "amplitude_pct": 3.33,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 9.37
+      "turnover_pct": 9.21
     },
     {
       "date": "2025-02-10",
@@ -9765,7 +9765,7 @@
       "amplitude_pct": 2.33,
       "pct": 0.67,
       "change": 0.006,
-      "turnover_pct": 5.51
+      "turnover_pct": 5.41
     },
     {
       "date": "2025-02-11",
@@ -9778,7 +9778,7 @@
       "amplitude_pct": 2.21,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 4.61
+      "turnover_pct": 4.53
     },
     {
       "date": "2025-02-12",
@@ -9791,7 +9791,7 @@
       "amplitude_pct": 2.65,
       "pct": 1.21,
       "change": 0.011,
-      "turnover_pct": 5.34
+      "turnover_pct": 5.25
     },
     {
       "date": "2025-02-13",
@@ -9804,7 +9804,7 @@
       "amplitude_pct": 3.16,
       "pct": -2.73,
       "change": -0.025,
-      "turnover_pct": 6.71
+      "turnover_pct": 6.59
     },
     {
       "date": "2025-02-14",
@@ -9817,7 +9817,7 @@
       "amplitude_pct": 2.24,
       "pct": 0.56,
       "change": 0.005,
-      "turnover_pct": 4.98
+      "turnover_pct": 4.89
     },
     {
       "date": "2025-02-17",
@@ -9830,7 +9830,7 @@
       "amplitude_pct": 2.56,
       "pct": 2.34,
       "change": 0.021,
-      "turnover_pct": 6.49
+      "turnover_pct": 6.37
     },
     {
       "date": "2025-02-18",
@@ -9843,7 +9843,7 @@
       "amplitude_pct": 3.16,
       "pct": -2.07,
       "change": -0.019,
-      "turnover_pct": 7.25
+      "turnover_pct": 7.12
     },
     {
       "date": "2025-02-19",
@@ -9856,7 +9856,7 @@
       "amplitude_pct": 7.34,
       "pct": 6.9,
       "change": 0.062,
-      "turnover_pct": 9.9
+      "turnover_pct": 9.72
     },
     {
       "date": "2025-02-20",
@@ -9869,7 +9869,7 @@
       "amplitude_pct": 3.43,
       "pct": 1.35,
       "change": 0.013,
-      "turnover_pct": 8.12
+      "turnover_pct": 7.98
     },
     {
       "date": "2025-02-21",
@@ -9882,7 +9882,7 @@
       "amplitude_pct": 4.72,
       "pct": 3.8,
       "change": 0.037,
-      "turnover_pct": 8.49
+      "turnover_pct": 8.34
     },
     {
       "date": "2025-02-24",
@@ -9895,7 +9895,7 @@
       "amplitude_pct": 4.25,
       "pct": -0.3,
       "change": -0.003,
-      "turnover_pct": 10.1
+      "turnover_pct": 9.93
     },
     {
       "date": "2025-02-25",
@@ -9908,7 +9908,7 @@
       "amplitude_pct": 4.96,
       "pct": 0.6,
       "change": 0.006,
-      "turnover_pct": 10.4
+      "turnover_pct": 10.22
     },
     {
       "date": "2025-02-26",
@@ -9921,7 +9921,7 @@
       "amplitude_pct": 4.44,
       "pct": 1.38,
       "change": 0.014,
-      "turnover_pct": 12.78
+      "turnover_pct": 12.56
     },
     {
       "date": "2025-02-27",
@@ -9934,7 +9934,7 @@
       "amplitude_pct": 3.79,
       "pct": -0.68,
       "change": -0.007,
-      "turnover_pct": 12.0
+      "turnover_pct": 11.79
     },
     {
       "date": "2025-02-28",
@@ -9947,7 +9947,7 @@
       "amplitude_pct": 6.56,
       "pct": -7.54,
       "change": -0.077,
-      "turnover_pct": 15.47
+      "turnover_pct": 15.2
     },
     {
       "date": "2025-03-03",
@@ -9960,7 +9960,7 @@
       "amplitude_pct": 3.71,
       "pct": -1.06,
       "change": -0.01,
-      "turnover_pct": 8.53
+      "turnover_pct": 8.38
     },
     {
       "date": "2025-03-04",
@@ -9973,7 +9973,7 @@
       "amplitude_pct": 3.85,
       "pct": 2.36,
       "change": 0.022,
-      "turnover_pct": 8.74
+      "turnover_pct": 8.58
     },
     {
       "date": "2025-03-05",
@@ -9986,7 +9986,7 @@
       "amplitude_pct": 2.2,
       "pct": 1.46,
       "change": 0.014,
-      "turnover_pct": 7.31
+      "turnover_pct": 7.19
     },
     {
       "date": "2025-03-06",
@@ -9999,7 +9999,7 @@
       "amplitude_pct": 3.09,
       "pct": 2.78,
       "change": 0.027,
-      "turnover_pct": 9.22
+      "turnover_pct": 9.05
     },
     {
       "date": "2025-03-07",
@@ -10012,7 +10012,7 @@
       "amplitude_pct": 2.31,
       "pct": -0.3,
       "change": -0.003,
-      "turnover_pct": 8.38
+      "turnover_pct": 8.23
     },
     {
       "date": "2025-03-10",
@@ -10025,7 +10025,7 @@
       "amplitude_pct": 2.31,
       "pct": 1.01,
       "change": 0.01,
-      "turnover_pct": 7.72
+      "turnover_pct": 7.59
     },
     {
       "date": "2025-03-11",
@@ -10038,7 +10038,7 @@
       "amplitude_pct": 2.89,
       "pct": -0.7,
       "change": -0.007,
-      "turnover_pct": 8.73
+      "turnover_pct": 8.58
     },
     {
       "date": "2025-03-12",
@@ -10051,7 +10051,7 @@
       "amplitude_pct": 2.11,
       "pct": -0.9,
       "change": -0.009,
-      "turnover_pct": 6.49
+      "turnover_pct": 6.38
     },
     {
       "date": "2025-03-13",
@@ -10064,7 +10064,7 @@
       "amplitude_pct": 4.66,
       "pct": -3.95,
       "change": -0.039,
-      "turnover_pct": 10.53
+      "turnover_pct": 10.34
     },
     {
       "date": "2025-03-14",
@@ -10077,7 +10077,7 @@
       "amplitude_pct": 3.9,
       "pct": 2.21,
       "change": 0.021,
-      "turnover_pct": 8.43
+      "turnover_pct": 8.28
     },
     {
       "date": "2025-03-17",
@@ -10090,7 +10090,7 @@
       "amplitude_pct": 2.06,
       "pct": 0.41,
       "change": 0.004,
-      "turnover_pct": 6.5
+      "turnover_pct": 6.38
     },
     {
       "date": "2025-03-18",
@@ -10103,7 +10103,7 @@
       "amplitude_pct": 1.33,
       "pct": 1.23,
       "change": 0.012,
-      "turnover_pct": 6.48
+      "turnover_pct": 6.36
     },
     {
       "date": "2025-03-19",
@@ -10116,7 +10116,7 @@
       "amplitude_pct": 2.03,
       "pct": -0.41,
       "change": -0.004,
-      "turnover_pct": 6.4
+      "turnover_pct": 6.29
     },
     {
       "date": "2025-03-20",
@@ -10129,7 +10129,7 @@
       "amplitude_pct": 2.04,
       "pct": -0.92,
       "change": -0.009,
-      "turnover_pct": 5.72
+      "turnover_pct": 5.62
     },
     {
       "date": "2025-03-21",
@@ -10142,7 +10142,7 @@
       "amplitude_pct": 2.98,
       "pct": -3.19,
       "change": -0.031,
-      "turnover_pct": 6.87
+      "turnover_pct": 6.75
     },
     {
       "date": "2025-03-24",
@@ -10155,7 +10155,7 @@
       "amplitude_pct": 3.72,
       "pct": -0.64,
       "change": -0.006,
-      "turnover_pct": 6.47
+      "turnover_pct": 6.36
     },
     {
       "date": "2025-03-25",
@@ -10168,7 +10168,7 @@
       "amplitude_pct": 2.78,
       "pct": -1.92,
       "change": -0.018,
-      "turnover_pct": 4.48
+      "turnover_pct": 4.41
     },
     {
       "date": "2025-03-26",
@@ -10181,7 +10181,7 @@
       "amplitude_pct": 3.05,
       "pct": 1.09,
       "change": 0.01,
-      "turnover_pct": 4.6
+      "turnover_pct": 4.52
     },
     {
       "date": "2025-03-27",
@@ -10194,7 +10194,7 @@
       "amplitude_pct": 2.69,
       "pct": -0.43,
       "change": -0.004,
-      "turnover_pct": 4.66
+      "turnover_pct": 4.58
     },
     {
       "date": "2025-03-28",
@@ -10207,7 +10207,7 @@
       "amplitude_pct": 1.73,
       "pct": -1.19,
       "change": -0.011,
-      "turnover_pct": 3.22
+      "turnover_pct": 3.16
     },
     {
       "date": "2025-03-31",
@@ -10220,7 +10220,7 @@
       "amplitude_pct": 2.74,
       "pct": -1.42,
       "change": -0.013,
-      "turnover_pct": 6.75
+      "turnover_pct": 6.63
     },
     {
       "date": "2025-04-01",
@@ -10233,7 +10233,7 @@
       "amplitude_pct": 1.56,
       "pct": -0.78,
       "change": -0.007,
-      "turnover_pct": 3.78
+      "turnover_pct": 3.72
     },
     {
       "date": "2025-04-02",
@@ -10246,7 +10246,7 @@
       "amplitude_pct": 1.9,
       "pct": 1.12,
       "change": 0.01,
-      "turnover_pct": 4.02
+      "turnover_pct": 3.95
     },
     {
       "date": "2025-04-03",
@@ -10259,7 +10259,7 @@
       "amplitude_pct": 2.99,
       "pct": -2.21,
       "change": -0.02,
-      "turnover_pct": 4.5
+      "turnover_pct": 4.42
     },
     {
       "date": "2025-04-07",
@@ -10272,7 +10272,7 @@
       "amplitude_pct": 3.96,
       "pct": -9.97,
       "change": -0.088,
-      "turnover_pct": 5.1
+      "turnover_pct": 5.01
     },
     {
       "date": "2025-04-08",
@@ -10285,7 +10285,7 @@
       "amplitude_pct": 5.79,
       "pct": -5.28,
       "change": -0.042,
-      "turnover_pct": 9.62
+      "turnover_pct": 9.45
     },
     {
       "date": "2025-04-09",
@@ -10298,7 +10298,7 @@
       "amplitude_pct": 9.96,
       "pct": 2.66,
       "change": 0.02,
-      "turnover_pct": 12.1
+      "turnover_pct": 11.89
     },
     {
       "date": "2025-04-10",
@@ -10311,7 +10311,7 @@
       "amplitude_pct": 3.36,
       "pct": 3.1,
       "change": 0.024,
-      "turnover_pct": 11.15
+      "turnover_pct": 10.96
     },
     {
       "date": "2025-04-11",
@@ -10324,7 +10324,7 @@
       "amplitude_pct": 4.39,
       "pct": 1.88,
       "change": 0.015,
-      "turnover_pct": 7.72
+      "turnover_pct": 7.59
     },
     {
       "date": "2025-04-14",
@@ -10337,7 +10337,7 @@
       "amplitude_pct": 1.97,
       "pct": 0.25,
       "change": 0.002,
-      "turnover_pct": 5.37
+      "turnover_pct": 5.28
     },
     {
       "date": "2025-04-15",
@@ -10350,7 +10350,7 @@
       "amplitude_pct": 1.97,
       "pct": -0.61,
       "change": -0.005,
-      "turnover_pct": 4.15
+      "turnover_pct": 4.08
     },
     {
       "date": "2025-04-16",
@@ -10363,7 +10363,7 @@
       "amplitude_pct": 2.47,
       "pct": -1.11,
       "change": -0.009,
-      "turnover_pct": 3.76
+      "turnover_pct": 3.7
     },
     {
       "date": "2025-04-17",
@@ -10376,7 +10376,7 @@
       "amplitude_pct": 1.88,
       "pct": -0.38,
       "change": -0.003,
-      "turnover_pct": 3.27
+      "turnover_pct": 3.22
     },
     {
       "date": "2025-04-18",
@@ -10389,7 +10389,7 @@
       "amplitude_pct": 1.38,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 2.89
+      "turnover_pct": 2.84
     },
     {
       "date": "2025-04-21",
@@ -10402,7 +10402,7 @@
       "amplitude_pct": 4.02,
       "pct": 2.63,
       "change": 0.021,
-      "turnover_pct": 6.7
+      "turnover_pct": 6.58
     },
     {
       "date": "2025-04-22",
@@ -10415,7 +10415,7 @@
       "amplitude_pct": 1.34,
       "pct": -0.86,
       "change": -0.007,
-      "turnover_pct": 5.53
+      "turnover_pct": 5.43
     },
     {
       "date": "2025-04-23",
@@ -10428,7 +10428,7 @@
       "amplitude_pct": 3.21,
       "pct": 3.21,
       "change": 0.026,
-      "turnover_pct": 7.77
+      "turnover_pct": 7.63
     },
     {
       "date": "2025-04-24",
@@ -10441,7 +10441,7 @@
       "amplitude_pct": 2.27,
       "pct": -1.08,
       "change": -0.009,
-      "turnover_pct": 7.2
+      "turnover_pct": 7.08
     },
     {
       "date": "2025-04-25",
@@ -10454,7 +10454,7 @@
       "amplitude_pct": 1.69,
       "pct": 0.48,
       "change": 0.004,
-      "turnover_pct": 6.16
+      "turnover_pct": 6.05
     },
     {
       "date": "2025-04-28",
@@ -10467,7 +10467,7 @@
       "amplitude_pct": 2.28,
       "pct": -1.44,
       "change": -0.012,
-      "turnover_pct": 3.84
+      "turnover_pct": 3.78
     },
     {
       "date": "2025-04-29",
@@ -10480,7 +10480,7 @@
       "amplitude_pct": 2.32,
       "pct": 1.46,
       "change": 0.012,
-      "turnover_pct": 4.48
+      "turnover_pct": 4.4
     },
     {
       "date": "2025-04-30",
@@ -10493,7 +10493,7 @@
       "amplitude_pct": 3.73,
       "pct": 3.13,
       "change": 0.026,
-      "turnover_pct": 6.75
+      "turnover_pct": 6.64
     },
     {
       "date": "2025-05-06",
@@ -10506,7 +10506,7 @@
       "amplitude_pct": 2.1,
       "pct": 2.33,
       "change": 0.02,
-      "turnover_pct": 6.22
+      "turnover_pct": 6.12
     },
     {
       "date": "2025-05-07",
@@ -10519,7 +10519,7 @@
       "amplitude_pct": 3.53,
       "pct": -0.11,
       "change": -0.001,
-      "turnover_pct": 7.62
+      "turnover_pct": 7.49
     },
     {
       "date": "2025-05-08",
@@ -10532,7 +10532,7 @@
       "amplitude_pct": 1.71,
       "pct": 0.91,
       "change": 0.008,
-      "turnover_pct": 6.61
+      "turnover_pct": 6.5
     },
     {
       "date": "2025-05-09",
@@ -10545,7 +10545,7 @@
       "amplitude_pct": 2.49,
       "pct": -1.58,
       "change": -0.014,
-      "turnover_pct": 6.43
+      "turnover_pct": 6.32
     },
     {
       "date": "2025-05-12",
@@ -10558,7 +10558,7 @@
       "amplitude_pct": 2.07,
       "pct": 2.87,
       "change": 0.025,
-      "turnover_pct": 7.07
+      "turnover_pct": 6.95
     },
     {
       "date": "2025-05-13",
@@ -10571,7 +10571,7 @@
       "amplitude_pct": 2.46,
       "pct": -1.12,
       "change": -0.01,
-      "turnover_pct": 6.69
+      "turnover_pct": 6.57
     },
     {
       "date": "2025-05-14",
@@ -10584,7 +10584,7 @@
       "amplitude_pct": 1.58,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 5.03
+      "turnover_pct": 4.94
     },
     {
       "date": "2025-05-15",
@@ -10597,7 +10597,7 @@
       "amplitude_pct": 2.26,
       "pct": -2.03,
       "change": -0.018,
-      "turnover_pct": 5.05
+      "turnover_pct": 4.96
     },
     {
       "date": "2025-05-16",
@@ -10610,7 +10610,7 @@
       "amplitude_pct": 2.3,
       "pct": 0.46,
       "change": 0.004,
-      "turnover_pct": 4.36
+      "turnover_pct": 4.28
     },
     {
       "date": "2025-05-19",
@@ -10623,7 +10623,7 @@
       "amplitude_pct": 1.95,
       "pct": -0.46,
       "change": -0.004,
-      "turnover_pct": 4.38
+      "turnover_pct": 4.3
     },
     {
       "date": "2025-05-20",
@@ -10636,7 +10636,7 @@
       "amplitude_pct": 1.84,
       "pct": 0.35,
       "change": 0.003,
-      "turnover_pct": 3.01
+      "turnover_pct": 2.96
     },
     {
       "date": "2025-05-21",
@@ -10649,7 +10649,7 @@
       "amplitude_pct": 1.15,
       "pct": -0.69,
       "change": -0.006,
-      "turnover_pct": 3.39
+      "turnover_pct": 3.33
     },
     {
       "date": "2025-05-22",
@@ -10662,7 +10662,7 @@
       "amplitude_pct": 1.62,
       "pct": -1.16,
       "change": -0.01,
-      "turnover_pct": 3.11
+      "turnover_pct": 3.05
     },
     {
       "date": "2025-05-23",
@@ -10675,7 +10675,7 @@
       "amplitude_pct": 2.22,
       "pct": -0.94,
       "change": -0.008,
-      "turnover_pct": 4.49
+      "turnover_pct": 4.41
     },
     {
       "date": "2025-05-26",
@@ -10688,7 +10688,7 @@
       "amplitude_pct": 1.06,
       "pct": 0.24,
       "change": 0.002,
-      "turnover_pct": 2.65
+      "turnover_pct": 2.6
     },
     {
       "date": "2025-05-27",
@@ -10701,7 +10701,7 @@
       "amplitude_pct": 1.65,
       "pct": -1.41,
       "change": -0.012,
-      "turnover_pct": 3.64
+      "turnover_pct": 3.58
     },
     {
       "date": "2025-05-28",
@@ -10714,7 +10714,7 @@
       "amplitude_pct": 1.31,
       "pct": -0.36,
       "change": -0.003,
-      "turnover_pct": 2.35
+      "turnover_pct": 2.31
     },
     {
       "date": "2025-05-29",
@@ -10727,7 +10727,7 @@
       "amplitude_pct": 1.8,
       "pct": 1.32,
       "change": 0.011,
-      "turnover_pct": 4.25
+      "turnover_pct": 4.18
     },
     {
       "date": "2025-05-30",
@@ -10740,7 +10740,7 @@
       "amplitude_pct": 2.13,
       "pct": -2.01,
       "change": -0.017,
-      "turnover_pct": 3.57
+      "turnover_pct": 3.5
     },
     {
       "date": "2025-06-03",
@@ -10753,7 +10753,7 @@
       "amplitude_pct": 1.21,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 2.55
+      "turnover_pct": 2.51
     },
     {
       "date": "2025-06-04",
@@ -10766,7 +10766,7 @@
       "amplitude_pct": 1.09,
       "pct": 0.6,
       "change": 0.005,
-      "turnover_pct": 2.92
+      "turnover_pct": 2.87
     },
     {
       "date": "2025-06-05",
@@ -10779,7 +10779,7 @@
       "amplitude_pct": 2.4,
       "pct": 1.56,
       "change": 0.013,
-      "turnover_pct": 5.12
+      "turnover_pct": 5.03
     },
     {
       "date": "2025-06-06",
@@ -10792,7 +10792,7 @@
       "amplitude_pct": 1.06,
       "pct": -0.59,
       "change": -0.005,
-      "turnover_pct": 3.13
+      "turnover_pct": 3.07
     },
     {
       "date": "2025-06-09",
@@ -10805,7 +10805,7 @@
       "amplitude_pct": 1.07,
       "pct": 0.36,
       "change": 0.003,
-      "turnover_pct": 3.37
+      "turnover_pct": 3.31
     },
     {
       "date": "2025-06-10",
@@ -10818,7 +10818,7 @@
       "amplitude_pct": 2.96,
       "pct": -1.54,
       "change": -0.013,
-      "turnover_pct": 5.75
+      "turnover_pct": 5.65
     },
     {
       "date": "2025-06-11",
@@ -10831,7 +10831,7 @@
       "amplitude_pct": 1.08,
       "pct": 0.36,
       "change": 0.003,
-      "turnover_pct": 3.07
+      "turnover_pct": 3.02
     },
     {
       "date": "2025-06-12",
@@ -10844,7 +10844,7 @@
       "amplitude_pct": 1.32,
       "pct": -0.12,
       "change": -0.001,
-      "turnover_pct": 2.41
+      "turnover_pct": 2.37
     },
     {
       "date": "2025-06-13",
@@ -10857,7 +10857,7 @@
       "amplitude_pct": 1.68,
       "pct": -1.56,
       "change": -0.013,
-      "turnover_pct": 3.08
+      "turnover_pct": 3.02
     },
     {
       "date": "2025-06-16",
@@ -10870,7 +10870,7 @@
       "amplitude_pct": 0.85,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 2.15
+      "turnover_pct": 2.12
     },
     {
       "date": "2025-06-17",
@@ -10883,7 +10883,7 @@
       "amplitude_pct": 1.1,
       "pct": -0.49,
       "change": -0.004,
-      "turnover_pct": 2.23
+      "turnover_pct": 2.19
     },
     {
       "date": "2025-06-18",
@@ -10896,7 +10896,7 @@
       "amplitude_pct": 1.35,
       "pct": 0.73,
       "change": 0.006,
-      "turnover_pct": 2.73
+      "turnover_pct": 2.68
     },
     {
       "date": "2025-06-19",
@@ -10909,7 +10909,7 @@
       "amplitude_pct": 1.82,
       "pct": -0.85,
       "change": -0.007,
-      "turnover_pct": 3.82
+      "turnover_pct": 3.75
     },
     {
       "date": "2025-06-20",
@@ -10922,7 +10922,7 @@
       "amplitude_pct": 2.33,
       "pct": -1.96,
       "change": -0.016,
-      "turnover_pct": 3.86
+      "turnover_pct": 3.8
     },
     {
       "date": "2025-06-23",
@@ -10935,7 +10935,7 @@
       "amplitude_pct": 1.75,
       "pct": 0.5,
       "change": 0.004,
-      "turnover_pct": 2.47
+      "turnover_pct": 2.43
     },
     {
       "date": "2025-06-24",
@@ -10948,7 +10948,7 @@
       "amplitude_pct": 3.36,
       "pct": 3.48,
       "change": 0.028,
-      "turnover_pct": 8.59
+      "turnover_pct": 8.44
     },
     {
       "date": "2025-06-25",
@@ -10961,7 +10961,7 @@
       "amplitude_pct": 1.8,
       "pct": 1.56,
       "change": 0.013,
-      "turnover_pct": 8.12
+      "turnover_pct": 7.98
     },
     {
       "date": "2025-06-26",
@@ -10974,7 +10974,7 @@
       "amplitude_pct": 1.54,
       "pct": -0.59,
       "change": -0.005,
-      "turnover_pct": 5.54
+      "turnover_pct": 5.45
     },
     {
       "date": "2025-06-27",
@@ -10987,7 +10987,7 @@
       "amplitude_pct": 1.31,
       "pct": -0.12,
       "change": -0.001,
-      "turnover_pct": 4.36
+      "turnover_pct": 4.28
     },
     {
       "date": "2025-06-30",
@@ -11000,7 +11000,7 @@
       "amplitude_pct": 1.43,
       "pct": 1.43,
       "change": 0.012,
-      "turnover_pct": 4.81
+      "turnover_pct": 4.73
     },
     {
       "date": "2025-07-01",
@@ -11013,7 +11013,7 @@
       "amplitude_pct": 1.06,
       "pct": -0.47,
       "change": -0.004,
-      "turnover_pct": 3.44
+      "turnover_pct": 3.38
     },
     {
       "date": "2025-07-02",
@@ -11026,7 +11026,7 @@
       "amplitude_pct": 1.53,
       "pct": -1.3,
       "change": -0.011,
-      "turnover_pct": 4.04
+      "turnover_pct": 3.97
     },
     {
       "date": "2025-07-03",
@@ -11039,7 +11039,7 @@
       "amplitude_pct": 0.96,
       "pct": 0.48,
       "change": 0.004,
-      "turnover_pct": 2.94
+      "turnover_pct": 2.89
     },
     {
       "date": "2025-07-04",
@@ -11052,7 +11052,7 @@
       "amplitude_pct": 1.43,
       "pct": -1.07,
       "change": -0.009,
-      "turnover_pct": 5.15
+      "turnover_pct": 5.06
     },
     {
       "date": "2025-07-07",
@@ -11065,7 +11065,7 @@
       "amplitude_pct": 1.08,
       "pct": -1.08,
       "change": -0.009,
-      "turnover_pct": 3.45
+      "turnover_pct": 3.39
     },
     {
       "date": "2025-07-08",
@@ -11078,7 +11078,7 @@
       "amplitude_pct": 1.82,
       "pct": 1.58,
       "change": 0.013,
-      "turnover_pct": 4.08
+      "turnover_pct": 4.01
     },
     {
       "date": "2025-07-09",
@@ -11091,7 +11091,7 @@
       "amplitude_pct": 2.04,
       "pct": -0.36,
       "change": -0.003,
-      "turnover_pct": 5.15
+      "turnover_pct": 5.06
     },
     {
       "date": "2025-07-10",
@@ -11104,7 +11104,7 @@
       "amplitude_pct": 0.96,
       "pct": -0.36,
       "change": -0.003,
-      "turnover_pct": 3.31
+      "turnover_pct": 3.25
     },
     {
       "date": "2025-07-11",
@@ -11117,7 +11117,7 @@
       "amplitude_pct": 2.9,
       "pct": 1.57,
       "change": 0.013,
-      "turnover_pct": 7.85
+      "turnover_pct": 7.72
     },
     {
       "date": "2025-07-14",
@@ -11130,7 +11130,7 @@
       "amplitude_pct": 1.66,
       "pct": 1.78,
       "change": 0.015,
-      "turnover_pct": 7.35
+      "turnover_pct": 7.22
     },
     {
       "date": "2025-07-15",
@@ -11143,7 +11143,7 @@
       "amplitude_pct": 1.63,
       "pct": 0.35,
       "change": 0.003,
-      "turnover_pct": 8.14
+      "turnover_pct": 8.0
     },
     {
       "date": "2025-07-16",
@@ -11156,7 +11156,7 @@
       "amplitude_pct": 1.86,
       "pct": 0.58,
       "change": 0.005,
-      "turnover_pct": 6.64
+      "turnover_pct": 6.53
     },
     {
       "date": "2025-07-17",
@@ -11169,7 +11169,7 @@
       "amplitude_pct": 1.97,
       "pct": 1.39,
       "change": 0.012,
-      "turnover_pct": 6.08
+      "turnover_pct": 5.97
     },
     {
       "date": "2025-07-18",
@@ -11182,7 +11182,7 @@
       "amplitude_pct": 1.25,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 5.64
+      "turnover_pct": 5.54
     },
     {
       "date": "2025-07-21",
@@ -11195,7 +11195,7 @@
       "amplitude_pct": 1.82,
       "pct": 1.25,
       "change": 0.011,
-      "turnover_pct": 6.72
+      "turnover_pct": 6.6
     },
     {
       "date": "2025-07-22",
@@ -11208,7 +11208,7 @@
       "amplitude_pct": 0.9,
       "pct": -0.56,
       "change": -0.005,
-      "turnover_pct": 5.16
+      "turnover_pct": 5.07
     },
     {
       "date": "2025-07-23",
@@ -11221,7 +11221,7 @@
       "amplitude_pct": 1.13,
       "pct": -0.68,
       "change": -0.006,
-      "turnover_pct": 5.94
+      "turnover_pct": 5.84
     },
     {
       "date": "2025-07-24",
@@ -11234,7 +11234,7 @@
       "amplitude_pct": 1.37,
       "pct": 1.48,
       "change": 0.013,
-      "turnover_pct": 6.92
+      "turnover_pct": 6.8
     },
     {
       "date": "2025-07-25",
@@ -11247,7 +11247,7 @@
       "amplitude_pct": 1.46,
       "pct": 1.01,
       "change": 0.009,
-      "turnover_pct": 5.76
+      "turnover_pct": 5.66
     },
     {
       "date": "2025-07-28",
@@ -11260,7 +11260,7 @@
       "amplitude_pct": 1.22,
       "pct": 0.11,
       "change": 0.001,
-      "turnover_pct": 4.75
+      "turnover_pct": 4.67
     },
     {
       "date": "2025-07-29",
@@ -11273,7 +11273,7 @@
       "amplitude_pct": 1.11,
       "pct": 0.11,
       "change": 0.001,
-      "turnover_pct": 5.48
+      "turnover_pct": 5.38
     },
     {
       "date": "2025-07-30",
@@ -11286,7 +11286,7 @@
       "amplitude_pct": 1.89,
       "pct": -1.44,
       "change": -0.013,
-      "turnover_pct": 6.85
+      "turnover_pct": 6.73
     },
     {
       "date": "2025-07-31",
@@ -11299,7 +11299,7 @@
       "amplitude_pct": 2.25,
       "pct": -0.11,
       "change": -0.001,
-      "turnover_pct": 7.64
+      "turnover_pct": 7.51
     },
     {
       "date": "2025-08-01",
@@ -11312,7 +11312,7 @@
       "amplitude_pct": 2.25,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 4.97
+      "turnover_pct": 4.89
     },
     {
       "date": "2025-08-04",
@@ -11325,7 +11325,7 @@
       "amplitude_pct": 3.16,
       "pct": 2.48,
       "change": 0.022,
-      "turnover_pct": 7.18
+      "turnover_pct": 7.06
     },
     {
       "date": "2025-08-05",
@@ -11338,7 +11338,7 @@
       "amplitude_pct": 0.99,
       "pct": 1.1,
       "change": 0.01,
-      "turnover_pct": 6.17
+      "turnover_pct": 6.06
     },
     {
       "date": "2025-08-06",
@@ -11351,7 +11351,7 @@
       "amplitude_pct": 3.26,
       "pct": 3.16,
       "change": 0.029,
-      "turnover_pct": 9.83
+      "turnover_pct": 9.66
     },
     {
       "date": "2025-08-07",
@@ -11364,7 +11364,7 @@
       "amplitude_pct": 1.79,
       "pct": -0.63,
       "change": -0.006,
-      "turnover_pct": 10.65
+      "turnover_pct": 10.47
     },
     {
       "date": "2025-08-08",
@@ -11377,7 +11377,7 @@
       "amplitude_pct": 1.27,
       "pct": -1.38,
       "change": -0.013,
-      "turnover_pct": 5.4
+      "turnover_pct": 5.3
     },
     {
       "date": "2025-08-11",
@@ -11390,7 +11390,7 @@
       "amplitude_pct": 1.72,
       "pct": 1.61,
       "change": 0.015,
-      "turnover_pct": 5.22
+      "turnover_pct": 5.13
     },
     {
       "date": "2025-08-12",
@@ -11403,7 +11403,7 @@
       "amplitude_pct": 1.38,
       "pct": -0.42,
       "change": -0.004,
-      "turnover_pct": 5.89
+      "turnover_pct": 5.79
     },
     {
       "date": "2025-08-13",
@@ -11416,7 +11416,7 @@
       "amplitude_pct": 1.49,
       "pct": 0.96,
       "change": 0.009,
-      "turnover_pct": 6.92
+      "turnover_pct": 6.8
     },
     {
       "date": "2025-08-14",
@@ -11429,7 +11429,7 @@
       "amplitude_pct": 2.74,
       "pct": -0.84,
       "change": -0.008,
-      "turnover_pct": 12.64
+      "turnover_pct": 12.42
     },
     {
       "date": "2025-08-15",
@@ -11442,7 +11442,7 @@
       "amplitude_pct": 2.66,
       "pct": 2.13,
       "change": 0.02,
-      "turnover_pct": 9.8
+      "turnover_pct": 9.62
     },
     {
       "date": "2025-08-18",
@@ -11455,7 +11455,7 @@
       "amplitude_pct": 2.5,
       "pct": 2.08,
       "change": 0.02,
-      "turnover_pct": 9.68
+      "turnover_pct": 9.51
     },
     {
       "date": "2025-08-19",
@@ -11468,7 +11468,7 @@
       "amplitude_pct": 3.67,
       "pct": 0.71,
       "change": 0.007,
-      "turnover_pct": 11.34
+      "turnover_pct": 11.14
     },
     {
       "date": "2025-08-20",
@@ -11481,7 +11481,7 @@
       "amplitude_pct": 2.23,
       "pct": 0.91,
       "change": 0.009,
-      "turnover_pct": 10.32
+      "turnover_pct": 10.14
     },
     {
       "date": "2025-08-21",
@@ -11494,7 +11494,7 @@
       "amplitude_pct": 2.21,
       "pct": -1.4,
       "change": -0.014,
-      "turnover_pct": 8.75
+      "turnover_pct": 8.6
     },
     {
       "date": "2025-08-22",
@@ -11507,7 +11507,7 @@
       "amplitude_pct": 2.95,
       "pct": 2.64,
       "change": 0.026,
-      "turnover_pct": 10.21
+      "turnover_pct": 10.03
     },
     {
       "date": "2025-08-25",
@@ -11520,7 +11520,7 @@
       "amplitude_pct": 2.48,
       "pct": 1.59,
       "change": 0.016,
-      "turnover_pct": 9.6
+      "turnover_pct": 9.44
     },
     {
       "date": "2025-08-26",
@@ -11533,7 +11533,7 @@
       "amplitude_pct": 1.27,
       "pct": -0.68,
       "change": -0.007,
-      "turnover_pct": 6.63
+      "turnover_pct": 6.52
     },
     {
       "date": "2025-08-27",
@@ -11546,7 +11546,7 @@
       "amplitude_pct": 4.62,
       "pct": -0.79,
       "change": -0.008,
-      "turnover_pct": 13.27
+      "turnover_pct": 13.04
     },
     {
       "date": "2025-08-28",
@@ -11559,7 +11559,7 @@
       "amplitude_pct": 3.76,
       "pct": 1.39,
       "change": 0.014,
-      "turnover_pct": 13.02
+      "turnover_pct": 12.8
     },
     {
       "date": "2025-08-29",
@@ -11572,7 +11572,7 @@
       "amplitude_pct": 2.64,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 8.92
+      "turnover_pct": 8.76
     },
     {
       "date": "2025-09-01",
@@ -11585,7 +11585,7 @@
       "amplitude_pct": 2.54,
       "pct": -0.1,
       "change": -0.001,
-      "turnover_pct": 6.78
+      "turnover_pct": 6.67
     },
     {
       "date": "2025-09-02",
@@ -11598,7 +11598,7 @@
       "amplitude_pct": 4.69,
       "pct": 0.39,
       "change": 0.004,
-      "turnover_pct": 13.9
+      "turnover_pct": 13.66
     },
     {
       "date": "2025-09-03",
@@ -11611,7 +11611,7 @@
       "amplitude_pct": 4.19,
       "pct": -2.53,
       "change": -0.026,
-      "turnover_pct": 10.7
+      "turnover_pct": 10.51
     },
     {
       "date": "2025-09-04",
@@ -11624,7 +11624,7 @@
       "amplitude_pct": 5.99,
       "pct": -3.8,
       "change": -0.038,
-      "turnover_pct": 12.05
+      "turnover_pct": 11.84
     },
     {
       "date": "2025-09-05",
@@ -11637,7 +11637,7 @@
       "amplitude_pct": 3.84,
       "pct": 3.12,
       "change": 0.03,
-      "turnover_pct": 7.71
+      "turnover_pct": 7.57
     },
     {
       "date": "2025-09-08",
@@ -11650,7 +11650,7 @@
       "amplitude_pct": 4.83,
       "pct": 4.53,
       "change": 0.045,
-      "turnover_pct": 15.42
+      "turnover_pct": 15.15
     },
     {
       "date": "2025-09-09",
@@ -11663,7 +11663,7 @@
       "amplitude_pct": 1.73,
       "pct": -2.02,
       "change": -0.021,
-      "turnover_pct": 8.88
+      "turnover_pct": 8.73
     },
     {
       "date": "2025-09-10",
@@ -11676,7 +11676,7 @@
       "amplitude_pct": 2.16,
       "pct": 0.1,
       "change": 0.001,
-      "turnover_pct": 6.59
+      "turnover_pct": 6.48
     },
     {
       "date": "2025-09-11",
@@ -11689,7 +11689,7 @@
       "amplitude_pct": 4.13,
       "pct": 2.85,
       "change": 0.029,
-      "turnover_pct": 10.66
+      "turnover_pct": 10.48
     },
     {
       "date": "2025-09-12",
@@ -11702,7 +11702,7 @@
       "amplitude_pct": 2.01,
       "pct": -0.76,
       "change": -0.008,
-      "turnover_pct": 10.23
+      "turnover_pct": 10.05
     },
     {
       "date": "2025-09-15",
@@ -11715,7 +11715,7 @@
       "amplitude_pct": 1.73,
       "pct": 0.1,
       "change": 0.001,
-      "turnover_pct": 8.07
+      "turnover_pct": 7.93
     },
     {
       "date": "2025-09-16",
@@ -11728,7 +11728,7 @@
       "amplitude_pct": 3.85,
       "pct": 3.75,
       "change": 0.039,
-      "turnover_pct": 13.32
+      "turnover_pct": 13.09
     },
     {
       "date": "2025-09-17",
@@ -11741,7 +11741,7 @@
       "amplitude_pct": 2.13,
       "pct": 1.58,
       "change": 0.017,
-      "turnover_pct": 13.31
+      "turnover_pct": 13.08
     },
     {
       "date": "2025-09-18",
@@ -11754,7 +11754,7 @@
       "amplitude_pct": 5.38,
       "pct": 0.09,
       "change": 0.001,
-      "turnover_pct": 18.14
+      "turnover_pct": 17.82
     },
     {
       "date": "2025-09-19",
@@ -11767,7 +11767,7 @@
       "amplitude_pct": 2.64,
       "pct": -2.73,
       "change": -0.03,
-      "turnover_pct": 12.85
+      "turnover_pct": 12.63
     },
     {
       "date": "2025-09-22",
@@ -11780,7 +11780,7 @@
       "amplitude_pct": 1.78,
       "pct": 1.69,
       "change": 0.018,
-      "turnover_pct": 8.31
+      "turnover_pct": 8.17
     },
     {
       "date": "2025-09-23",
@@ -11793,7 +11793,7 @@
       "amplitude_pct": 4.33,
       "pct": -1.57,
       "change": -0.017,
-      "turnover_pct": 11.26
+      "turnover_pct": 11.06
     },
     {
       "date": "2025-09-24",
@@ -11806,7 +11806,7 @@
       "amplitude_pct": 4.59,
       "pct": 3.28,
       "change": 0.035,
-      "turnover_pct": 11.43
+      "turnover_pct": 11.23
     },
     {
       "date": "2025-09-25",
@@ -11819,7 +11819,7 @@
       "amplitude_pct": 1.81,
       "pct": 0.36,
       "change": 0.004,
-      "turnover_pct": 9.59
+      "turnover_pct": 9.43
     },
     {
       "date": "2025-09-26",
@@ -11832,7 +11832,7 @@
       "amplitude_pct": 2.8,
       "pct": -3.25,
       "change": -0.036,
-      "turnover_pct": 11.35
+      "turnover_pct": 11.16
     },
     {
       "date": "2025-09-29",
@@ -11845,7 +11845,7 @@
       "amplitude_pct": 1.77,
       "pct": 1.03,
       "change": 0.011,
-      "turnover_pct": 7.04
+      "turnover_pct": 6.92
     },
     {
       "date": "2025-09-30",
@@ -11858,7 +11858,7 @@
       "amplitude_pct": 1.2,
       "pct": 1.02,
       "change": 0.011,
-      "turnover_pct": 7.23
+      "turnover_pct": 7.1
     },
     {
       "date": "2025-10-09",
@@ -11871,7 +11871,7 @@
       "amplitude_pct": 3.2,
       "pct": 1.74,
       "change": 0.019,
-      "turnover_pct": 8.73
+      "turnover_pct": 8.57
     },
     {
       "date": "2025-10-10",
@@ -11884,7 +11884,7 @@
       "amplitude_pct": 3.6,
       "pct": -3.33,
       "change": -0.037,
-      "turnover_pct": 9.26
+      "turnover_pct": 9.1
     },
     {
       "date": "2025-10-13",
@@ -11897,7 +11897,7 @@
       "amplitude_pct": 3.53,
       "pct": -2.14,
       "change": -0.023,
-      "turnover_pct": 9.94
+      "turnover_pct": 9.77
     },
     {
       "date": "2025-10-14",
@@ -11910,7 +11910,7 @@
       "amplitude_pct": 5.51,
       "pct": -4.09,
       "change": -0.043,
-      "turnover_pct": 9.77
+      "turnover_pct": 9.6
     },
     {
       "date": "2025-10-15",
@@ -11923,7 +11923,7 @@
       "amplitude_pct": 3.57,
       "pct": 2.38,
       "change": 0.024,
-      "turnover_pct": 8.11
+      "turnover_pct": 7.96
     },
     {
       "date": "2025-10-16",
@@ -11936,7 +11936,7 @@
       "amplitude_pct": 1.65,
       "pct": -1.94,
       "change": -0.02,
-      "turnover_pct": 6.12
+      "turnover_pct": 6.02
     },
     {
       "date": "2025-10-17",
@@ -11949,7 +11949,7 @@
       "amplitude_pct": 3.85,
       "pct": -3.55,
       "change": -0.036,
-      "turnover_pct": 8.91
+      "turnover_pct": 8.75
     },
     {
       "date": "2025-10-20",
@@ -11962,7 +11962,7 @@
       "amplitude_pct": 2.05,
       "pct": 1.33,
       "change": 0.013,
-      "turnover_pct": 7.12
+      "turnover_pct": 6.99
     },
     {
       "date": "2025-10-21",
@@ -11975,7 +11975,7 @@
       "amplitude_pct": 1.72,
       "pct": 1.82,
       "change": 0.018,
-      "turnover_pct": 7.29
+      "turnover_pct": 7.16
     },
     {
       "date": "2025-10-22",
@@ -11988,7 +11988,7 @@
       "amplitude_pct": 1.98,
       "pct": 0.2,
       "change": 0.002,
-      "turnover_pct": 6.04
+      "turnover_pct": 5.93
     },
     {
       "date": "2025-10-23",
@@ -12001,7 +12001,7 @@
       "amplitude_pct": 1.98,
       "pct": -0.1,
       "change": -0.001,
-      "turnover_pct": 4.93
+      "turnover_pct": 4.84
     },
     {
       "date": "2025-10-24",
@@ -12014,7 +12014,7 @@
       "amplitude_pct": 1.39,
       "pct": 1.49,
       "change": 0.015,
-      "turnover_pct": 8.38
+      "turnover_pct": 8.23
     },
     {
       "date": "2025-10-27",
@@ -12027,7 +12027,7 @@
       "amplitude_pct": 1.95,
       "pct": 1.17,
       "change": 0.012,
-      "turnover_pct": 7.81
+      "turnover_pct": 7.67
     },
     {
       "date": "2025-10-28",
@@ -12040,7 +12040,7 @@
       "amplitude_pct": 1.45,
       "pct": -0.1,
       "change": -0.001,
-      "turnover_pct": 6.04
+      "turnover_pct": 5.94
     },
     {
       "date": "2025-10-29",
@@ -12053,7 +12053,7 @@
       "amplitude_pct": 1.64,
       "pct": 0.97,
       "change": 0.01,
-      "turnover_pct": 7.02
+      "turnover_pct": 6.9
     },
     {
       "date": "2025-10-30",
@@ -12066,7 +12066,7 @@
       "amplitude_pct": 2.01,
       "pct": -1.53,
       "change": -0.016,
-      "turnover_pct": 6.49
+      "turnover_pct": 6.38
     },
     {
       "date": "2025-10-31",
@@ -12079,7 +12079,7 @@
       "amplitude_pct": 2.04,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 5.95
+      "turnover_pct": 5.85
     },
     {
       "date": "2025-11-03",
@@ -12092,7 +12092,7 @@
       "amplitude_pct": 2.14,
       "pct": -0.19,
       "change": -0.002,
-      "turnover_pct": 4.87
+      "turnover_pct": 4.78
     },
     {
       "date": "2025-11-04",
@@ -12105,7 +12105,7 @@
       "amplitude_pct": 2.82,
       "pct": -2.53,
       "change": -0.026,
-      "turnover_pct": 6.67
+      "turnover_pct": 6.55
     },
     {
       "date": "2025-11-05",
@@ -12118,7 +12118,7 @@
       "amplitude_pct": 1.5,
       "pct": -0.5,
       "change": -0.005,
-      "turnover_pct": 5.0
+      "turnover_pct": 4.92
     },
     {
       "date": "2025-11-06",
@@ -12131,7 +12131,7 @@
       "amplitude_pct": 2.11,
       "pct": 1.91,
       "change": 0.019,
-      "turnover_pct": 6.16
+      "turnover_pct": 6.06
     },
     {
       "date": "2025-11-07",
@@ -12144,7 +12144,7 @@
       "amplitude_pct": 1.48,
       "pct": -1.77,
       "change": -0.018,
-      "turnover_pct": 6.21
+      "turnover_pct": 6.1
     },
     {
       "date": "2025-11-10",
@@ -12157,7 +12157,7 @@
       "amplitude_pct": 2.01,
       "pct": -0.7,
       "change": -0.007,
-      "turnover_pct": 6.02
+      "turnover_pct": 5.91
     },
     {
       "date": "2025-11-11",
@@ -12170,7 +12170,7 @@
       "amplitude_pct": 1.82,
       "pct": -0.91,
       "change": -0.009,
-      "turnover_pct": 5.31
+      "turnover_pct": 5.22
     },
     {
       "date": "2025-11-12",
@@ -12183,7 +12183,7 @@
       "amplitude_pct": 1.83,
       "pct": -1.12,
       "change": -0.011,
-      "turnover_pct": 7.63
+      "turnover_pct": 7.5
     },
     {
       "date": "2025-11-13",
@@ -12196,7 +12196,7 @@
       "amplitude_pct": 1.34,
       "pct": 0.72,
       "change": 0.007,
-      "turnover_pct": 5.21
+      "turnover_pct": 5.12
     },
     {
       "date": "2025-11-14",
@@ -12209,7 +12209,7 @@
       "amplitude_pct": 1.13,
       "pct": -1.33,
       "change": -0.013,
-      "turnover_pct": 4.01
+      "turnover_pct": 3.94
     },
     {
       "date": "2025-11-17",
@@ -12222,7 +12222,7 @@
       "amplitude_pct": 0.83,
       "pct": 0.21,
       "change": 0.002,
-      "turnover_pct": 3.83
+      "turnover_pct": 3.76
     },
     {
       "date": "2025-11-18",
@@ -12235,7 +12235,7 @@
       "amplitude_pct": 0.83,
       "pct": -0.31,
       "change": -0.003,
-      "turnover_pct": 5.18
+      "turnover_pct": 5.09
     },
     {
       "date": "2025-11-19",
@@ -12248,7 +12248,7 @@
       "amplitude_pct": 1.77,
       "pct": -0.83,
       "change": -0.008,
-      "turnover_pct": 6.91
+      "turnover_pct": 6.79
     },
     {
       "date": "2025-11-20",
@@ -12261,7 +12261,7 @@
       "amplitude_pct": 1.88,
       "pct": -1.05,
       "change": -0.01,
-      "turnover_pct": 5.34
+      "turnover_pct": 5.25
     },
     {
       "date": "2025-11-21",
@@ -12274,7 +12274,7 @@
       "amplitude_pct": 2.96,
       "pct": -1.48,
       "change": -0.014,
-      "turnover_pct": 10.79
+      "turnover_pct": 10.6
     },
     {
       "date": "2025-11-24",
@@ -12287,7 +12287,7 @@
       "amplitude_pct": 2.04,
       "pct": 1.07,
       "change": 0.01,
-      "turnover_pct": 6.3
+      "turnover_pct": 6.19
     },
     {
       "date": "2025-11-25",
@@ -12300,7 +12300,7 @@
       "amplitude_pct": 1.7,
       "pct": 0.32,
       "change": 0.003,
-      "turnover_pct": 6.53
+      "turnover_pct": 6.42
     },
     {
       "date": "2025-11-26",
@@ -12313,7 +12313,7 @@
       "amplitude_pct": 1.48,
       "pct": -0.11,
       "change": -0.001,
-      "turnover_pct": 5.01
+      "turnover_pct": 4.92
     },
     {
       "date": "2025-11-27",
@@ -12326,7 +12326,7 @@
       "amplitude_pct": 1.48,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 5.22
+      "turnover_pct": 5.12
     },
     {
       "date": "2025-11-28",
@@ -12339,7 +12339,7 @@
       "amplitude_pct": 1.59,
       "pct": 0.64,
       "change": 0.006,
-      "turnover_pct": 4.54
+      "turnover_pct": 4.46
     },
     {
       "date": "2025-12-01",
@@ -12352,7 +12352,7 @@
       "amplitude_pct": 1.58,
       "pct": 1.26,
       "change": 0.012,
-      "turnover_pct": 5.32
+      "turnover_pct": 5.23
     },
     {
       "date": "2025-12-02",
@@ -12365,7 +12365,7 @@
       "amplitude_pct": 1.56,
       "pct": -1.46,
       "change": -0.014,
-      "turnover_pct": 4.71
+      "turnover_pct": 4.63
     },
     {
       "date": "2025-12-03",
@@ -12378,7 +12378,7 @@
       "amplitude_pct": 1.58,
       "pct": -0.84,
       "change": -0.008,
-      "turnover_pct": 5.12
+      "turnover_pct": 5.03
     },
     {
       "date": "2025-12-04",
@@ -12391,7 +12391,7 @@
       "amplitude_pct": 2.24,
       "pct": 2.02,
       "change": 0.019,
-      "turnover_pct": 9.13
+      "turnover_pct": 8.97
     },
     {
       "date": "2025-12-05",
@@ -12404,7 +12404,7 @@
       "amplitude_pct": 2.3,
       "pct": 1.25,
       "change": 0.012,
-      "turnover_pct": 7.34
+      "turnover_pct": 7.21
     },
     {
       "date": "2025-12-08",
@@ -12417,7 +12417,7 @@
       "amplitude_pct": 1.55,
       "pct": 1.24,
       "change": 0.012,
-      "turnover_pct": 9.37
+      "turnover_pct": 9.2
     },
     {
       "date": "2025-12-09",
@@ -12430,7 +12430,7 @@
       "amplitude_pct": 1.63,
       "pct": -1.43,
       "change": -0.014,
-      "turnover_pct": 5.97
+      "turnover_pct": 5.86
     },
     {
       "date": "2025-12-10",
@@ -12443,7 +12443,7 @@
       "amplitude_pct": 1.76,
       "pct": 0.62,
       "change": 0.006,
-      "turnover_pct": 4.44
+      "turnover_pct": 4.36
     },
     {
       "date": "2025-12-11",
@@ -12456,7 +12456,7 @@
       "amplitude_pct": 2.26,
       "pct": -1.95,
       "change": -0.019,
-      "turnover_pct": 5.43
+      "turnover_pct": 5.34
     },
     {
       "date": "2025-12-12",
@@ -12469,7 +12469,7 @@
       "amplitude_pct": 1.68,
       "pct": 0.52,
       "change": 0.005,
-      "turnover_pct": 3.96
+      "turnover_pct": 3.89
     },
     {
       "date": "2025-12-15",
@@ -12482,7 +12482,7 @@
       "amplitude_pct": 1.35,
       "pct": -1.67,
       "change": -0.016,
-      "turnover_pct": 4.36
+      "turnover_pct": 4.29
     },
     {
       "date": "2025-12-16",
@@ -12495,7 +12495,7 @@
       "amplitude_pct": 2.12,
       "pct": -2.01,
       "change": -0.019,
-      "turnover_pct": 6.23
+      "turnover_pct": 6.12
     },
     {
       "date": "2025-12-17",
@@ -12508,7 +12508,7 @@
       "amplitude_pct": 2.16,
       "pct": 1.51,
       "change": 0.014,
-      "turnover_pct": 5.14
+      "turnover_pct": 5.05
     },
     {
       "date": "2025-12-18",
@@ -12521,7 +12521,7 @@
       "amplitude_pct": 1.6,
       "pct": -0.85,
       "change": -0.008,
-      "turnover_pct": 3.98
+      "turnover_pct": 3.91
     },
     {
       "date": "2025-12-19",
@@ -12534,7 +12534,7 @@
       "amplitude_pct": 1.4,
       "pct": 0.97,
       "change": 0.009,
-      "turnover_pct": 3.62
+      "turnover_pct": 3.55
     },
     {
       "date": "2025-12-22",
@@ -12547,7 +12547,7 @@
       "amplitude_pct": 1.38,
       "pct": 1.28,
       "change": 0.012,
-      "turnover_pct": 6.06
+      "turnover_pct": 5.95
     },
     {
       "date": "2025-12-23",
@@ -12560,7 +12560,7 @@
       "amplitude_pct": 1.16,
       "pct": -0.74,
       "change": -0.007,
-      "turnover_pct": 4.22
+      "turnover_pct": 4.15
     },
     {
       "date": "2025-12-24",
@@ -12573,7 +12573,7 @@
       "amplitude_pct": 1.38,
       "pct": 1.06,
       "change": 0.01,
-      "turnover_pct": 5.0
+      "turnover_pct": 4.92
     },
     {
       "date": "2025-12-25",
@@ -12586,7 +12586,7 @@
       "amplitude_pct": 2.93,
       "pct": 2.93,
       "change": 0.028,
-      "turnover_pct": 10.93
+      "turnover_pct": 10.74
     },
     {
       "date": "2025-12-26",
@@ -12599,7 +12599,7 @@
       "amplitude_pct": 1.83,
       "pct": 0.1,
       "change": 0.001,
-      "turnover_pct": 8.51
+      "turnover_pct": 8.36
     },
     {
       "date": "2025-12-29",
@@ -12612,7 +12612,7 @@
       "amplitude_pct": 1.83,
       "pct": 0.81,
       "change": 0.008,
-      "turnover_pct": 8.64
+      "turnover_pct": 8.49
     },
     {
       "date": "2025-12-30",
@@ -12625,7 +12625,7 @@
       "amplitude_pct": 4.33,
       "pct": 3.23,
       "change": 0.032,
-      "turnover_pct": 15.08
+      "turnover_pct": 14.82
     },
     {
       "date": "2025-12-31",
@@ -12638,7 +12638,7 @@
       "amplitude_pct": 1.46,
       "pct": -0.49,
       "change": -0.005,
-      "turnover_pct": 8.41
+      "turnover_pct": 8.27
     },
     {
       "date": "2026-01-05",
@@ -12651,7 +12651,7 @@
       "amplitude_pct": 2.36,
       "pct": 1.77,
       "change": 0.018,
-      "turnover_pct": 9.89
+      "turnover_pct": 9.72
     },
     {
       "date": "2026-01-06",
@@ -12664,7 +12664,7 @@
       "amplitude_pct": 1.45,
       "pct": 0.39,
       "change": 0.004,
-      "turnover_pct": 9.11
+      "turnover_pct": 8.95
     },
     {
       "date": "2026-01-07",
@@ -12677,7 +12677,7 @@
       "amplitude_pct": 2.02,
       "pct": -0.77,
       "change": -0.008,
-      "turnover_pct": 8.51
+      "turnover_pct": 8.37
     },
     {
       "date": "2026-01-08",
@@ -12690,7 +12690,7 @@
       "amplitude_pct": 1.36,
       "pct": 1.06,
       "change": 0.011,
-      "turnover_pct": 7.28
+      "turnover_pct": 7.15
     },
     {
       "date": "2026-01-09",
@@ -12703,7 +12703,7 @@
       "amplitude_pct": 2.49,
       "pct": 1.92,
       "change": 0.02,
-      "turnover_pct": 7.55
+      "turnover_pct": 7.42
     },
     {
       "date": "2026-01-12",
@@ -12716,7 +12716,7 @@
       "amplitude_pct": 2.91,
       "pct": 2.91,
       "change": 0.031,
-      "turnover_pct": 9.9
+      "turnover_pct": 9.73
     },
     {
       "date": "2026-01-13",
@@ -12729,7 +12729,7 @@
       "amplitude_pct": 3.29,
       "pct": -1.37,
       "change": -0.015,
-      "turnover_pct": 11.18
+      "turnover_pct": 10.99
     },
     {
       "date": "2026-01-14",
@@ -12742,7 +12742,7 @@
       "amplitude_pct": 3.89,
       "pct": 0.37,
       "change": 0.004,
-      "turnover_pct": 11.6
+      "turnover_pct": 11.4
     },
     {
       "date": "2026-01-15",
@@ -12755,7 +12755,7 @@
       "amplitude_pct": 2.03,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 6.59
+      "turnover_pct": 6.48
     },
     {
       "date": "2026-01-16",
@@ -12768,7 +12768,7 @@
       "amplitude_pct": 2.4,
       "pct": 2.12,
       "change": 0.023,
-      "turnover_pct": 8.62
+      "turnover_pct": 8.47
     },
     {
       "date": "2026-01-19",
@@ -12781,7 +12781,7 @@
       "amplitude_pct": 1.81,
       "pct": 0.45,
       "change": 0.005,
-      "turnover_pct": 8.16
+      "turnover_pct": 8.02
     },
     {
       "date": "2026-01-20",
@@ -12794,7 +12794,7 @@
       "amplitude_pct": 3.24,
       "pct": -1.35,
       "change": -0.015,
-      "turnover_pct": 7.45
+      "turnover_pct": 7.32
     },
     {
       "date": "2026-01-21",
@@ -12807,7 +12807,7 @@
       "amplitude_pct": 3.01,
       "pct": 1.73,
       "change": 0.019,
-      "turnover_pct": 7.31
+      "turnover_pct": 7.18
     },
     {
       "date": "2026-01-22",
@@ -12820,7 +12820,7 @@
       "amplitude_pct": 1.7,
       "pct": -0.09,
       "change": -0.001,
-      "turnover_pct": 6.6
+      "turnover_pct": 6.49
     },
     {
       "date": "2026-01-23",
@@ -12833,7 +12833,7 @@
       "amplitude_pct": 1.7,
       "pct": 1.35,
       "change": 0.015,
-      "turnover_pct": 6.47
+      "turnover_pct": 6.35
     },
     {
       "date": "2026-01-26",
@@ -12846,7 +12846,7 @@
       "amplitude_pct": 4.96,
       "pct": -2.74,
       "change": -0.031,
-      "turnover_pct": 10.45
+      "turnover_pct": 10.27
     },
     {
       "date": "2026-01-27",
@@ -12859,7 +12859,7 @@
       "amplitude_pct": 2.91,
       "pct": 0.45,
       "change": 0.005,
-      "turnover_pct": 7.87
+      "turnover_pct": 7.73
     },
     {
       "date": "2026-01-28",
@@ -12872,7 +12872,7 @@
       "amplitude_pct": 2.17,
       "pct": -1.72,
       "change": -0.019,
-      "turnover_pct": 8.73
+      "turnover_pct": 8.58
     },
     {
       "date": "2026-01-29",
@@ -12885,7 +12885,7 @@
       "amplitude_pct": 2.86,
       "pct": -1.47,
       "change": -0.016,
-      "turnover_pct": 8.75
+      "turnover_pct": 8.6
     },
     {
       "date": "2026-01-30",
@@ -12898,7 +12898,7 @@
       "amplitude_pct": 3.74,
       "pct": -0.47,
       "change": -0.005,
-      "turnover_pct": 8.74
+      "turnover_pct": 8.59
     },
     {
       "date": "2026-02-02",
@@ -12911,7 +12911,7 @@
       "amplitude_pct": 2.63,
       "pct": -1.88,
       "change": -0.02,
-      "turnover_pct": 7.43
+      "turnover_pct": 7.3
     },
     {
       "date": "2026-02-03",
@@ -12924,7 +12924,7 @@
       "amplitude_pct": 2.59,
       "pct": 2.68,
       "change": 0.028,
-      "turnover_pct": 5.88
+      "turnover_pct": 5.78
     },
     {
       "date": "2026-02-04",
@@ -12937,7 +12937,7 @@
       "amplitude_pct": 1.59,
       "pct": -0.75,
       "change": -0.008,
-      "turnover_pct": 4.72
+      "turnover_pct": 4.63
     },
     {
       "date": "2026-02-05",
@@ -12950,7 +12950,7 @@
       "amplitude_pct": 1.6,
       "pct": -1.79,
       "change": -0.019,
-      "turnover_pct": 5.42
+      "turnover_pct": 5.32
     },
     {
       "date": "2026-02-06",
@@ -12963,7 +12963,7 @@
       "amplitude_pct": 3.64,
       "pct": 0.67,
       "change": 0.007,
-      "turnover_pct": 5.49
+      "turnover_pct": 5.39
     },
     {
       "date": "2026-02-09",
@@ -12976,7 +12976,7 @@
       "amplitude_pct": 1.33,
       "pct": 1.71,
       "change": 0.018,
-      "turnover_pct": 4.77
+      "turnover_pct": 4.69
     },
     {
       "date": "2026-02-10",
@@ -12989,7 +12989,7 @@
       "amplitude_pct": 1.68,
       "pct": 0.84,
       "change": 0.009,
-      "turnover_pct": 6.86
+      "turnover_pct": 6.74
     },
     {
       "date": "2026-02-11",
@@ -13002,7 +13002,7 @@
       "amplitude_pct": 1.11,
       "pct": -1.11,
       "change": -0.012,
-      "turnover_pct": 4.22
+      "turnover_pct": 4.14
     },
     {
       "date": "2026-02-12",
@@ -13015,7 +13015,7 @@
       "amplitude_pct": 1.78,
       "pct": 1.41,
       "change": 0.015,
-      "turnover_pct": 5.28
+      "turnover_pct": 5.19
     },
     {
       "date": "2026-02-13",
@@ -13028,7 +13028,7 @@
       "amplitude_pct": 1.48,
       "pct": 0.09,
       "change": 0.001,
-      "turnover_pct": 6.63
+      "turnover_pct": 6.52
     },
     {
       "date": "2026-02-24",
@@ -13041,7 +13041,7 @@
       "amplitude_pct": 3.42,
       "pct": -0.55,
       "change": -0.006,
-      "turnover_pct": 9.51
+      "turnover_pct": 9.34
     },
     {
       "date": "2026-02-25",
@@ -13054,7 +13054,7 @@
       "amplitude_pct": 0.93,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 6.38
+      "turnover_pct": 6.27
     },
     {
       "date": "2026-02-26",
@@ -13067,7 +13067,7 @@
       "amplitude_pct": 1.58,
       "pct": 0.56,
       "change": 0.006,
-      "turnover_pct": 5.65
+      "turnover_pct": 5.56
     },
     {
       "date": "2026-02-27",
@@ -13080,7 +13080,7 @@
       "amplitude_pct": 1.29,
       "pct": 0.18,
       "change": 0.002,
-      "turnover_pct": 5.72
+      "turnover_pct": 5.62
     },
     {
       "date": "2026-03-02",
@@ -13093,7 +13093,7 @@
       "amplitude_pct": 1.75,
       "pct": -2.21,
       "change": -0.024,
-      "turnover_pct": 6.68
+      "turnover_pct": 6.56
     },
     {
       "date": "2026-03-03",
@@ -13106,7 +13106,7 @@
       "amplitude_pct": 5.37,
       "pct": -4.81,
       "change": -0.051,
-      "turnover_pct": 8.17
+      "turnover_pct": 8.03
     },
     {
       "date": "2026-03-04",
@@ -13119,7 +13119,7 @@
       "amplitude_pct": 2.18,
       "pct": -0.69,
       "change": -0.007,
-      "turnover_pct": 7.0
+      "turnover_pct": 6.88
     },
     {
       "date": "2026-03-05",
@@ -13132,7 +13132,7 @@
       "amplitude_pct": 1.5,
       "pct": 1.69,
       "change": 0.017,
-      "turnover_pct": 4.4
+      "turnover_pct": 4.32
     },
     {
       "date": "2026-03-06",
@@ -13145,7 +13145,7 @@
       "amplitude_pct": 1.57,
       "pct": 0.49,
       "change": 0.005,
-      "turnover_pct": 2.91
+      "turnover_pct": 2.86
     },
     {
       "date": "2026-03-09",
@@ -13158,7 +13158,7 @@
       "amplitude_pct": 3.22,
       "pct": -0.78,
       "change": -0.008,
-      "turnover_pct": 5.17
+      "turnover_pct": 5.08
     },
     {
       "date": "2026-03-10",
@@ -13171,7 +13171,7 @@
       "amplitude_pct": 1.08,
       "pct": 1.97,
       "change": 0.02,
-      "turnover_pct": 4.36
+      "turnover_pct": 4.28
     },
     {
       "date": "2026-03-11",
@@ -13184,7 +13184,7 @@
       "amplitude_pct": 1.45,
       "pct": -0.29,
       "change": -0.003,
-      "turnover_pct": 2.62
+      "turnover_pct": 2.58
     },
     {
       "date": "2026-03-12",
@@ -13197,7 +13197,7 @@
       "amplitude_pct": 2.03,
       "pct": -1.06,
       "change": -0.011,
-      "turnover_pct": 2.93
+      "turnover_pct": 2.88
     },
     {
       "date": "2026-03-13",
@@ -13210,7 +13210,7 @@
       "amplitude_pct": 1.76,
       "pct": -1.56,
       "change": -0.016,
-      "turnover_pct": 3.16
+      "turnover_pct": 3.1
     },
     {
       "date": "2026-03-16",
@@ -13223,7 +13223,7 @@
       "amplitude_pct": 1.59,
       "pct": -0.3,
       "change": -0.003,
-      "turnover_pct": 4.05
+      "turnover_pct": 3.98
     },
     {
       "date": "2026-03-17",
@@ -13236,7 +13236,7 @@
       "amplitude_pct": 2.39,
       "pct": -1.69,
       "change": -0.017,
-      "turnover_pct": 4.27
+      "turnover_pct": 4.19
     },
     {
       "date": "2026-03-18",
@@ -13249,7 +13249,7 @@
       "amplitude_pct": 1.52,
       "pct": 0.61,
       "change": 0.006,
-      "turnover_pct": 3.93
+      "turnover_pct": 3.86
     },
     {
       "date": "2026-03-19",
@@ -13262,7 +13262,7 @@
       "amplitude_pct": 1.91,
       "pct": -2.72,
       "change": -0.027,
-      "turnover_pct": 4.43
+      "turnover_pct": 4.35
     },
     {
       "date": "2026-03-20",
@@ -13275,7 +13275,7 @@
       "amplitude_pct": 2.8,
       "pct": -1.86,
       "change": -0.018,
-      "turnover_pct": 3.79
+      "turnover_pct": 3.73
     },
     {
       "date": "2026-03-23",
@@ -13288,7 +13288,7 @@
       "amplitude_pct": 4.64,
       "pct": -4.11,
       "change": -0.039,
-      "turnover_pct": 6.04
+      "turnover_pct": 5.94
     },
     {
       "date": "2026-03-24",
@@ -13301,7 +13301,7 @@
       "amplitude_pct": 3.08,
       "pct": 1.21,
       "change": 0.011,
-      "turnover_pct": 4.68
+      "turnover_pct": 4.6
     },
     {
       "date": "2026-03-25",
@@ -13314,7 +13314,7 @@
       "amplitude_pct": 2.28,
       "pct": 1.96,
       "change": 0.018,
-      "turnover_pct": 4.13
+      "turnover_pct": 4.06
     },
     {
       "date": "2026-03-26",
@@ -13327,7 +13327,7 @@
       "amplitude_pct": 2.45,
       "pct": -1.39,
       "change": -0.013,
-      "turnover_pct": 2.62
+      "turnover_pct": 2.57
     },
     {
       "date": "2026-03-27",
@@ -13340,7 +13340,7 @@
       "amplitude_pct": 2.81,
       "pct": 0.54,
       "change": 0.005,
-      "turnover_pct": 2.17
+      "turnover_pct": 2.14
     },
     {
       "date": "2026-03-30",
@@ -13353,7 +13353,7 @@
       "amplitude_pct": 1.83,
       "pct": -0.43,
       "change": -0.004,
-      "turnover_pct": 2.19
+      "turnover_pct": 2.15
     },
     {
       "date": "2026-03-31",
@@ -13366,7 +13366,7 @@
       "amplitude_pct": 2.48,
       "pct": -0.86,
       "change": -0.008,
-      "turnover_pct": 2.43
+      "turnover_pct": 2.39
     },
     {
       "date": "2026-04-01",
@@ -13379,7 +13379,7 @@
       "amplitude_pct": 1.2,
       "pct": 2.72,
       "change": 0.025,
-      "turnover_pct": 3.38
+      "turnover_pct": 3.32
     },
     {
       "date": "2026-04-02",
@@ -13392,7 +13392,7 @@
       "amplitude_pct": 2.44,
       "pct": -2.23,
       "change": -0.021,
-      "turnover_pct": 2.49
+      "turnover_pct": 2.45
     },
     {
       "date": "2026-04-03",
@@ -13405,7 +13405,7 @@
       "amplitude_pct": 1.74,
       "pct": -1.08,
       "change": -0.01,
-      "turnover_pct": 1.75
+      "turnover_pct": 1.71
     },
     {
       "date": "2026-04-07",
@@ -13418,7 +13418,7 @@
       "amplitude_pct": 1.43,
       "pct": -0.33,
       "change": -0.003,
-      "turnover_pct": 1.77
+      "turnover_pct": 1.74
     },
     {
       "date": "2026-04-08",
@@ -13431,7 +13431,7 @@
       "amplitude_pct": 3.85,
       "pct": 6.38,
       "change": 0.058,
-      "turnover_pct": 5.71
+      "turnover_pct": 5.61
     },
     {
       "date": "2026-04-09",
@@ -13444,7 +13444,7 @@
       "amplitude_pct": 1.76,
       "pct": -1.14,
       "change": -0.011,
-      "turnover_pct": 2.83
+      "turnover_pct": 2.78
     },
     {
       "date": "2026-04-10",
@@ -13457,7 +13457,7 @@
       "amplitude_pct": 1.99,
       "pct": 1.57,
       "change": 0.015,
-      "turnover_pct": 3.38
+      "turnover_pct": 3.32
     },
     {
       "date": "2026-04-13",
@@ -13470,7 +13470,7 @@
       "amplitude_pct": 1.44,
       "pct": 0.0,
       "change": 0.0,
-      "turnover_pct": 2.14
+      "turnover_pct": 2.11
     },
     {
       "date": "2026-04-14",
@@ -13483,7 +13483,7 @@
       "amplitude_pct": 1.54,
       "pct": 2.27,
       "change": 0.022,
-      "turnover_pct": 4.54
+      "turnover_pct": 4.46
     },
     {
       "date": "2026-04-15",
@@ -13496,7 +13496,7 @@
       "amplitude_pct": 2.11,
       "pct": -1.11,
       "change": -0.011,
-      "turnover_pct": 3.08
+      "turnover_pct": 3.03
     },
     {
       "date": "2026-04-16",
@@ -13509,7 +13509,7 @@
       "amplitude_pct": 1.53,
       "pct": 2.04,
       "change": 0.02,
-      "turnover_pct": 3.68
+      "turnover_pct": 3.61
     },
     {
       "date": "2026-04-17",
@@ -13522,7 +13522,7 @@
       "amplitude_pct": 1.6,
       "pct": 0.7,
       "change": 0.007,
-      "turnover_pct": 3.07
+      "turnover_pct": 3.01
     },
     {
       "date": "2026-04-20",
@@ -13535,7 +13535,7 @@
       "amplitude_pct": 1.39,
       "pct": 0.79,
       "change": 0.008,
-      "turnover_pct": 3.24
+      "turnover_pct": 3.18
     },
     {
       "date": "2026-04-21",
@@ -13548,7 +13548,7 @@
       "amplitude_pct": 1.47,
       "pct": -0.29,
       "change": -0.003,
-      "turnover_pct": 2.57
+      "turnover_pct": 2.53
     },
     {
       "date": "2026-04-22",
@@ -13561,7 +13561,7 @@
       "amplitude_pct": 1.58,
       "pct": 0.79,
       "change": 0.008,
-      "turnover_pct": 3.05
+      "turnover_pct": 2.99
     },
     {
       "date": "2026-04-23",
@@ -13574,7 +13574,7 @@
       "amplitude_pct": 2.15,
       "pct": -0.88,
       "change": -0.009,
-      "turnover_pct": 4.13
+      "turnover_pct": 4.06
     },
     {
       "date": "2026-04-24",
@@ -13587,7 +13587,7 @@
       "amplitude_pct": 1.88,
       "pct": -0.69,
       "change": -0.007,
-      "turnover_pct": 3.57
+      "turnover_pct": 3.5
     },
     {
       "date": "2026-04-27",
@@ -13600,7 +13600,7 @@
       "amplitude_pct": 3.38,
       "pct": 2.68,
       "change": 0.027,
-      "turnover_pct": 4.55
+      "turnover_pct": 4.47
     },
     {
       "date": "2026-04-28",
@@ -13613,7 +13613,7 @@
       "amplitude_pct": 1.94,
       "pct": -2.03,
       "change": -0.021,
-      "turnover_pct": 3.59
+      "turnover_pct": 3.53
     },
     {
       "date": "2026-04-29",
@@ -13626,7 +13626,7 @@
       "amplitude_pct": 2.17,
       "pct": 0.89,
       "change": 0.009,
-      "turnover_pct": 2.66
+      "turnover_pct": 2.61
     },
     {
       "date": "2026-04-30",
@@ -13639,7 +13639,7 @@
       "amplitude_pct": 1.76,
       "pct": 1.08,
       "change": 0.011,
-      "turnover_pct": 3.2
+      "turnover_pct": 3.14
     },
     {
       "date": "2026-05-06",
@@ -13652,7 +13652,7 @@
       "amplitude_pct": 2.23,
       "pct": 2.33,
       "change": 0.024,
-      "turnover_pct": 4.64
+      "turnover_pct": 4.56
     },
     {
       "date": "2026-05-07",
@@ -13665,7 +13665,7 @@
       "amplitude_pct": 3.88,
       "pct": 3.88,
       "change": 0.041,
-      "turnover_pct": 6.42
+      "turnover_pct": 6.31
     },
     {
       "date": "2026-05-08",
@@ -13678,7 +13678,7 @@
       "amplitude_pct": 3.19,
       "pct": 2.28,
       "change": 0.025,
-      "turnover_pct": 7.74
+      "turnover_pct": 7.61
     },
     {
       "date": "2026-05-11",
@@ -13691,7 +13691,7 @@
       "amplitude_pct": 1.96,
       "pct": 1.69,
       "change": 0.019,
-      "turnover_pct": 7.04
+      "turnover_pct": 6.92
     },
     {
       "date": "2026-05-12",
@@ -13704,7 +13704,7 @@
       "amplitude_pct": 2.19,
       "pct": -0.96,
       "change": -0.011,
-      "turnover_pct": 5.45
+      "turnover_pct": 5.35
     },
     {
       "date": "2026-05-13",
@@ -13717,7 +13717,7 @@
       "amplitude_pct": 3.27,
       "pct": 2.3,
       "change": 0.026,
-      "turnover_pct": 5.39
+      "turnover_pct": 5.3
     },
     {
       "date": "2026-05-14",
@@ -13730,7 +13730,7 @@
       "amplitude_pct": 3.11,
       "pct": -2.42,
       "change": -0.028,
-      "turnover_pct": 5.46
+      "turnover_pct": 5.37
     },
     {
       "date": "2026-05-15",
@@ -13743,7 +13743,7 @@
       "amplitude_pct": 6.38,
       "pct": 3.19,
       "change": 0.036,
-      "turnover_pct": 11.59
+      "turnover_pct": 11.39
     },
     {
       "date": "2026-05-18",
@@ -13756,7 +13756,7 @@
       "amplitude_pct": 3.01,
       "pct": 1.63,
       "change": 0.019,
-      "turnover_pct": 7.64
+      "turnover_pct": 7.51
     },
     {
       "date": "2026-05-19",
@@ -13769,7 +13769,7 @@
       "amplitude_pct": 1.78,
       "pct": 1.27,
       "change": 0.015,
-      "turnover_pct": 6.01
+      "turnover_pct": 5.9
     },
     {
       "date": "2026-05-20",
@@ -13782,7 +13782,7 @@
       "amplitude_pct": 1.34,
       "pct": -0.42,
       "change": -0.005,
-      "turnover_pct": 5.61
+      "turnover_pct": 5.51
     },
     {
       "date": "2026-05-21",
@@ -13795,7 +13795,7 @@
       "amplitude_pct": 4.19,
       "pct": -0.5,
       "change": -0.006,
-      "turnover_pct": 8.28
+      "turnover_pct": 8.14
     },
     {
       "date": "2026-05-22",
@@ -13808,7 +13808,7 @@
       "amplitude_pct": 3.54,
       "pct": 1.77,
       "change": 0.021,
-      "turnover_pct": 6.2
+      "turnover_pct": 6.09
     },
     {
       "date": "2026-05-25",
@@ -13821,7 +13821,7 @@
       "amplitude_pct": 2.57,
       "pct": 0.66,
       "change": 0.008,
-      "turnover_pct": 6.75
+      "turnover_pct": 6.63
     },
     {
       "date": "2026-05-26",
@@ -13834,7 +13834,7 @@
       "amplitude_pct": 3.54,
       "pct": -0.9,
       "change": -0.011,
-      "turnover_pct": 8.72
+      "turnover_pct": 8.56
     },
     {
       "date": "2026-05-27",
@@ -13847,7 +13847,7 @@
       "amplitude_pct": 3.65,
       "pct": -3.49,
       "change": -0.042,
-      "turnover_pct": 7.65
+      "turnover_pct": 7.51
     },
     {
       "date": "2026-05-28",
@@ -13860,7 +13860,7 @@
       "amplitude_pct": 3.44,
       "pct": 0.17,
       "change": 0.002,
-      "turnover_pct": 5.88
+      "turnover_pct": 5.77
     },
     {
       "date": "2026-05-29",
@@ -13873,7 +13873,7 @@
       "amplitude_pct": 5.92,
       "pct": -4.03,
       "change": -0.047,
-      "turnover_pct": 6.1
+      "turnover_pct": 5.99
     },
     {
       "date": "2026-06-01",
@@ -13886,7 +13886,7 @@
       "amplitude_pct": 2.86,
       "pct": -1.43,
       "change": -0.016,
-      "turnover_pct": 4.46
+      "turnover_pct": 4.38
     },
     {
       "date": "2026-06-02",
@@ -13899,7 +13899,7 @@
       "amplitude_pct": 2.45,
       "pct": 1.81,
       "change": 0.02,
-      "turnover_pct": 5.37
+      "turnover_pct": 5.28
     },
     {
       "date": "2026-06-03",
@@ -13912,7 +13912,7 @@
       "amplitude_pct": 3.12,
       "pct": 0.45,
       "change": 0.005,
-      "turnover_pct": 4.68
+      "turnover_pct": 4.6
     },
     {
       "date": "2026-06-04",
@@ -13925,7 +13925,7 @@
       "amplitude_pct": 3.19,
       "pct": 0.18,
       "change": 0.002,
-      "turnover_pct": 3.93
+      "turnover_pct": 3.86
     },
     {
       "date": "2026-06-05",
@@ -13938,7 +13938,7 @@
       "amplitude_pct": 8.15,
       "pct": 3.01,
       "change": 0.034,
-      "turnover_pct": 9.01
+      "turnover_pct": 8.86
     },
     {
       "date": "2026-06-08",
@@ -13951,7 +13951,7 @@
       "amplitude_pct": 5.33,
       "pct": 0.43,
       "change": 0.005,
-      "turnover_pct": 9.41
+      "turnover_pct": 9.25
     },
     {
       "date": "2026-06-09",
@@ -13964,7 +13964,7 @@
       "amplitude_pct": 2.57,
       "pct": 0.94,
       "change": 0.011,
-      "turnover_pct": 5.94
+      "turnover_pct": 5.83
     },
     {
       "date": "2026-06-10",
@@ -13977,7 +13977,7 @@
       "amplitude_pct": 5.0,
       "pct": -3.99,
       "change": -0.047,
-      "turnover_pct": 6.25
+      "turnover_pct": 6.14
     },
     {
       "date": "2026-06-11",
@@ -13990,7 +13990,7 @@
       "amplitude_pct": 3.18,
       "pct": -3.71,
       "change": -0.042,
-      "turnover_pct": 5.82
+      "turnover_pct": 5.72
     },
     {
       "date": "2026-06-12",
@@ -14003,7 +14003,7 @@
       "amplitude_pct": 4.86,
       "pct": -0.28,
       "change": -0.003,
-      "turnover_pct": 4.55
+      "turnover_pct": 4.47
     },
     {
       "date": "2026-06-15",
@@ -14016,7 +14016,7 @@
       "amplitude_pct": 3.13,
       "pct": 3.13,
       "change": 0.034,
-      "turnover_pct": 3.73
+      "turnover_pct": 3.66
     },
     {
       "date": "2026-06-16",
@@ -14029,7 +14029,7 @@
       "amplitude_pct": 2.77,
       "pct": 1.87,
       "change": 0.021,
-      "turnover_pct": 3.7
+      "turnover_pct": 3.64
     },
     {
       "date": "2026-06-17",
@@ -14042,7 +14042,7 @@
       "amplitude_pct": 2.1,
       "pct": 0.18,
       "change": 0.002,
-      "turnover_pct": 3.3
+      "turnover_pct": 3.24
     },
     {
       "date": "2026-06-18",
@@ -14055,7 +14055,7 @@
       "amplitude_pct": 3.5,
       "pct": 2.27,
       "change": 0.026,
-      "turnover_pct": 4.56
+      "turnover_pct": 4.48
     },
     {
       "date": "2026-06-22",
@@ -14068,7 +14068,7 @@
       "amplitude_pct": 4.96,
       "pct": -1.37,
       "change": -0.016,
-      "turnover_pct": 5.57
+      "turnover_pct": 5.48
     },
     {
       "date": "2026-06-23",
@@ -14081,7 +14081,7 @@
       "amplitude_pct": 3.73,
       "pct": -1.47,
       "change": -0.017,
-      "turnover_pct": 3.83
+      "turnover_pct": 3.76
     },
     {
       "date": "2026-06-24",
@@ -14094,7 +14094,7 @@
       "amplitude_pct": 3.34,
       "pct": 0.79,
       "change": 0.009,
-      "turnover_pct": 3.54
+      "turnover_pct": 3.47
     },
     {
       "date": "2026-06-25",
@@ -14107,7 +14107,7 @@
       "amplitude_pct": 3.14,
       "pct": -0.44,
       "change": -0.005,
-      "turnover_pct": 3.36
+      "turnover_pct": 3.3
     },
     {
       "date": "2026-06-26",
@@ -14120,7 +14120,7 @@
       "amplitude_pct": 4.21,
       "pct": -3.86,
       "change": -0.044,
-      "turnover_pct": 3.84
+      "turnover_pct": 3.78
     },
     {
       "date": "2026-06-29",
@@ -14133,7 +14133,7 @@
       "amplitude_pct": 4.56,
       "pct": -0.55,
       "change": -0.006,
-      "turnover_pct": 4.04
+      "turnover_pct": 3.97
     },
     {
       "date": "2026-06-30",
@@ -14146,7 +14146,7 @@
       "amplitude_pct": 5.96,
       "pct": 5.41,
       "change": 0.059,
-      "turnover_pct": 5.11
+      "turnover_pct": 5.02
     },
     {
       "date": "2026-07-01",
@@ -14159,7 +14159,7 @@
       "amplitude_pct": 3.13,
       "pct": 0.17,
       "change": 0.002,
-      "turnover_pct": 5.11
+      "turnover_pct": 5.02
     },
     {
       "date": "2026-07-02",
@@ -14172,7 +14172,7 @@
       "amplitude_pct": 4.17,
       "pct": -2.17,
       "change": -0.025,
-      "turnover_pct": 5.49
+      "turnover_pct": 5.39
     },
     {
       "date": "2026-07-03",
@@ -14185,7 +14185,7 @@
       "amplitude_pct": 9.32,
       "pct": 6.74,
       "change": 0.076,
-      "turnover_pct": 9.69
+      "turnover_pct": 9.53
     },
     {
       "date": "2026-07-06",
@@ -14198,7 +14198,7 @@
       "amplitude_pct": 4.32,
       "pct": -4.32,
       "change": -0.052,
-      "turnover_pct": 9.0
+      "turnover_pct": 8.84
     },
     {
       "date": "2026-07-07",
@@ -14211,7 +14211,7 @@
       "amplitude_pct": 5.04,
       "pct": -1.39,
       "change": -0.016,
-      "turnover_pct": 5.92
+      "turnover_pct": 5.82
     },
     {
       "date": "2026-07-08",
@@ -14224,7 +14224,7 @@
       "amplitude_pct": 4.32,
       "pct": -4.49,
       "change": -0.051,
-      "turnover_pct": 5.8
+      "turnover_pct": 5.7
     },
     {
       "date": "2026-07-09",
@@ -14237,7 +14237,7 @@
       "amplitude_pct": 4.34,
       "pct": 2.31,
       "change": 0.025,
-      "turnover_pct": 5.14
+      "turnover_pct": 5.05
     },
     {
       "date": "2026-07-10",
@@ -14250,7 +14250,7 @@
       "amplitude_pct": 3.7,
       "pct": -0.09,
       "change": -0.001,
-      "turnover_pct": 5.37
+      "turnover_pct": 5.27
     },
     {
       "date": "2026-07-13",
@@ -14263,7 +14263,7 @@
       "amplitude_pct": 4.96,
       "pct": -5.96,
       "change": -0.066,
-      "turnover_pct": 5.66
+      "turnover_pct": 5.56
     },
     {
       "date": "2026-07-14",
@@ -14276,7 +14276,7 @@
       "amplitude_pct": 3.84,
       "pct": 0.77,
       "change": 0.008,
-      "turnover_pct": 4.06
+      "turnover_pct": 3.99
     },
     {
       "date": "2026-07-15",
@@ -14289,7 +14289,7 @@
       "amplitude_pct": 3.24,
       "pct": -0.38,
       "change": -0.004,
-      "turnover_pct": 3.07
+      "turnover_pct": 3.02
     },
     {
       "date": "2026-07-16",
@@ -14302,7 +14302,7 @@
       "amplitude_pct": 3.44,
       "pct": -1.63,
       "change": -0.017,
-      "turnover_pct": 3.52
+      "turnover_pct": 3.46
     },
     {
       "date": "2026-07-17",
@@ -14315,7 +14315,7 @@
       "amplitude_pct": 7.09,
       "pct": -6.03,
       "change": -0.062,
-      "turnover_pct": 5.85
+      "turnover_pct": 5.75
     },
     {
       "date": "2026-07-20",
@@ -14328,7 +14328,7 @@
       "amplitude_pct": 6.83,
       "pct": -3.41,
       "change": -0.033,
-      "turnover_pct": 5.08
+      "turnover_pct": 5.0
     },
     {
       "date": "2026-07-21",
@@ -14341,7 +14341,7 @@
       "amplitude_pct": 6.96,
       "pct": 4.71,
       "change": 0.044,
-      "turnover_pct": 4.82
+      "turnover_pct": 4.74
     },
     {
       "date": "2026-07-22",
@@ -14354,7 +14354,7 @@
       "amplitude_pct": 2.76,
       "pct": -1.74,
       "change": -0.017,
-      "turnover_pct": 3.68
+      "turnover_pct": 3.61
     },
     {
       "date": "2026-07-23",
@@ -14367,7 +14367,7 @@
       "amplitude_pct": 1.77,
       "pct": -0.73,
       "change": -0.007,
-      "turnover_pct": 2.76
+      "turnover_pct": 2.71
     },
     {
       "date": "2026-07-24",
@@ -14380,7 +14380,7 @@
       "amplitude_pct": 2.31,
       "pct": -3.14,
       "change": -0.03,
-      "turnover_pct": 3.27
+      "turnover_pct": 3.21
     },
     {
       "date": "2026-07-27",
@@ -14393,7 +14393,7 @@
       "amplitude_pct": 2.92,
       "pct": 2.38,
       "change": 0.022,
-      "turnover_pct": 3.21
+      "turnover_pct": 3.16
     },
     {
       "date": "2026-07-28",
@@ -14406,7 +14406,7 @@
       "amplitude_pct": 2.96,
       "pct": -2.43,
       "change": -0.023,
-      "turnover_pct": 3.36
+      "turnover_pct": 3.3
     },
     {
       "date": "2026-07-29",
@@ -14419,7 +14419,7 @@
       "amplitude_pct": 3.58,
       "pct": 0.33,
       "change": 0.003,
-      "turnover_pct": 4.22
+      "turnover_pct": 4.15
     },
     {
       "date": "2026-07-30",
@@ -14432,7 +14432,7 @@
       "amplitude_pct": 3.56,
       "pct": -2.48,
       "change": -0.023,
-      "turnover_pct": 4.4
+      "turnover_pct": 4.32
     },
     {
       "date": "2026-07-31",
@@ -14445,7 +14445,7 @@
       "amplitude_pct": 4.54,
       "pct": 5.87,
       "change": 0.053,
-      "turnover_pct": 7.16
+      "turnover_pct": 7.03
     },
     {
       "date": "2026-08-03",
@@ -14458,7 +14458,7 @@
       "amplitude_pct": 2.51,
       "pct": 0.94,
       "change": 0.009,
-      "turnover_pct": 4.33
+      "turnover_pct": 4.26
     },
     {
       "date": "2026-08-04",
@@ -14471,7 +14471,7 @@
       "amplitude_pct": 3.32,
       "pct": 2.59,
       "change": 0.025,
-      "turnover_pct": 4.07
+      "turnover_pct": 4.0
     },
     {
       "date": "2026-08-05",
@@ -14484,7 +14484,7 @@
       "amplitude_pct": 3.64,
       "pct": 2.73,
       "change": 0.027,
-      "turnover_pct": 4.42
+      "turnover_pct": 4.35
     },
     {
       "date": "2026-08-06",
@@ -14497,7 +14497,7 @@
       "amplitude_pct": 2.26,
       "pct": -0.79,
       "change": -0.008,
-      "turnover_pct": 4.3
+      "turnover_pct": 4.23
     },
     {
       "date": "2026-08-07",
@@ -14510,7 +14510,7 @@
       "amplitude_pct": 2.68,
       "pct": 1.19,
       "change": 0.012,
-      "turnover_pct": 4.04
+      "turnover_pct": 3.97
     },
     {
       "date": "2026-08-10",
@@ -14523,7 +14523,7 @@
       "amplitude_pct": 2.25,
       "pct": -0.98,
       "change": -0.01,
-      "turnover_pct": 3.26
+      "turnover_pct": 3.2
     },
     {
       "date": "2026-08-11",
@@ -14536,7 +14536,7 @@
       "amplitude_pct": 3.46,
       "pct": 0.99,
       "change": 0.01,
-      "turnover_pct": 4.15
+      "turnover_pct": 4.08
     },
     {
       "date": "2026-08-12",
@@ -14549,7 +14549,7 @@
       "amplitude_pct": 1.18,
       "pct": -0.49,
       "change": -0.005,
-      "turnover_pct": 2.22
+      "turnover_pct": 2.19
     },
     {
       "date": "2026-08-13",
@@ -14562,7 +14562,7 @@
       "amplitude_pct": 3.05,
       "pct": -1.67,
       "change": -0.017,
-      "turnover_pct": 3.57
+      "turnover_pct": 3.5
     },
     {
       "date": "2026-08-14",
@@ -14575,7 +14575,7 @@
       "amplitude_pct": 1.9,
       "pct": 0.2,
       "change": 0.002,
-      "turnover_pct": 2.91
+      "turnover_pct": 2.86
     },
     {
       "date": "2026-08-17",
@@ -14588,7 +14588,7 @@
       "amplitude_pct": 2.7,
       "pct": 2.2,
       "change": 0.022,
-      "turnover_pct": 3.44
+      "turnover_pct": 3.38
     },
     {
       "date": "2026-08-18",
@@ -14601,7 +14601,7 @@
       "amplitude_pct": 2.54,
       "pct": 1.37,
       "change": 0.014,
-      "turnover_pct": 4.12
+      "turnover_pct": 4.04
     },
     {
       "date": "2026-08-19",
@@ -14614,7 +14614,7 @@
       "amplitude_pct": 6.56,
       "pct": -7.81,
       "change": -0.081,
-      "turnover_pct": 8.48
+      "turnover_pct": 8.33
     },
     {
       "date": "2026-08-20",
@@ -14627,7 +14627,7 @@
       "amplitude_pct": 1.67,
       "pct": -0.42,
       "change": -0.004,
-      "turnover_pct": 3.17
+      "turnover_pct": 3.12
     },
     {
       "date": "2026-08-21",
@@ -14640,7 +14640,7 @@
       "amplitude_pct": 2.0,
       "pct": 0.63,
       "change": 0.006,
-      "turnover_pct": 2.55
+      "turnover_pct": 2.51
     },
     {
       "date": "2026-08-24",
@@ -14653,7 +14653,7 @@
       "amplitude_pct": 3.76,
       "pct": -2.71,
       "change": -0.026,
-      "turnover_pct": 2.69
+      "turnover_pct": 2.65
     },
     {
       "date": "2026-08-25",
@@ -14666,7 +14666,7 @@
       "amplitude_pct": 2.9,
       "pct": 1.82,
       "change": 0.017,
-      "turnover_pct": 3.01
+      "turnover_pct": 2.95
     },
     {
       "date": "2026-08-26",
@@ -14679,7 +14679,7 @@
       "amplitude_pct": 1.9,
       "pct": -0.21,
       "change": -0.002,
-      "turnover_pct": 1.84
+      "turnover_pct": 1.81
     },
     {
       "date": "2026-08-27",
@@ -14692,7 +14692,7 @@
       "amplitude_pct": 2.32,
       "pct": 1.9,
       "change": 0.018,
-      "turnover_pct": 2.28
+      "turnover_pct": 2.24
     },
     {
       "date": "2026-08-28",
@@ -14705,7 +14705,7 @@
       "amplitude_pct": 1.97,
       "pct": -1.14,
       "change": -0.011,
-      "turnover_pct": 2.89
+      "turnover_pct": 2.84
     },
     {
       "date": "2026-08-31",
@@ -14718,7 +14718,7 @@
       "amplitude_pct": 3.88,
       "pct": 1.99,
       "change": 0.019,
-      "turnover_pct": 3.1
+      "turnover_pct": 3.05
     },
     {
       "date": "2026-09-01",
@@ -14731,7 +14731,7 @@
       "amplitude_pct": 1.75,
       "pct": -0.92,
       "change": -0.009,
-      "turnover_pct": 2.28
+      "turnover_pct": 2.24
     },
     {
       "date": "2026-09-02",
@@ -14744,7 +14744,7 @@
       "amplitude_pct": 1.45,
       "pct": -1.76,
       "change": -0.017,
-      "turnover_pct": 1.54
+      "turnover_pct": 1.52
     },
     {
       "date": "2026-09-03",
@@ -14757,7 +14757,7 @@
       "amplitude_pct": 1.69,
       "pct": 0.74,
       "change": 0.007,
-      "turnover_pct": 1.5
+      "turnover_pct": 1.48
     },
     {
       "date": "2026-09-04",
@@ -14770,7 +14770,7 @@
       "amplitude_pct": 3.88,
       "pct": -1.68,
       "change": -0.016,
-      "turnover_pct": 2.56
+      "turnover_pct": 2.52
     },
     {
       "date": "2026-09-07",
@@ -14783,7 +14783,7 @@
       "amplitude_pct": 2.56,
       "pct": 1.92,
       "change": 0.018,
-      "turnover_pct": 2.64
+      "turnover_pct": 2.59
     },
     {
       "date": "2026-09-08",
@@ -14796,7 +14796,7 @@
       "amplitude_pct": 1.57,
       "pct": -0.52,
       "change": -0.005,
-      "turnover_pct": 2.18
+      "turnover_pct": 2.14
     },
     {
       "date": "2026-09-09",
@@ -14809,7 +14809,7 @@
       "amplitude_pct": 1.89,
       "pct": -0.95,
       "change": -0.009,
-      "turnover_pct": 2.68
+      "turnover_pct": 2.64
     },
     {
       "date": "2026-09-10",
@@ -14822,7 +14822,7 @@
       "amplitude_pct": 1.38,
       "pct": -1.7,
       "change": -0.016,
-      "turnover_pct": 1.72
+      "turnover_pct": 1.69
     },
     {
       "date": "2026-09-11",
@@ -14835,7 +14835,7 @@
       "amplitude_pct": 2.7,
       "pct": -1.73,
       "change": -0.016,
-      "turnover_pct": 2.87
+      "turnover_pct": 2.82
     },
     {
       "date": "2026-09-14",
@@ -14848,7 +14848,7 @@
       "amplitude_pct": 2.64,
       "pct": 0.44,
       "change": 0.004,
-      "turnover_pct": 1.58
+      "turnover_pct": 1.55
     },
     {
       "date": "2026-09-15",
@@ -14861,7 +14861,7 @@
       "amplitude_pct": 1.53,
       "pct": -0.88,
       "change": -0.008,
-      "turnover_pct": 1.29
+      "turnover_pct": 1.26
     },
     {
       "date": "2026-09-16",
@@ -14874,7 +14874,7 @@
       "amplitude_pct": 2.32,
       "pct": 0.66,
       "change": 0.006,
-      "turnover_pct": 2.09
+      "turnover_pct": 2.06
     },
     {
       "date": "2026-09-17",
@@ -14887,7 +14887,7 @@
       "amplitude_pct": 1.75,
       "pct": 0.44,
       "change": 0.004,
-      "turnover_pct": 2.52
+      "turnover_pct": 2.47
     },
     {
       "date": "2026-09-18",
@@ -14900,7 +14900,7 @@
       "amplitude_pct": 1.75,
       "pct": 1.97,
       "change": 0.018,
-      "turnover_pct": 2.64
+      "turnover_pct": 2.59
     },
     {
       "date": "2026-09-21",
@@ -14913,7 +14913,7 @@
       "amplitude_pct": 1.61,
       "pct": 0.21,
       "change": 0.002,
-      "turnover_pct": 1.71
+      "turnover_pct": 1.68
     },
     {
       "date": "2026-09-22",
@@ -14926,7 +14926,7 @@
       "amplitude_pct": 1.71,
       "pct": -0.21,
       "change": -0.002,
-      "turnover_pct": 2.16
+      "turnover_pct": 2.12
     },
     {
       "date": "2026-09-23",
@@ -14939,7 +14939,7 @@
       "amplitude_pct": 1.07,
       "pct": -0.54,
       "change": -0.005,
-      "turnover_pct": 1.48
+      "turnover_pct": 1.46
     },
     {
       "date": "2026-09-24",
@@ -14952,7 +14952,7 @@
       "amplitude_pct": 2.05,
       "pct": -1.08,
       "change": -0.01,
-      "turnover_pct": 1.88
+      "turnover_pct": 1.84
     },
     {
       "date": "2026-09-28",
@@ -14965,7 +14965,7 @@
       "amplitude_pct": 3.16,
       "pct": -2.61,
       "change": -0.024,
-      "turnover_pct": 2.45
+      "turnover_pct": 2.4
     },
     {
       "date": "2026-09-29",
@@ -14978,7 +14978,7 @@
       "amplitude_pct": 2.01,
       "pct": 0.56,
       "change": 0.005,
-      "turnover_pct": 1.56
+      "turnover_pct": 1.53
     },
     {
       "date": "2026-09-30",
@@ -14991,7 +14991,7 @@
       "amplitude_pct": 1.33,
       "pct": -0.33,
       "change": -0.003,
-      "turnover_pct": 1.31
+      "turnover_pct": 1.29
     },
     {
       "date": "2026-10-08",
@@ -15004,7 +15004,7 @@
       "amplitude_pct": 4.24,
       "pct": -3.9,
       "change": -0.035,
-      "turnover_pct": 2.95
+      "turnover_pct": 2.9
     },
     {
       "date": "2026-10-09",
@@ -15017,7 +15017,7 @@
       "amplitude_pct": 4.29,
       "pct": 0.12,
       "change": 0.001,
-      "turnover_pct": 3.09
+      "turnover_pct": 3.03
     },
     {
       "date": "2026-10-12",
@@ -15030,7 +15030,7 @@
       "amplitude_pct": 2.2,
       "pct": -2.55,
       "change": -0.022,
-      "turnover_pct": 1.73
+      "turnover_pct": 1.7
     },
     {
       "date": "2026-10-13",
@@ -15043,7 +15043,7 @@
       "amplitude_pct": 3.57,
       "pct": -0.48,
       "change": -0.004,
-      "turnover_pct": 2.59
+      "turnover_pct": 2.55
     },
     {
       "date": "2026-10-14",
@@ -15056,7 +15056,7 @@
       "amplitude_pct": 2.87,
       "pct": -2.87,
       "change": -0.024,
-      "turnover_pct": 2.1
+      "turnover_pct": 2.07
     },
     {
       "date": "2026-10-15",
@@ -15069,7 +15069,7 @@
       "amplitude_pct": 2.34,
       "pct": -3.2,
       "change": -0.026,
-      "turnover_pct": 3.16
+      "turnover_pct": 3.11
     },
     {
       "date": "2026-10-16",
@@ -15082,7 +15082,7 @@
       "amplitude_pct": 2.92,
       "pct": 0.76,
       "change": 0.006,
-      "turnover_pct": 3.27
+      "turnover_pct": 3.21
     },
     {
       "date": "2026-10-19",
@@ -15095,7 +15095,7 @@
       "amplitude_pct": 5.04,
       "pct": 2.9,
       "change": 0.023,
-      "turnover_pct": 3.98
+      "turnover_pct": 3.92
     },
     {
       "date": "2026-10-20",
@@ -15108,7 +15108,7 @@
       "amplitude_pct": 4.9,
       "pct": 3.19,
       "change": 0.026,
-      "turnover_pct": 4.86
+      "turnover_pct": 4.77
     },
     {
       "date": "2026-10-21",
@@ -15121,7 +15121,7 @@
       "amplitude_pct": 1.43,
       "pct": -0.59,
       "change": -0.005,
-      "turnover_pct": 2.58
+      "turnover_pct": 2.53
     },
     {
       "date": "2026-10-22",
@@ -15134,7 +15134,7 @@
       "amplitude_pct": 2.75,
       "pct": -0.96,
       "change": -0.008,
-      "turnover_pct": 3.6
+      "turnover_pct": 3.53
     },
     {
       "date": "2026-10-23",
@@ -15147,7 +15147,20 @@
       "amplitude_pct": 9.53,
       "pct": 6.76,
       "change": 0.056,
-      "turnover_pct": 7.1
+      "turnover_pct": 6.98
+    },
+    {
+      "date": "2026-10-26",
+      "open": 0.878,
+      "close": 0.879,
+      "high": 0.894,
+      "low": 0.864,
+      "volume": 10025307.0,
+      "amount": 885078762.0,
+      "amplitude_pct": 3.39,
+      "pct": -0.68,
+      "change": -0.006,
+      "turnover_pct": 5.43
     }
   ]
 }
