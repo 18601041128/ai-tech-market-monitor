@@ -33655,11 +33655,24 @@
       "high": 203.8,
       "low": 189.58,
       "volume": 832914.0,
-      "amount": 16235916808.86,
+      "amount": 16235916808.0,
       "amplitude_pct": 7.26,
       "pct": -2.31,
       "change": -4.52,
       "turnover_pct": 6.64
+    },
+    {
+      "date": "2026-11-03",
+      "open": 185.0,
+      "close": 173.36,
+      "high": 190.19,
+      "low": 171.6,
+      "volume": 968171.0,
+      "amount": 17412910421.37,
+      "amplitude_pct": 9.71,
+      "pct": -9.46,
+      "change": -18.12,
+      "turnover_pct": 7.72
     }
   ]
 }
