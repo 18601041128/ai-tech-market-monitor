@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-03T18:44:18+08:00",
+  "fetched_at": "2026-11-03T20:42:53+08:00",
   "trading_date": "2026-11-03",
-  "runtime_seconds": 3.68,
+  "runtime_seconds": 4.12,
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 7,
-    "single_source": 20,
+    "verified_2_sources": 0,
+    "single_source": 27,
     "data_conflict": 0,
     "failed": 0
   },
@@ -32,15 +32,8 @@
       "amount": 320260000.0,
       "turnover_pct": 23.0,
       "source_time": "2026-11-03T16:14:57+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 0.767,
-        "secondary_pct": -6.35,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T15:34:57+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "300502": {
@@ -159,15 +152,8 @@
       "amount": 3066410000.0,
       "turnover_pct": 11.78,
       "source_time": "2026-11-03T16:14:59+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 0.403,
-        "secondary_pct": -7.36,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T16:11:35+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "601138": {
@@ -223,15 +209,8 @@
       "amount": 554880000.0,
       "turnover_pct": 3.54,
       "source_time": "2026-11-03T16:14:37+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 0.831,
-        "secondary_pct": -1.89,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T16:11:36+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "002008": {
@@ -340,15 +319,8 @@
       "amount": 64700000.0,
       "turnover_pct": 2.6,
       "source_time": "2026-11-03T16:14:53+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 1.352,
-        "secondary_pct": -2.45,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T16:11:53+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "002230": {
@@ -462,15 +434,8 @@
       "amount": 2544790000.0,
       "turnover_pct": 7.92,
       "source_time": "2026-11-03T16:14:51+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 0.754,
-        "secondary_pct": -5.16,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T16:11:45+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "002371": {
@@ -584,15 +549,8 @@
       "amount": 22455790000.0,
       "turnover_pct": 19.17,
       "source_time": "2026-11-03T16:14:50+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 1.215,
-        "secondary_pct": -3.57,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T16:11:34+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "588230": {
@@ -614,15 +572,8 @@
       "amount": 246870000.0,
       "turnover_pct": 18.35,
       "source_time": "2026-11-03T16:14:45+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 1.347,
-        "secondary_pct": -4.94,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-03T16:11:45+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-03"
     },
     "000988": {
