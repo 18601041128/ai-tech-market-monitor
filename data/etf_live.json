@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-06T15:01:33+08:00",
+  "fetched_at": "2026-11-06T16:24:23+08:00",
   "trading_date": "2026-11-06",
-  "runtime_seconds": 2.7,
+  "runtime_seconds": 4.07,
   "counts": {
     "expected": 27,
     "received": 27,
@@ -31,7 +31,7 @@
       "volume_raw": 3603527.0,
       "amount": 286870000.0,
       "turnover_pct": 20.53,
-      "source_time": "2026-11-06T15:01:09+08:00",
+      "source_time": "2026-11-06T16:14:45+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -39,7 +39,7 @@
         "secondary_pct": -4.56,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:09+08:00"
+        "secondary_source_time": "2026-11-06T15:34:09+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -72,7 +72,7 @@
       "volume_raw": 904489.0,
       "amount": 15277090000.0,
       "turnover_pct": 7.21,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:14:42+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -106,7 +106,7 @@
       "volume_raw": 541101.0,
       "amount": 23973460000.0,
       "turnover_pct": 4.88,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:14:54+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -135,7 +135,7 @@
       "volume_raw": 113859.0,
       "amount": 2432760000.0,
       "turnover_pct": 4.04,
-      "source_time": "2026-11-06T15:01:15+08:00",
+      "source_time": "2026-11-06T16:14:30+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -158,7 +158,7 @@
       "volume_raw": 71053775.0,
       "amount": 2866510000.0,
       "turnover_pct": 11.97,
-      "source_time": "2026-11-06T15:01:21+08:00",
+      "source_time": "2026-11-06T16:14:51+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -166,7 +166,7 @@
         "secondary_pct": -5.59,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:21+08:00"
+        "secondary_source_time": "2026-11-06T16:11:51+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -199,7 +199,7 @@
       "volume_raw": 1471561.0,
       "amount": 6033430000.0,
       "turnover_pct": 0.74,
-      "source_time": "2026-11-06T15:01:22+08:00",
+      "source_time": "2026-11-06T16:14:52+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -222,7 +222,7 @@
       "volume_raw": 7409790.0,
       "amount": 641490000.0,
       "turnover_pct": 3.97,
-      "source_time": "2026-11-06T15:01:22+08:00",
+      "source_time": "2026-11-06T16:14:54+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -230,7 +230,7 @@
         "secondary_pct": -3.15,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:22+08:00"
+        "secondary_source_time": "2026-11-06T16:11:52+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -258,7 +258,7 @@
       "volume_raw": 563102.0,
       "amount": 2930460000.0,
       "turnover_pct": 5.89,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:15:00+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -287,7 +287,7 @@
       "volume_raw": 238532.0,
       "amount": 1356510000.0,
       "turnover_pct": 0.99,
-      "source_time": "2026-11-06T15:01:06+08:00",
+      "source_time": "2026-11-06T16:14:15+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -316,7 +316,7 @@
       "volume_raw": 448118.0,
       "amount": 1515330000.0,
       "turnover_pct": 1.21,
-      "source_time": "2026-11-06T15:01:15+08:00",
+      "source_time": "2026-11-06T16:15:00+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -339,7 +339,7 @@
       "volume_raw": 477461.0,
       "amount": 67980000.0,
       "turnover_pct": 2.63,
-      "source_time": "2026-11-06T15:01:10+08:00",
+      "source_time": "2026-11-06T16:14:40+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -347,7 +347,7 @@
         "secondary_pct": -2.95,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:10+08:00"
+        "secondary_source_time": "2026-11-06T16:11:40+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -375,7 +375,7 @@
       "volume_raw": 228465.0,
       "amount": 879770000.0,
       "turnover_pct": 1.0,
-      "source_time": "2026-11-06T15:01:24+08:00",
+      "source_time": "2026-11-06T16:14:45+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -409,7 +409,7 @@
       "volume_raw": 229624.0,
       "amount": 1775570000.0,
       "turnover_pct": 1.57,
-      "source_time": "2026-11-06T15:01:01+08:00",
+      "source_time": "2026-11-06T16:14:40+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -438,7 +438,7 @@
       "volume_raw": 371229.0,
       "amount": 2049050000.0,
       "turnover_pct": 2.53,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:15:00+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -461,7 +461,7 @@
       "volume_raw": 33238693.0,
       "amount": 2776940000.0,
       "turnover_pct": 7.92,
-      "source_time": "2026-11-06T15:00:59+08:00",
+      "source_time": "2026-11-06T16:14:59+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -469,7 +469,7 @@
         "secondary_pct": -2.9,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:29+08:00"
+        "secondary_source_time": "2026-11-06T16:11:59+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -502,7 +502,7 @@
       "volume_raw": 139207.0,
       "amount": 7694420000.0,
       "turnover_pct": 1.91,
-      "source_time": "2026-11-06T15:01:15+08:00",
+      "source_time": "2026-11-06T16:14:30+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -531,7 +531,7 @@
       "volume_raw": 834262.0,
       "amount": 4380040000.0,
       "turnover_pct": 4.66,
-      "source_time": "2026-11-06T15:01:28+08:00",
+      "source_time": "2026-11-06T16:14:58+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -560,7 +560,7 @@
       "volume_raw": 920409.0,
       "amount": 4040820000.0,
       "turnover_pct": 6.07,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:14:36+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -583,7 +583,7 @@
       "volume_raw": 98028187.0,
       "amount": 12966160000.0,
       "turnover_pct": 9.04,
-      "source_time": "2026-11-06T15:01:22+08:00",
+      "source_time": "2026-11-06T16:14:52+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -591,7 +591,7 @@
         "secondary_pct": -2.36,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:22+08:00"
+        "secondary_source_time": "2026-11-06T16:11:52+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -613,7 +613,7 @@
       "volume_raw": 1753082.0,
       "amount": 256550000.0,
       "turnover_pct": 15.84,
-      "source_time": "2026-11-06T15:01:27+08:00",
+      "source_time": "2026-11-06T16:14:57+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
         "secondary_source": "eastmoney",
@@ -621,7 +621,7 @@
         "secondary_pct": -3.3,
         "price_diff": 0.0,
         "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-06T15:01:27+08:00"
+        "secondary_source_time": "2026-11-06T16:11:57+08:00"
       },
       "source_date": "2026-11-06"
     },
@@ -649,7 +649,7 @@
       "volume_raw": 334713.0,
       "amount": 2111880000.0,
       "turnover_pct": 3.33,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:14:45+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -678,7 +678,7 @@
       "volume_raw": 351828.0,
       "amount": 3196710000.0,
       "turnover_pct": 4.48,
-      "source_time": "2026-11-06T15:01:09+08:00",
+      "source_time": "2026-11-06T16:14:30+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -707,7 +707,7 @@
       "volume_raw": 174289.0,
       "amount": 1759200000.0,
       "turnover_pct": 9.14,
-      "source_time": "2026-11-06T15:00:01+08:00",
+      "source_time": "2026-11-06T16:14:51+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -730,7 +730,7 @@
       "volume_raw": 477042561.0,
       "amount": 772634570000.0,
       "turnover_pct": 0.98,
-      "source_time": "2026-11-06T15:01:01+08:00",
+      "source_time": "2026-11-06T16:14:01+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -750,10 +750,10 @@
       "high": 11303.22,
       "low": 11044.56,
       "prev_close": 11471.09,
-      "volume_raw": 563265508.0,
-      "amount": 876192080000.0,
-      "turnover_pct": 2.3,
-      "source_time": "2026-11-06T15:00:03+08:00",
+      "volume_raw": 569400962.0,
+      "amount": 885159900000.0,
+      "turnover_pct": 2.31,
+      "source_time": "2026-11-06T16:14:42+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -773,10 +773,10 @@
       "high": 2506.97,
       "low": 2438.72,
       "prev_close": 2566.8,
-      "volume_raw": 179697649.0,
-      "amount": 436520110000.0,
-      "turnover_pct": 3.33,
-      "source_time": "2026-11-06T15:00:03+08:00",
+      "volume_raw": 181680656.0,
+      "amount": 441068350000.0,
+      "turnover_pct": 3.34,
+      "source_time": "2026-11-06T16:14:57+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
@@ -799,7 +799,7 @@
       "volume_raw": 11262095.0,
       "amount": 89626590000.0,
       "turnover_pct": 1.71,
-      "source_time": "2026-11-06T15:01:03+08:00",
+      "source_time": "2026-11-06T16:14:13+08:00",
       "status": "single_source",
       "crosscheck": null,
       "source_date": "2026-11-06"
