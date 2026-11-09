@@ -69540,6 +69540,19 @@
       "pct": -4.41,
       "change": -2.42,
       "turnover_pct": 5.89
+    },
+    {
+      "date": "2026-11-09",
+      "open": 53.33,
+      "close": 52.92,
+      "high": 54.15,
+      "low": 52.15,
+      "volume": 424253.0,
+      "amount": 2261566496.26,
+      "amplitude_pct": 3.82,
+      "pct": 0.99,
+      "change": 0.52,
+      "turnover_pct": 4.43
     }
   ]
 }

@@ -77469,7 +77469,7 @@
       "amplitude_pct": 2.31,
       "pct": -2.94,
       "change": -334.71,
-      "turnover_pct": 1.24
+      "turnover_pct": 1.25
     },
     {
       "date": "2015-07-09",
@@ -77794,7 +77794,7 @@
       "amplitude_pct": 2.1,
       "pct": -1.55,
       "change": -205.99,
-      "turnover_pct": 1.15
+      "turnover_pct": 1.16
     },
     {
       "date": "2015-08-13",
@@ -84463,7 +84463,7 @@
       "amplitude_pct": 0.83,
       "pct": 0.82,
       "change": 90.43,
-      "turnover_pct": 0.83
+      "turnover_pct": 0.84
     },
     {
       "date": "2017-09-19",
@@ -92081,7 +92081,7 @@
       "amplitude_pct": 2.4,
       "pct": 2.43,
       "change": 273.49,
-      "turnover_pct": 2.23
+      "turnover_pct": 2.24
     },
     {
       "date": "2020-02-21",
@@ -93251,7 +93251,7 @@
       "amplitude_pct": 1.64,
       "pct": 1.33,
       "change": 163.77,
-      "turnover_pct": 2.08
+      "turnover_pct": 2.09
     },
     {
       "date": "2020-07-06",
@@ -99764,7 +99764,7 @@
       "amplitude_pct": 1.52,
       "pct": 0.95,
       "change": 116.97,
-      "turnover_pct": 1.71
+      "turnover_pct": 1.72
     },
     {
       "date": "2022-07-27",
@@ -102611,7 +102611,7 @@
       "amplitude_pct": 0.8,
       "pct": 0.28,
       "change": 31.3,
-      "turnover_pct": 1.73
+      "turnover_pct": 1.74
     },
     {
       "date": "2023-06-21",
@@ -106862,7 +106862,7 @@
       "amplitude_pct": 1.8,
       "pct": -1.33,
       "change": -142.56,
-      "turnover_pct": 4.18
+      "turnover_pct": 4.19
     },
     {
       "date": "2024-10-30",
@@ -108097,7 +108097,7 @@
       "amplitude_pct": 0.95,
       "pct": -0.91,
       "change": -99.56,
-      "turnover_pct": 2.67
+      "turnover_pct": 2.68
     },
     {
       "date": "2025-03-21",
@@ -110255,7 +110255,7 @@
       "amplitude_pct": 1.65,
       "pct": 0.37,
       "change": 47.01,
-      "turnover_pct": 2.79
+      "turnover_pct": 2.8
     },
     {
       "date": "2025-11-25",
@@ -113246,6 +113246,19 @@
       "pct": -2.57,
       "change": -295.31,
       "turnover_pct": 2.31
+    },
+    {
+      "date": "2026-11-09",
+      "open": 11273.28,
+      "close": 11145.49,
+      "high": 11311.2,
+      "low": 11145.49,
+      "volume": 514921429.0,
+      "amount": 800080739807.69,
+      "amplitude_pct": 1.48,
+      "pct": -0.27,
+      "change": -30.29,
+      "turnover_pct": 2.09
     }
   ]
 }
