@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-11T20:35:53+08:00",
+  "fetched_at": "2026-11-11T22:03:44+08:00",
   "trading_date": "2026-11-11",
-  "runtime_seconds": 3.32,
+  "runtime_seconds": 4.04,
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 0,
-    "single_source": 27,
+    "verified_2_sources": 7,
+    "single_source": 20,
     "data_conflict": 0,
     "failed": 0
   },
@@ -32,8 +32,15 @@
       "amount": 252550000.0,
       "turnover_pct": 17.25,
       "source_time": "2026-11-11T16:14:45+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.877,
+        "secondary_pct": 6.17,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T15:34:09+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "300502": {
@@ -152,8 +159,15 @@
       "amount": 5353740000.0,
       "turnover_pct": 20.48,
       "source_time": "2026-11-11T16:14:55+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.459,
+        "secondary_pct": 8.0,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T16:11:55+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "601138": {
@@ -209,8 +223,15 @@
       "amount": 697320000.0,
       "turnover_pct": 4.13,
       "source_time": "2026-11-11T16:14:55+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.906,
+        "secondary_pct": 1.57,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T16:11:55+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "002008": {
@@ -319,8 +340,15 @@
       "amount": 103540000.0,
       "turnover_pct": 3.96,
       "source_time": "2026-11-11T16:14:43+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.445,
+        "secondary_pct": 0.98,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T16:11:43+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "002230": {
@@ -434,8 +462,15 @@
       "amount": 2993530000.0,
       "turnover_pct": 8.17,
       "source_time": "2026-11-11T16:14:45+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.888,
+        "secondary_pct": 4.1,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T16:12:01+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "002371": {
@@ -549,8 +584,15 @@
       "amount": 9275530000.0,
       "turnover_pct": 6.37,
       "source_time": "2026-11-11T16:14:58+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.375,
+        "secondary_pct": 2.84,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T16:11:58+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "588230": {
@@ -572,8 +614,15 @@
       "amount": 255830000.0,
       "turnover_pct": 14.36,
       "source_time": "2026-11-11T16:14:54+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.543,
+        "secondary_pct": 1.98,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-11T16:12:01+08:00"
+      },
       "source_date": "2026-11-11"
     },
     "000988": {
