@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-11T22:03:44+08:00",
+  "fetched_at": "2026-11-11T23:02:20+08:00",
   "trading_date": "2026-11-11",
-  "runtime_seconds": 4.04,
+  "runtime_seconds": 3.27,
   "counts": {
     "expected": 27,
     "received": 27,
@@ -157,7 +157,7 @@
       "prev_close": 0.425,
       "volume_raw": 120316656.0,
       "amount": 5353740000.0,
-      "turnover_pct": 20.48,
+      "turnover_pct": 19.7,
       "source_time": "2026-11-11T16:14:55+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
@@ -221,7 +221,7 @@
       "prev_close": 0.892,
       "volume_raw": 7742484.0,
       "amount": 697320000.0,
-      "turnover_pct": 4.13,
+      "turnover_pct": 4.14,
       "source_time": "2026-11-11T16:14:55+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
@@ -338,7 +338,7 @@
       "prev_close": 1.431,
       "volume_raw": 720458.0,
       "amount": 103540000.0,
-      "turnover_pct": 3.96,
+      "turnover_pct": 4.01,
       "source_time": "2026-11-11T16:14:43+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
@@ -460,7 +460,7 @@
       "prev_close": 0.853,
       "volume_raw": 34437946.0,
       "amount": 2993530000.0,
-      "turnover_pct": 8.17,
+      "turnover_pct": 8.08,
       "source_time": "2026-11-11T16:14:45+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
@@ -582,7 +582,7 @@
       "prev_close": 1.337,
       "volume_raw": 68588207.0,
       "amount": 9275530000.0,
-      "turnover_pct": 6.37,
+      "turnover_pct": 6.38,
       "source_time": "2026-11-11T16:14:58+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
@@ -612,7 +612,7 @@
       "prev_close": 1.513,
       "volume_raw": 1675732.0,
       "amount": 255830000.0,
-      "turnover_pct": 14.36,
+      "turnover_pct": 13.72,
       "source_time": "2026-11-11T16:14:54+08:00",
       "status": "verified_2_sources",
       "crosscheck": {
