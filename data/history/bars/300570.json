@@ -31267,7 +31267,7 @@
       "amplitude_pct": 10.3,
       "pct": -10.25,
       "change": -11.71,
-      "turnover_pct": 9.95
+      "turnover_pct": 10.03
     },
     {
       "date": "2026-11-04",
@@ -31328,11 +31328,24 @@
       "high": 110.78,
       "low": 104.61,
       "volume": 177756.0,
-      "amount": 1911039850.09,
+      "amount": 1911039850.0,
       "amplitude_pct": 6.04,
       "pct": 4.54,
       "change": 4.64,
       "turnover_pct": 9.32
+    },
+    {
+      "date": "2026-11-11",
+      "open": 108.93,
+      "close": 125.0,
+      "high": 127.95,
+      "low": 107.77,
+      "volume": 354605.0,
+      "amount": 4224879540.33,
+      "amplitude_pct": 18.9,
+      "pct": 17.05,
+      "change": 18.21,
+      "turnover_pct": 18.59
     }
   ]
 }

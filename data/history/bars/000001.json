@@ -59204,7 +59204,7 @@
       "amplitude_pct": 1.03,
       "pct": 1.38,
       "change": 43.39,
-      "turnover_pct": 0.43
+      "turnover_pct": 0.42
     },
     {
       "date": "2009-07-16",
@@ -62558,7 +62558,7 @@
       "amplitude_pct": 1.86,
       "pct": 0.44,
       "change": 11.52,
-      "turnover_pct": 0.28
+      "turnover_pct": 0.27
     },
     {
       "date": "2010-08-05",
@@ -63143,7 +63143,7 @@
       "amplitude_pct": 2.74,
       "pct": -0.54,
       "change": -15.93,
-      "turnover_pct": 0.65
+      "turnover_pct": 0.64
     },
     {
       "date": "2010-10-19",
@@ -71840,7 +71840,7 @@
       "amplitude_pct": 2.22,
       "pct": -1.52,
       "change": -30.75,
-      "turnover_pct": 0.22
+      "turnover_pct": 0.21
     },
     {
       "date": "2013-07-22",
@@ -101077,7 +101077,7 @@
       "amplitude_pct": 0.83,
       "pct": -0.13,
       "change": -3.98,
-      "turnover_pct": 0.51
+      "turnover_pct": 0.5
     },
     {
       "date": "2022-10-19",
@@ -107668,7 +107668,7 @@
       "amplitude_pct": 1.88,
       "pct": 0.67,
       "change": 22.16,
-      "turnover_pct": 1.29
+      "turnover_pct": 1.28
     },
     {
       "date": "2024-11-20",
@@ -110918,7 +110918,7 @@
       "amplitude_pct": 0.84,
       "pct": 0.34,
       "change": 13.34,
-      "turnover_pct": 0.93
+      "turnover_pct": 0.92
     },
     {
       "date": "2025-12-01",
@@ -111763,7 +111763,7 @@
       "amplitude_pct": 0.56,
       "pct": 0.25,
       "change": 10.29,
-      "turnover_pct": 1.46
+      "turnover_pct": 1.45
     },
     {
       "date": "2026-03-12",
@@ -113883,6 +113883,19 @@
       "pct": 0.08,
       "change": 2.93,
       "turnover_pct": 0.83
+    },
+    {
+      "date": "2026-11-11",
+      "open": 3655.66,
+      "close": 3680.64,
+      "high": 3689.65,
+      "low": 3650.31,
+      "volume": 433120083.0,
+      "amount": 736154792000.5,
+      "amplitude_pct": 1.07,
+      "pct": 0.46,
+      "change": 16.92,
+      "turnover_pct": 0.89
     }
   ]
 }
