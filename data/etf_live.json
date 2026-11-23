@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-23T17:37:44+08:00",
+  "fetched_at": "2026-11-23T18:39:31+08:00",
   "trading_date": "2026-11-23",
-  "runtime_seconds": 3.16,
+  "runtime_seconds": 3.88,
   "counts": {
     "expected": 27,
     "received": 27,
