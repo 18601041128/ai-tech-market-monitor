@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-23T18:39:31+08:00",
+  "fetched_at": "2026-11-23T20:17:17+08:00",
   "trading_date": "2026-11-23",
-  "runtime_seconds": 3.88,
+  "runtime_seconds": 7.15,
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 7,
-    "single_source": 20,
+    "verified_2_sources": 6,
+    "single_source": 21,
     "data_conflict": 0,
     "failed": 0
   },
@@ -462,15 +462,8 @@
       "amount": 3274750000.0,
       "turnover_pct": 9.5,
       "source_time": "2026-11-23T16:14:39+08:00",
-      "status": "verified_2_sources",
-      "crosscheck": {
-        "secondary_source": "eastmoney",
-        "secondary_price": 0.822,
-        "secondary_pct": 0.86,
-        "price_diff": 0.0,
-        "pct_diff": 0.0,
-        "secondary_source_time": "2026-11-23T16:11:33+08:00"
-      },
+      "status": "single_source",
+      "crosscheck": null,
       "source_date": "2026-11-23"
     },
     "002371": {
