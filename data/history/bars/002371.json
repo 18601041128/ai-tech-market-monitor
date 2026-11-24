@@ -783,6 +783,19 @@
       "pct": null,
       "change": null,
       "turnover_pct": null
+    },
+    {
+      "date": "2026-11-24",
+      "open": 559.99,
+      "close": 547.24,
+      "high": 560.28,
+      "low": 541.09,
+      "volume": 112972.0,
+      "amount": null,
+      "amplitude_pct": null,
+      "pct": null,
+      "change": null,
+      "turnover_pct": null
     }
   ]
 }
