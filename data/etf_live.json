@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "timezone": "Asia/Shanghai",
-  "fetched_at": "2026-11-26T17:57:09+08:00",
+  "fetched_at": "2026-11-26T18:44:54+08:00",
   "trading_date": "2026-11-26",
-  "runtime_seconds": 4.83,
+  "runtime_seconds": 4.03,
   "counts": {
     "expected": 27,
     "received": 27,
-    "verified_2_sources": 3,
-    "single_source": 24,
+    "verified_2_sources": 7,
+    "single_source": 20,
     "data_conflict": 0,
     "failed": 0
   },
@@ -32,8 +32,15 @@
       "amount": 331490000.0,
       "turnover_pct": 24.46,
       "source_time": "2026-11-26T16:14:39+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.72,
+        "secondary_pct": 1.41,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-26T15:34:39+08:00"
+      },
       "source_date": "2026-11-26"
     },
     "300502": {
@@ -152,8 +159,15 @@
       "amount": 2487040000.0,
       "turnover_pct": 10.71,
       "source_time": "2026-11-26T16:14:37+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.383,
+        "secondary_pct": 2.68,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-26T16:11:37+08:00"
+      },
       "source_date": "2026-11-26"
     },
     "601138": {
@@ -209,8 +223,15 @@
       "amount": 456820000.0,
       "turnover_pct": 3.21,
       "source_time": "2026-11-26T16:14:47+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 0.759,
+        "secondary_pct": -2.19,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-26T16:11:40+08:00"
+      },
       "source_date": "2026-11-26"
     },
     "002008": {
@@ -593,8 +614,15 @@
       "amount": 229590000.0,
       "turnover_pct": 19.43,
       "source_time": "2026-11-26T16:14:47+08:00",
-      "status": "single_source",
-      "crosscheck": null,
+      "status": "verified_2_sources",
+      "crosscheck": {
+        "secondary_source": "eastmoney",
+        "secondary_price": 1.191,
+        "secondary_pct": -1.16,
+        "price_diff": 0.0,
+        "pct_diff": 0.0,
+        "secondary_source_time": "2026-11-26T16:11:47+08:00"
+      },
       "source_date": "2026-11-26"
     },
     "000988": {
